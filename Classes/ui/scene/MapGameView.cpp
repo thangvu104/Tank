@@ -5,6 +5,7 @@
 MapGameView::MapGameView(cocos2d::TMXTiledMap* tileMap)
 {
     convertTileMapToMap2D(tileMap);
+    addPhysicsBoudingBox(tileMap);
 }
 
 void MapGameView::convertTileMapToMap2D(TMXTiledMap* tileMap)
@@ -56,12 +57,12 @@ void MapGameView::convertTileMapToMap2D(TMXTiledMap* tileMap)
         }
         listMap.push_back(lineInMap);
     }
-   
+    listMap;
     // end convert tile map
 
 
     //enemy
-    for (size_t i = 0; i < 500; i++)
+    for (size_t i = 0; i < 1; i++)
     {
         auto m_random = cocos2d::RandomHelper::random_int(1, 3);
         if (m_random == 1) {
@@ -75,5 +76,44 @@ void MapGameView::convertTileMapToMap2D(TMXTiledMap* tileMap)
         }
     }
     //end enemy
+
+
+
+    
 }
+
+void MapGameView::addPhysicsBoudingBox(cocos2d::TMXTiledMap* tileMap)
+{
+    for (size_t x = 0; x < MAP_SIZE_WIDTH; x++)
+    {
+
+        for (size_t y = 0; y < MAP_SIZE_HEIGHT; y++)
+        {
+            if (listMap[x][y] > 0 && listMap[x][y] < 1000) {
+                auto wallBody = PhysicsBody::createBox(Size(TILE_SIZE - 1, TILE_SIZE -1 ));
+                wallBody->setContactTestBitmask(true);
+                wallBody->setDynamic(false);
+
+                if (listMap[x][y] == 1) {
+                    wallBody->setCollisionBitmask(COLLISION_BITMASK_GOLD_POINT);
+                }
+                else if (listMap[x][y] >= 33 && listMap[x][y] <= 50) {
+                    wallBody->setCollisionBitmask(COLLISION_BITMASK_EARTH_WALL);
+                }
+                else if (listMap[x][y] >= 129 && listMap[x][y] <= 177) {
+                    wallBody->setCollisionBitmask(COLLISION_BITMASK_IRON_WALL);
+                }
+
+
+                auto wallNode = Sprite::create();
+                wallNode->setPosition(Vec2(x * TILE_SIZE + TILE_SIZE/2,MAP_SIZE_HEIGHT * TILE_SIZE - y * TILE_SIZE - TILE_SIZE / 2));
+                //edgeNode->setAnchorPoint(Vec2(0,0));
+                wallNode->setPhysicsBody(wallBody);
+
+                tileMap->addChild(wallNode);
+            }
+        }
+    }
+}
+
 

@@ -15,6 +15,11 @@ public:
 
     std::vector<std::vector<int>> listMap;
     void convertTileMapToMap2D(cocos2d::TMXTiledMap* tileMap);
+
+    void addPhysicsBoudingBox(cocos2d::TMXTiledMap* tileMap);
+
+
+   
 };
 
 #endif // __MAP_GAME_VIEW_H__

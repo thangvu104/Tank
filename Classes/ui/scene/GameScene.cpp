@@ -46,19 +46,62 @@ bool GameScene::init()
     mapGame = new MapGameView(m_mapGame);
     //end map game
 
-    auto edgeBody = PhysicsBody::createEdgeBox(m_mapGame->getContentSize() * 2, PHYSICSBODY_MATERIAL_DEFAULT, 3);
+    auto edgeBody = PhysicsBody::createEdgeBox(Size(m_mapGame->getContentSize().width * 2 + 3, m_mapGame->getContentSize().height * 2 + 3), PHYSICSBODY_MATERIAL_DEFAULT, 1);
     edgeBody->setCollisionBitmask(1);
     edgeBody->setContactTestBitmask(true);
 
     auto edgeNode = Sprite::create();
-    edgeNode->setAnchorPoint(Vec2(0,0));
     edgeNode->setPosition(Vec2(m_mapGame->getPositionX(), m_mapGame->getPositionY()));
     edgeNode->setPhysicsBody(edgeBody);
 
     this->addChild(edgeNode);
 
+    auto contactListener = EventListenerPhysicsContact::create();
+
+    contactListener->onContactBegin = CC_CALLBACK_1(GameScene::onContactBegin, this);
+    Director::getInstance()->getEventDispatcher()->addEventListenerWithSceneGraphPriority(contactListener, this);
+
     return true;
 }
+
+
+
+bool GameScene::onContactBegin(cocos2d::PhysicsContact& contact)
+{
+    PhysicsBody* a = contact.getShapeA()->getBody();
+    PhysicsBody* b = contact.getShapeB()->getBody();
+    auto abc = contact.getContactData();
+    //auto abcj = contact.
+    if ((a->getCollisionBitmask() == COLLISION_BITMASK_ENEMY_BULLET && b->getCollisionBitmask() != COLLISION_BITMASK_ENEMY_TANK && b->getCollisionBitmask() != COLLISION_BITMASK_ENEMY_BULLET)) {
+        //a->onRemove();
+        if (auto bullet = a->getNode())
+        {
+            bullet->removeFromParent();
+        }
+        if (b->getCollisionBitmask() == COLLISION_BITMASK_EARTH_WALL) {
+            if (auto bullet = b->getNode())
+            {
+                bullet->removeFromParent();
+            }
+        }
+    }
+    else if (b->getCollisionBitmask() == COLLISION_BITMASK_ENEMY_BULLET && a->getCollisionBitmask() != COLLISION_BITMASK_ENEMY_TANK && a->getCollisionBitmask() != COLLISION_BITMASK_ENEMY_BULLET) {
+        //b->onRemove();
+        if (auto bullet = b->getNode())
+        {
+            bullet->removeFromParent();
+        }
+        if (a->getCollisionBitmask() == COLLISION_BITMASK_EARTH_WALL) {
+            if (auto bullet = a->getNode())
+            {
+                bullet->removeFromParent();
+            }
+        }
+    }
+
+    return true;
+}
+
 
 
 

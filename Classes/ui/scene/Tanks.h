@@ -1,4 +1,5 @@
 #include "cocos2d.h"
+#include "Definations.h"
 
 enum tankState {
     ALIVE,
@@ -9,6 +10,7 @@ class Tanks : public cocos2d::Sprite
 {
 public:
     Tanks();
+    m_Direction m_moveDirection;
 
     cocos2d::Sprite* spawnTank(cocos2d::Vec2 entryPoint, cocos2d::TMXTiledMap* tileMap);
 
@@ -18,5 +20,5 @@ public:
     cocos2d::MoveTo* moveRight(cocos2d::Sprite* m_sprite);
 
 
-    void shoot();
+    void shoot(cocos2d::TMXTiledMap* tileMap, cocos2d::Sprite* m_sprite, m_Direction direction);
 };

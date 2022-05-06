@@ -8,14 +8,6 @@
 
 using namespace cocos2d;
 
-enum m_Direction {
-    DEFAULSE,
-    UP,
-    RIGHT,
-    DOWN,
-    LEFT
-};
-
 class GameScene : public cocos2d::Layer
 {
 public:
@@ -28,6 +20,7 @@ public:
         sceneWorld = world;
     }
 
+    bool onContactBegin(cocos2d::PhysicsContact& contact);
 
     //move button
     Vec2 m_originPositon;
