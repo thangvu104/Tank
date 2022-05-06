@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" tiledversion="1.0.1" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" nextobjectid="7">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <tileset firstgid="257" source="terrain-city.tsx"/>
+ <layer name="Terrain-0" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt0bENwCAMAEH234pskEwEJaJzg+xwJ1ku3PlbAwAAAPi3PudZdnXvnG/Z1elzVvTf2ftE/129z36v3me/63PWbX2qyf7vKH1y0wcAAOBOA6BcUd0=
+  </data>
+ </layer>
+ <layer name="Terrain-0-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt1U0KgCAQgNHuf7GCom2bauMJog6QCwUJSwYMh+F7MCTSYsbxp+sAAAAAAABs632MIabGudSwJOO1WRb1uGRsrZ65WRbvpOdBe3+k50F7f0rrHfs3hG9KY39K671k5r7+b62031xmLtJYT6k/p4/Lx/GIzcf+e3Zylt9HjftHSvt7ImW5PxbqifeX1vsKAAAAALS4AbW7MlE=
+  </data>
+ </layer>
+ <layer name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztmNENwjAMRLtK2QA2hA1gYvJTiVpc7aud1AU/KcpH5Ca6i2w38zRNlzZmMSPubTw+Zhkn11m88dc2bl9mxLON18cs4+Q6izde6lv+5PKHJdofdD/kPYnyXxLtD7of8p5E+S8pf7aJ9ofNb1o8i9Qb6W89J5vftHgWqTfS33rO8mc7niXaHy9IN2v+ic5XXpBu1vw2uh/QKH/W9K73qO7vzV/R59P6CZRXRuUTDeu5ltmb73vj9WfhrP70Rqv/2fKbhlb/z1J/0P9Kdn+0+1z+cPtFM9qfvflM0906s/uw61Y03a0zuw+7LrHq0uu+Rvtj1aVX/f03f1iy+8Pi1SVbPfHqclQ9QZQ/a7L6o/VdiNH9srafte9CjO6Xtf3KnzXZ/EFY807vPpz9n0JY807vPpz9n0J468JZ/bHGH+1P8dt43xWy4X1X2Eu0bqPea9D3onWLfg9g9yt/tjnanzexGTue
+  </data>
+ </layer>
+ <layer name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgEJAAAMA6C9f+nHGANNYAIAAAAAAAAAAACw59qBYQ8rfAAC
+  </data>
+ </layer>
+ <layer name="Terrain-2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt1UEKwCAMBVGv1t6gvf9h6loUq0R/IvNA3EnJFJISAAAAMO/K567cUT35vJU7KvrYas3T6t6tNU+rezf6aPqo5rvqfdV8V72v+r/Vfayd1qf3HbO87Af1Piqp+1pT9+2Jvv9LXvf/LPr47jPKe59Rp/UBAAAAAOCPDx57aIM=
+  </data>
+ </layer>
+ <objectgroup name="EntryPoints">
+  <object id="3" name="entry-2" x="192" y="0" width="32" height="32"/>
+  <object id="1" name="entry-1" x="48" y="0" width="32" height="32"/>
+  <object id="1" name="entry-3" x="384" y="0" width="32" height="32"/>
+ </objectgroup>
+</map>

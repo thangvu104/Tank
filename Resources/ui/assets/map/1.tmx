@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" infinite="0" parallaxoriginx="0.5" parallaxoriginy="0.5" nextlayerid="5" nextobjectid="18">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <tileset firstgid="257" source="terrain-city.tsx"/>
+ <layer id="1" name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztl8EJAzEMBK+VpIOkw6SDS8Xx0yxERifhlcIOCD/0MTs+n3wcQogsbqPu09qtjzxGPae1Wx9h5ys/Nux85ceGna/82GTn9xr1ntbufs5Rn2mVH18fkZ9afYR9P1XzE6WanyjyY/NvfqKw/WZTLd8o8pOLN8/d95t3f948d99v3v3h/ItU94P7x/kXqe5ntf8out9qszr/3f3s/v6Q7Pdj9H/i7SPZ78fo/8TbR9jv/+p+dvcRdr7yY8POV35s2PnKjw17Pq7mJ0pVP1fn6qp+rs7V7PPxi1W+3Vjl2w35yeELH3CicQ==
+  </data>
+ </layer>
+ <layer id="2" name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzTEBAAAMAiDtX9oW2wMFSAAAAAAAAAAAAAD41sNrKqwAAg==
+  </data>
+ </layer>
+ <objectgroup id="3" name="EntryPoints">
+  <object id="2" name="entry-3" x="384" y="0" width="32" height="32"/>
+  <object id="3" name="entry-2" x="192" y="0" width="32" height="32"/>
+  <object id="1" name="entry-1" x="0" y="0" width="32" height="32"/>
+ </objectgroup>
+</map>

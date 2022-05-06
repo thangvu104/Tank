@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>achievement_dialog_content_0</key>
+	<string>DESTROY % ENEMY TANKS</string>
+	<key>achievement_dialog_content_1</key>
+	<string>CLEAR STAGE %</string>
+	<key>achievement_dialog_content_2</key>
+	<string>UPGRADE TANK % TIMES</string>
+	<key>achievement_dialog_content_3</key>
+	<string>COLLECT % STARS</string>
+	<key>achievement_dialog_content_4</key>
+	<string>WIN % TIMES IN MODE PvP</string>
+	<key>achievement_dialog_reward_key</key>
+	<string>REWARD</string>
+	<key>achievement_dialog_task_key</key>
+	<string>TASK</string>
+	<key>achievement_dialog_title_key</key>
+	<string>ACHIEVEMENT</string>
+	<key>app_rate_dialog_decline_key</key>
+	<string>NO, THANKS</string>
+	<key>app_rate_dialog_rate_key</key>
+	<string>RATE IT NOW!</string>
+	<key>app_rate_dialog_remind_key</key>
+	<string>REMIND ME LATER</string>
+	<key>app_rate_dialog_title_key</key>
+	<string>IF YOU ENJOY PLAYING TANK 1990: THE FORCE, WOULD YOU MIND TAKING A MOMENT TO RATE IT? THANKS FOR YOUR SUPPORT!</string>
+	<key>bonus_1000_key</key>
+	<string>Instantly give you 1000 scores bonus.</string>
+	<key>bonus_2000_key</key>
+	<string>Instantly give you 2000 scores bonus.</string>
+	<key>bonus_3000_key</key>
+	<string>Instantly give you 3000 scores bonus.</string>
+	<key>bonus_500_key</key>
+	<string>Instantly give you 500 scores bonus.</string>
+	<key>bonus_amphibious_key</key>
+	<string>Give tank ability to move through water.</string>
+	<key>bonus_four_shot_key</key>
+	<string>Give your tank ability to fire bullet in 4 ways.
+This only effective in 20 seconds.</string>
+	<key>bonus_grenade_key</key>
+	<string>Destroys every enemy currently on the screen.
+No credit given for destroying the tanks wiped out by this powerup during the end-stage bonus points tally.</string>
+	<key>bonus_gun_key</key>
+	<string>Increase the number of bullets can be fired on the screen at a time.</string>
+	<key>bonus_helmet_key</key>
+	<string>Gives a temporary force field that shields from enemy shots, like the one at the beginning of every stage but last 10 seconds.</string>
+	<key>bonus_shovel_key</key>
+	<string>Turns the brick walls around the fortress to stone, preventing enemies from destroying it.
+Repairs all the damage previously done. This only effective in 10 seconds.</string>
+	<key>bonus_small_key</key>
+	<string>Shrink your tank by half but double its move speed and bullet speed.
+This only effective in 20 seconds.</string>
+	<key>bonus_star_key</key>
+	<string>Increases your offensive power by one tier (tiers are: default, second, third, and fourth). Power level only resets to default when you die.</string>
+	<key>bonus_tank_key</key>
+	<string>Gives an extra life.</string>
+	<key>bonus_time_key</key>
+	<string>The timer power-up temporarily freezes time in 20 seconds, stopping all enemy tanks' movement.
+Tip: enables the ability to harmlessly approach every tank and destroy them.</string>
+	<key>boss_factory_key</key>
+	<string>This factory specializes in manufacturing vehicles that explode, and be careful with cars that explode and destroy the factory as quickly as possible.</string>
+	<key>boss_helicopter_key</key>
+	<string>This helicopter will fly and shoot in your direction, avoiding the flow of bullets, moving and counter-attacking properly to destroy it.</string>
+	<key>boss_marine_key</key>
+	<string>This submarine will shoot toward the base, fire rockets at you. Therefore, destroy it as quickly as possible.</string>
+	<key>boss_tank_key</key>
+	<string>This tank will seek and annihilate you, and the best way to survive is to hide behind the buildings and shoot at the head of the car.</string>
+	<key>boss_train_key</key>
+	<string>This train train will shoot in a certain cycle, hiding and attacking at the right time is the best way to destroy it.</string>
+	<key>button_5_star_key</key>
+	<string>5 STARS</string>
+	<key>button_accept_key</key>
+	<string>ACCEPT</string>
+	<key>button_add_friend_key</key>
+	<string>ADD FRIEND</string>
+	<key>button_auto_key</key>
+	<string>AUTO</string>
+	<key>button_back_key</key>
+	<string>BACK</string>
+	<key>button_below_4_star_key</key>
+	<string>1-4 STARS</string>
+	<key>button_bonus_key</key>
+	<string>BONUS</string>
+	<key>button_buy_key</key>
+	<string>BUY</string>
+	<key>button_cancel_key</key>
+	<string>CANCEL</string>
+	<key>button_claim_key</key>
+	<string>CLAIM</string>
+	<key>button_continue_key</key>
+	<string>CONTINUE</string>
+	<key>button_done_key</key>
+	<string>DONE</string>
+	<key>button_double_reward_key</key>
+	<string>x2 DOLLAR</string>
+	<key>button_download_key</key>
+	<string>DOWNLOAD</string>
+	<key>button_email_key</key>
+	<string>EMAIL</string>
+	<key>button_enemy_key</key>
+	<string>ENEMY</string>
+	<key>button_env_key</key>
+	<string>ENVIR.</string>
+	<key>button_exit_key</key>
+	<string>EXIT</string>
+	<key>button_facebook_key</key>
+	<string>FACEBOOK</string>
+	<key>button_fight_key</key>
+	<string>FIGHT</string>
+	<key>button_get_now_key</key>
+	<string>GET NOW</string>
+	<key>button_go_key</key>
+	<string>GO</string>
+	<key>button_invite_facebook_friend_key</key>
+	<string>INVITE FACEBOOK FRIEND</string>
+	<key>button_invite_friend_key</key>
+	<string>INVITE</string>
+	<key>button_login_key</key>
+	<string>LOGIN</string>
+	<key>button_logout_key</key>
+	<string>LOGOUT</string>
+	<key>button_menu_key</key>
+	<string>MENU</string>
+	<key>button_next_key</key>
+	<string>NEXT</string>
+	<key>button_no_key</key>
+	<string>NO</string>
+	<key>button_ok_key</key>
+	<string>OK</string>
+	<key>button_play_key</key>
+	<string>PLAY</string>
+	<key>button_privacy_key</key>
+	<string>PRIVACY POLICY</string>
+	<key>button_ready_key</key>
+	<string>READY</string>
+	<key>button_refresh_key</key>
+	<string>REFRESH</string>
+	<key>button_refuse_key</key>
+	<string>REFUSE</string>
+	<key>button_replay_key</key>
+	<string>REPLAY</string>
+	<key>button_restore_key</key>
+	<string>RESTORE</string>
+	<key>button_retry_key</key>
+	<string>RETRY</string>
+	<key>button_revive_key</key>
+	<string>REVIVE</string>
+	<key>button_select_key</key>
+	<string>SELECT</string>
+	<key>button_skip_key</key>
+	<string>SKIP</string>
+	<key>button_start_key</key>
+	<string>START</string>
+	<key>button_submit_key</key>
+	<string>SUBMIT</string>
+	<key>button_try_key</key>
+	<string>TRY</string>
+	<key>button_website_key</key>
+	<string>WEBSITE</string>
+	<key>button_yes_key</key>
+	<string>YES</string>
+	<key>button_youtube_key</key>
+	<string>YOUTUBE</string>
+	<key>choose_item_title_key</key>
+	<string>WHICH BONUS DO YOU WANT TO ACTIVATE?</string>
+	<key>crate_dialog_box_already_collected_key</key>
+	<string>THIS BOX HAS ALREADY COLLECTED</string>
+	<key>crate_dialog_box_store_full_key</key>
+	<string>STORE IS FULL!</string>
+	<key>crate_sceme_title_unlock_key</key>
+	<string>UNLOCK</string>
+	<key>crate_scene_all_slot_full_key</key>
+	<string>ALL SLOTS FULL! FREE UP A SLOT TO NOT LOSE THE NEXT CRATE!</string>
+	<key>crate_scene_bronze_crate_key</key>
+	<string>BRONZE CRATE</string>
+	<key>crate_scene_button_begin_unlock_key</key>
+	<string>BEGIN UNLOCK</string>
+	<key>crate_scene_content_key</key>
+	<string>30% GET</string>
+	<key>crate_scene_content_random_booster</key>
+	<string>% RANDOM BOOSTER</string>
+	<key>crate_scene_content_tank</key>
+	<string>RARE CHANCE TO GET 1 % TANK</string>
+	<key>crate_scene_diamond_crate_key</key>
+	<string>DIAMOND CRATE</string>
+	<key>crate_scene_free_crate_key</key>
+	<string>FREE CRATE</string>
+	<key>crate_scene_gold_crate_key</key>
+	<string>GOLD CRATE</string>
+	<key>crate_scene_platinum_crate_key</key>
+	<string>PLATINUM CRATE</string>
+	<key>crate_scene_silver_crate_key</key>
+	<string>SILVER CRATE</string>
+	<key>crate_scene_unlock_1_at_a_time_key</key>
+	<string>YOU CAN ONLY UNLOCK ONCE AT A TIME</string>
+	<key>crate_status_locked_key</key>
+	<string>LOCKED</string>
+	<key>crate_status_open_free_crate_key</key>
+	<string>OPEN IN %</string>
+	<key>crate_status_open_key</key>
+	<string>OPEN</string>
+	<key>dialog_invitation_content_key</key>
+	<string>PLEASE DOWNLOAD TO CONTINUE PLAYING WITH BETTER EXPERIENCE!</string>
+	<key>dialog_policy_content_key</key>
+	<string>PLEASE REVIEW AND ACCEPT OUR PRIVACY POLICY TO CONTINUE PLAYING.</string>
+	<key>dialog_try_level_content_key</key>
+	<string>DO YOU WANT TO TRY THIS LEVEL?</string>
+	<key>dialog_try_next_level_content_key</key>
+	<string>DO YOU WANT TO TRY NEXT LEVEL?</string>
+	<key>dialog_try_next_level_key</key>
+	<string>DO YOU WANT TO TRY THE NEXT LEVEL?</string>
+	<key>dialog_warning_map_content_key</key>
+	<string>STAGE IS LOCKED!</string>
+	<key>enemy_armor_key</key>
+	<string>Start as purple; gradually turns gray upon harm.
+Don't destroy them head-on until the 2nd Star powerup is collected.</string>
+	<key>enemy_basic_key</key>
+	<string>Generally poses little threat. Moves slower than players, fires at the same speed default power level (zero stars).</string>
+	<key>enemy_fast_key</key>
+	<string>Generally more dangerous to the headquarters than a player; should be dispatched quickly.</string>
+	<key>enemy_power_key</key>
+	<string>Don't go to their line of fire.
+Cuts through Brick Walls quicker than other tanks (notable in Stage 34).</string>
+	<key>env_brick_key</key>
+	<string>Tanks and bullets cannot pass through this. Can be destroyed by being shot four times (two times when offensive power is tier four/max) on the same side.</string>
+	<key>env_froze_key</key>
+	<string>Tanks can move on it. When you try to stop moving, your tank will slide forward a bit before stopping.
+Caution: obfuscates flying bullets.</string>
+	<key>env_grass_key</key>
+	<string>Obfuscates tanks and bullets under it when moving through.
+Caution: Tricky to tell where the enemies and their bullets are.</string>
+	<key>env_steel_key</key>
+	<string>Stops tanks and bullets completely.
+Can only be destroyed if hit twice on the same side by maximum power level bullets (tier four).</string>
+	<key>env_water_key</key>
+	<string>Tanks cannot traverse through at all. Bullets can fly across.</string>
+	<key>exit_dialog_no_key</key>
+	<string>NO</string>
+	<key>exit_dialog_title_key</key>
+	<string>DO YOU WANT TO EXIT?</string>
+	<key>exit_dialog_yes_key</key>
+	<string>YES</string>
+	<key>feedback_dialog_content_key</key>
+	<string>WHAT DO YOU THINK WOULD MAKE THIS GAME 5-STARS?</string>
+	<key>feedback_dialog_title_key</key>
+	<string>LET US KNOW!</string>
+	<key>friend_leave_room_key</key>
+	<string>YOUR FRIEND HAS LEFT THE ROOM!</string>
+	<key>game_enemy_score_key</key>
+	<string>ENEMY POINT</string>
+	<key>game_my_score_key</key>
+	<string>MY POINT</string>
+	<key>guest_not_ready_key</key>
+	<string>YOUR FRIEND NOT READY YET!</string>
+	<key>help_scene_desc_key</key>
+	<string>WHICH INFORMATION 
+
+YOU WOULD LIKE TO KNOW?</string>
+	<key>iap_amount_coin_key</key>
+	<string>%
+COINS</string>
+	<key>iap_dialog_free_key</key>
+	<string>FREE</string>
+	<key>iap_dialog_title_key</key>
+	<string>NEED SOME COINS?</string>
+	<key>iap_warning_text_key</key>
+	<string>MARKET ITEMS FAILED TO REFRESH!
+
+PLEASE TRY AGAIN LATER.</string>
+	<key>info_dialog_exit_match_content_key</key>
+	<string>DO YOU WANT TO EXIT MATCH?</string>
+	<key>info_dialog_invite_friend_key</key>
+	<string>INVITE 
+FRIEND</string>
+	<key>info_dialog_login_failed_key</key>
+	<string>LOGIN FAILED</string>
+	<key>info_dialog_login_success_key</key>
+	<string>LOGIN SUCCESSFUL</string>
+	<key>info_dialog_no_ads_key</key>
+	<string>SORRY! NO AD AVAILABLE.</string>
+	<key>info_dialog_purchase_cancelled_key</key>
+	<string>CANCELLED</string>
+	<key>info_dialog_purchase_failed_key</key>
+	<string>FAILED. PLEASE TRY AGAIN LATER.</string>
+	<key>info_dialog_purchase_succeded_key</key>
+	<string>SUCCEEDED</string>
+	<key>info_dialog_select_pvp_mode_key</key>
+	<string>SELECT GAME MODE</string>
+	<key>invite_dialog_content_key</key>
+	<string>% invite you to play game.</string>
+	<key>invite_waiting_dialog_content_key</key>
+	<string>WAITING FOR PLAYER TO ACCEPT INVITATION</string>
+	<key>loading_key</key>
+	<string>LOADING</string>
+	<key>login_dialog_content_key</key>
+	<string>YOU NEED TO SIGN INTO FACEBOOK TO USE THIS FEATURE. SIGN IN NOW?</string>
+	<key>menu_campaign_key</key>
+	<string>CAMPAIGN</string>
+	<key>menu_quick_play_key</key>
+	<string>QUICK PLAY</string>
+	<key>menu_scene_about_key</key>
+	<string>ABOUT</string>
+	<key>menu_scene_crate</key>
+	<string>CRATE</string>
+	<key>menu_scene_daily_gift_key</key>
+	<string>DAILY GIFT</string>
+	<key>menu_scene_help_key</key>
+	<string>HELP</string>
+	<key>menu_scene_highscore_key</key>
+	<string>HIGH SCORE</string>
+	<key>menu_scene_multiplayer_key</key>
+	<string>MULTIPLAYER</string>
+	<key>menu_scene_pvp_key</key>
+	<string>PvP</string>
+	<key>menu_scene_setting_key</key>
+	<string>SETTINGS</string>
+	<key>menu_scene_stage_key</key>
+	<string>STAGE</string>
+	<key>menu_scene_stage_title_item</key>
+	<string>BUY SUPPORT ITEMS</string>
+	<key>menu_scene_stage_title_tank</key>
+	<string>SELECT YOUR TANK</string>
+	<key>menu_scene_start_key</key>
+	<string>START</string>
+	<key>menu_scene_tank_upgrade</key>
+	<string>TANK UPGRADE</string>
+	<key>no_bonus_left_key</key>
+	<string>NO ITEMS LEFT!</string>
+	<key>not_enough_money_key</key>
+	<string>YOU DONT HAVE ENOUGH COINS TO BUY THIS BONUS!</string>
+	<key>notification_text_1</key>
+	<string>👩🏾‍✈️Your tank was ready, come on War.💥💥💥</string>
+	<key>notification_text_2</key>
+	<string>👩🏾‍✈️Enemy tanks have arrived, ready to fight now.💥💥💥</string>
+	<key>notification_text_3</key>
+	<string>👩🏾‍✈️Your base is under attack. Let us fight to the end.💥💥💥</string>
+	<key>null</key>
+	<string>_</string>
+	<key>paid_key</key>
+	<string>PAID</string>
+	<key>pause_game_key</key>
+	<string>PAUSE</string>
+	<key>player_state_idle_key</key>
+	<string>IDLE</string>
+	<key>player_state_offline_key</key>
+	<string>OFFLINE</string>
+	<key>player_state_online_key</key>
+	<string>BUSY</string>
+	<key>popup_not_enough_coin_key</key>
+	<string>NOT ENOUGH COIN!</string>
+	<key>popup_player_is_busy_key</key>
+	<string>YOUR FRIEND IS BUSY</string>
+	<key>rank_up_dialog_content_reward</key>
+	<string>RANK UP REWARD</string>
+	<key>rank_up_dialog_key</key>
+	<string>RANK UP</string>
+	<key>rank_user_0</key>
+	<string>PRIVATE</string>
+	<key>rank_user_1</key>
+	<string>PRIVATE
+FIRST CLASS</string>
+	<key>rank_user_10</key>
+	<string>COLONEL</string>
+	<key>rank_user_11</key>
+	<string>BRIGADIER
+GENERAL</string>
+	<key>rank_user_12</key>
+	<string>BRIGADIER</string>
+	<key>rank_user_13</key>
+	<string>LIEUTENANT
+GENERAL</string>
+	<key>rank_user_14</key>
+	<string>GENERAL</string>
+	<key>rank_user_15</key>
+	<string>GENERAL
+OF THE ARMY</string>
+	<key>rank_user_2</key>
+	<string>CORPORAL</string>
+	<key>rank_user_3</key>
+	<string>SERGEANT</string>
+	<key>rank_user_4</key>
+	<string>MASTER
+SERGEANT</string>
+	<key>rank_user_5</key>
+	<string>2ND
+LIEUTENANT</string>
+	<key>rank_user_6</key>
+	<string>LIEUTENANT</string>
+	<key>rank_user_7</key>
+	<string>CAPTAIN</string>
+	<key>rank_user_8</key>
+	<string>MAJOR</string>
+	<key>rank_user_9</key>
+	<string>LIEUTENANT
+COLONEL</string>
+	<key>rate_dialog_content_part1_key</key>
+	<string>5-STAR RATINGS HELP US PROVIDE FREE UPDATES!</string>
+	<key>rate_dialog_content_part2_key</key>
+	<string>HOW WOULD YOU RATE US</string>
+	<key>rate_dialog_title_key</key>
+	<string>LIKE THE GAME</string>
+	<key>reserved_for_ads_key</key>
+	<string>RESERVED AD SPACE</string>
+	<key>result_open_crate_dialog_already_owned_tank_key</key>
+	<string>DUPLICATED TANK, SOLD FOR % COIN</string>
+	<key>result_open_crate_dialog_booster_key</key>
+	<string>BOOSTER</string>
+	<key>result_open_crate_dialog_key_key</key>
+	<string>KEY</string>
+	<key>result_open_crate_dialog_title_key</key>
+	<string>YOU GET</string>
+	<key>result_pvp_dialog_draw_key</key>
+	<string>DRAW</string>
+	<key>result_pvp_dialog_lose_key</key>
+	<string>LOSE</string>
+	<key>result_pvp_dialog_win_key</key>
+	<string>WIN</string>
+	<key>result_scene_boss</key>
+	<string>BOSS</string>
+	<key>result_scene_companion_key</key>
+	<string>COMPANION</string>
+	<key>result_scene_gain_live_key</key>
+	<string>% LIFE</string>
+	<key>result_scene_me_key</key>
+	<string>YOU</string>
+	<key>result_scene_player_score_key</key>
+	<string>REWARD</string>
+	<key>result_scene_record_key</key>
+	<string>RECORD</string>
+	<key>result_scene_stage_complete_key</key>
+	<string>STAGE %</string>
+	<key>result_scene_time_key</key>
+	<string>TIME</string>
+	<key>resume_dialog_new_game_key</key>
+	<string>NEW GAME</string>
+	<key>resume_dialog_resume_key</key>
+	<string>RESUME</string>
+	<key>resume_dialog_title_key</key>
+	<string>DO YOU WANT TO RESUME LAST GAME OR START A NEW ONE?</string>
+	<key>revive_continue_key</key>
+	<string>CONTINUE?</string>
+	<key>revive_not_enough_coin_key</key>
+	<string>NOT ENOUGH COIN! 
+DO YOU WANT TO GET MORE?</string>
+	<key>revive_not_enough_dollar_key</key>
+	<string>NOT ENOUGH DOLLAR! 
+DO YOU WANT TO GET MORE?</string>
+	<key>server_disconnected_key</key>
+	<string>SERVER DISCONNECTED</string>
+	<key>server_response_error_key</key>
+	<string>SERVER RESPONSE ERROR</string>
+	<key>setting_control_dpad_key</key>
+	<string>D-PAD</string>
+	<key>setting_control_joystick_key</key>
+	<string>JOYSTICK</string>
+	<key>setting_control_key</key>
+	<string>CONTROLLER:</string>
+	<key>setting_difficulty_key</key>
+	<string>DIFFICULTY:</string>
+	<key>setting_easy_key</key>
+	<string>EASY</string>
+	<key>setting_english_key</key>
+	<string>ENGLISH</string>
+	<key>setting_hard_key</key>
+	<string>HARD</string>
+	<key>setting_language_key</key>
+	<string>LANGUAGE:</string>
+	<key>setting_medium_key</key>
+	<string>MEDIUM</string>
+	<key>setting_music_key</key>
+	<string>MUSIC:</string>
+	<key>setting_off_key</key>
+	<string>OFF</string>
+	<key>setting_on_key</key>
+	<string>ON</string>
+	<key>setting_portugal_key</key>
+	<string>PORTUGUÊS</string>
+	<key>setting_red_key</key>
+	<string>RED</string>
+	<key>setting_russian_key</key>
+	<string>RUSSIAN</string>
+	<key>setting_sound_key</key>
+	<string>SOUND:</string>
+	<key>setting_spanish_key</key>
+	<string>ESPAÑOL</string>
+	<key>setting_tank_key</key>
+	<string>TANK:</string>
+	<key>setting_thai_key</key>
+	<string>THAI</string>
+	<key>setting_turkish_key</key>
+	<string>TURKISH</string>
+	<key>setting_vietnamese_key</key>
+	<string>VIETNAMESE</string>
+	<key>setting_yellow_key</key>
+	<string>YELLOW</string>
+	<key>shop_buy_item_key</key>
+	<string>DO YOU WANT TO BUY THIS ITEM?</string>
+	<key>shop_coin_key</key>
+	<string>COIN</string>
+	<key>shop_coin_pack_0</key>
+	<string>FROZEN
+PACKAGE</string>
+	<key>shop_coin_pack_1</key>
+	<string>DESTROY
+PACKAGE</string>
+	<key>shop_coin_pack_2</key>
+	<string>IMMORTAL
+PACKAGE</string>
+	<key>shop_coin_pack_3</key>
+	<string>CHAMPION
+PACKAGE</string>
+	<key>shop_dollar_key</key>
+	<string>DOLLAR</string>
+	<key>shop_note_key</key>
+	<string>NOTE: BOUGHT BONUSES ONLY LAST FOR 1 LEVEL</string>
+	<key>shop_title_key</key>
+	<string>SHOP</string>
+	<key>stage_note_key</key>
+	<string>SWIPE LEFT OR RIGHT TO CHANGE LEVEL</string>
+	<key>stage_start_companion_dialog_prepare_key</key>
+	<string>PREPARE</string>
+	<key>tank_collection_dialog_title_key</key>
+	<string>TANK COLLECTION</string>
+	<key>tank_upgrade_bought_key</key>
+	<string>BOUGHT</string>
+	<key>tank_upgrade_info_0</key>
+	<string>HIT POINT</string>
+	<key>tank_upgrade_info_1</key>
+	<string>POWER</string>
+	<key>tank_upgrade_info_2</key>
+	<string>SHOOT RATE</string>
+	<key>tank_upgrade_info_3</key>
+	<string>SPEED</string>
+	<key>tank_user_info_dialog_content_0</key>
+	<string>ENEMY KILLEDS:</string>
+	<key>tank_user_info_dialog_content_1</key>
+	<string>STAR COLLECTIONS:</string>
+	<key>tank_user_info_dialog_content_2</key>
+	<string>HIGHEST STAGE:</string>
+	<key>tank_user_info_dialog_rank_reward_key</key>
+	<string>DAILY RANK REWARD</string>
+	<key>warning_key</key>
+	<string>WARNING!!!</string>
+</dict>
+</plist>

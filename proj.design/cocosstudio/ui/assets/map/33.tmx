@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" tiledversion="1.0.1" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" nextobjectid="1">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <tileset firstgid="257" source="terrain-city.tsx"/>
+ <layer name="Terrain-0" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAADwZCpAAAE=
+  </data>
+ </layer>
+ <layer name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztmdENwyAMRLNKu0G7cbtBOmH5jJACsc93mIgnIT4iTMID6sK2YXxK+R5qlOh4VvZSfoc6Wzwry482Hjo+1vZsH+j4WNuz18vyg7VX72ej969ob6P3r2hvaj/189n91M/Z62r073f9Hiij86v6PVCWHw5X+7d+tzofsLa3jrs6H7C2X37m8OMdR5Uvqx/vOKp8ef3O7qfmbn7UZMk/osiSf0Sx/Nhg72/qeOz9jR1PnR+w46nzA3W8HtbzGnZ/KNbzGnZ/KKif2c67o/1lux/qxVXDmr93uS+t46qZ3U/WfNebx2T9P+LNY5YfDep7okiyzQ2UDGP/KOXZqFuw71A9vEp5N+oWyNpgffuZhyt+EFhz88zDFT8IPT/eOZzVj3d/H+XnD30BQxA=
+  </data>
+ </layer>
+ <layer name="Terrain-2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt1bEJwDAMRFGvlmyQ7D9MXKuwEA7RXfgPjBtX+iCPAeAvjnnOxe3mmude3G7oo8V9/pHb/DP0+Va2n6p3t2w/Ve9u9PHuk71XU523Wo+IPr19qvN021/V9909Ivpo9eG/1+oR0Ue7T7S739Ts7jc19PH6b9S576uIPlrooY0+AAAAwHsewDd8CQ==
+  </data>
+ </layer>
+ <layer name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgEJAAAMA6C9f+nHGANNYAIAAAAAAAAAAACw59qBYQ8rfAAC
+  </data>
+ </layer>
+ <objectgroup name="EntryPoints">
+  <object id="2" name="entry-3" x="384" y="0" width="32" height="32"/>
+  <object id="3" name="entry-2" x="192" y="0" width="32" height="32"/>
+  <object id="1" name="entry-1" x="0" y="0" width="32" height="32"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" infinite="0" nextlayerid="10" nextobjectid="19">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <tileset firstgid="257" source="terrain-city.tsx"/>
+ <layer id="1" name="Terrain-0" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAADwZCpAAAE=
+  </data>
+ </layer>
+ <layer id="2" name="Terrain-0-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAADwZCpAAAE=
+  </data>
+ </layer>
+ <layer id="3" name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztmesNQiEMhe8quoFuqBvoBrqBTigJaYINpTzuqY3pl5CGP6fmXEoBt+2bSxrXxlzikMaxMbfS59zSuDfmEqc0zo25lX4N8qzXO4I807xD63PIs17vCPJM8w6tX2PUO6LXO7Q+Z9Q7otc7tH5J1E/GY/1E/8l47j+jzHruRZ8z67kX/Rqze5YXfc7snmWpz/d7La72k731OXy/1+JqP9lbf4WoH1/6JdF/7PTj/JbxfH6L+0/G4/2HiPeDTLwf7K/P+af6if6T8dp/JB/4ml+tAZQ+R/KBr/nVGkDp15jdR7zoc1b6sAf9GmjvrL4NgfbuF98m6seHfslsH/aiz0G/41v+TxD4Y/QNeTQ+0ngWEZ1v9A15NL7SeBcRnS/wDeo+oq1zDS2/9LtR95HVda7lb/UxxHlK0kLk4JqIPULSQuSoaaLPadZ50Oc0qzwfjEbhuQ==
+  </data>
+ </layer>
+ <layer id="8" name="Terrain-1-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAADwZCpAAAE=
+  </data>
+ </layer>
+ <layer id="5" name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6DP/qGNcTchAQkAAAAAAAAAAADwwbQDnLEuWAAD
+  </data>
+ </layer>
+ <layer id="9" name="Terrain-2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztmFEKg0AMRL1aay9g7YH26M1PQAa1Dc3sxjIPlrAf+5ANJtFpEkKwmG09ArGaH1ltvQKxml9ck5ut+0ms7kcWW8+TWNGPNSSrpvTyI1hDsmsK279Hdr3v7UfY9X5EP2HfXa/cOOy7G5EbvT81/FvUf2r5I2h+q+UX10D/D2r5hRD9wT6e3dfZfgT7eHZfZ/v3YM9cbD/Cnrky/8l9G6N3x/Yj0f4dvTu2/xf0/tTyb1H/qeUXQoh/Jasf2JlmZ9vRvhdZ/cDOtGXz/LjvSdY85TkZlRsna57ynDBy0/t7xPHcmLPNgfjJO+p7xHNjzrYGInreo6WWZQ==
+  </data>
+ </layer>
+ <objectgroup id="7" name="EntryPoints">
+  <object id="11" name="entry-3" x="384" y="0" width="32" height="32"/>
+  <object id="16" name="entry-2" x="0" y="0" width="32" height="32"/>
+  <object id="17" name="entry-1" x="192" y="0" width="32" height="32"/>
+ </objectgroup>
+</map>

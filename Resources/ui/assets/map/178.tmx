@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" infinite="0" nextlayerid="10" nextobjectid="14">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <tileset firstgid="257" source="terrain-city.tsx"/>
+ <layer id="1" name="Terrain-0" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt0kEKwDAIRFHvf6qmN0hPVEvIxlUhRMzwH4g7RRwzAAAAKLnNruY1+2nzo8d3dK/ZT5sfqf1H7R61vKndo5Y3tXvIW6352fvI2xq1/6jdQ95qzc/eR97WqP1H7R7yVmt+1MbOtL6bZ+DLRFrfjf/U/g8AAACA/168amVA
+  </data>
+ </layer>
+ <layer id="2" name="Terrain-0-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztkjEOgCAMAPs0n8bTXF2MmxuLX+ABMkhCmBxoKeQuaaxLL5cgAgAAAAArEUX29E3et9nut5zZU/an2me5b+2jx7ePHt8+enz76PHto8e3jx7fPnr6+W7lHo371r6RPau9N3rG37f2WfdcIqH+PzpP41Kn7VF2WTiCgaa41Im5J+WvxUSDHgAAAAAA+M8L5eHDOw==
+  </data>
+ </layer>
+ <layer id="3" name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztlokNwjAMRbtKswFM1FVgA5igo3Q0XFRLbkTONsGu/pMihyhKbT1yDAMAAACgh5GaMxBzuVG7G4i5lNbfm1o/WoEf+OkJ/MBPT6z4af0+6A3eB3n8yw99c6Y8J4pTbJ4lP5TnIvprfbM/x4qfFRfoS4z5kX3zfiQ//nvfvaXNT+76/tnA9WnzU7s+19Dbz4Pas8H6XENvPy9q74r15R6J5dvaD/vwY2hebH3eI7F8W/thH34MzYut74b9Oe3EuNvGW/lJvX9D3lJ+xv3vXSzJj8mtP/X+DXlL+Fk450Hkzc7WerXdPyX4ebvNn6b7pwY+9zS+D45yBT+SWj/aY2n92iMAAIBjnHVvaOFq90bIg3U/uePagZ9z+ADJT2Zh
+  </data>
+ </layer>
+ <layer id="8" name="Terrain-1-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt2DlTFFEUxfHzejZAk1lAQBNmQRASdlATcAVNFJVFEnYQEnZQP8z9qP67CDuwSoPp6bqn6pfMUnXP6/c6eFJnJERShBzyKKAYtXuqf0+Z2SuoooZe9HVwnyFmr6OBJloY7uA+E8w+iSlMYwazHdzH4/F4PB6Px3Of7iD14AEehnZP8/8ZoMMgHuNJBvqM0uEZxjCegT4LdHiOF3iZgT7LdFjBB3zMQJ8NOmziO7Yy0OeYDj9wgtMM9Lmjw0/8wu8M9PF4PB6Px+PxeDwej8fj+VvOgmwbn7CICQyhjIB2z8cMipBDHgUUUUJXSN6/nzPzDj5jCZOoo4IoBX1YVzGLqqihF314hP6QvH+/YOZdrOIVptAA/7dcCvqwV8T6ipnURAvDeIqRkLx/v2TmPXzBa0yD/xlrYfkU9GH/iz0j1lnMphnMYg7zIXn/fsXM+/iKN+D3xhoYz9UKKejDmRbnQOwdsd5iRr3FO7wPyfv3a2Y+wDfwO6O78TyNPWrFFPThPSXOtjgPYg+JdRezag3rIXn/fsPMh+B7o7PxHI29aZw3K6WgD+9e8b4SZ1ycC7GXxPqLmXUUkvfvt8zM50ZX4/kZe9I4Z8a7w7pS0Ofs/h0cv7fisx6fj3hPxc8hnj1x//4HFwlaZQ==
+  </data>
+ </layer>
+ <layer id="5" name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6Dbv7Qx7iYkIAEAAAAAAAAAAAA+mHaAMxYsTAAC
+  </data>
+ </layer>
+ <layer id="9" name="Terrain-2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztl0sKwzAMRHO1fqDd9gPt/U9SbQxmNpaFYo/TeSC0Shz8IlvatrW5WFyrvDovi3eVW5wszlVmo9fPw+JZZTbk51h+hBBC5HKzuM/+iEQ+Ft/Ac6z3f/GDuQXr/V/8YF4V1Y/w8O/zLyvyIjxE+4Pe+2HUfxjtD3rvB/b/sLevYj8vevsq9vOieGntN9Ynu5/WfmN9svrx1gPrfIV464F1vkJY6yAKax0IIYTOW26O6gf7q1X6LaT4wf5qlX4L8dbPrLlyr/VmzZV7rSc/uetmIz+562aDfkb5GuVnlK/o+38k4UbZ
+  </data>
+ </layer>
+ <objectgroup id="7" name="EntryPoints">
+  <object id="2" name="entry-2" x="0" y="0" width="32" height="32"/>
+  <object id="8" name="entry-1" x="128" y="0" width="32" height="32"/>
+  <object id="11" name="entry-3" x="288" y="0" width="32" height="32"/>
+ </objectgroup>
+</map>

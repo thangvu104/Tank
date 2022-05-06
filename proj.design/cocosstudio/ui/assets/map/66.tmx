@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" infinite="0" nextlayerid="7" nextobjectid="7">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <tileset firstgid="257" source="terrain-city.tsx"/>
+ <layer id="1" name="Terrain-0" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt0cEJACAMBMH035V2oBWZZ8AGEpiB4wrYCAAAAACIWLldfrqTu+Wn06c3fXrTBwAAAAB+D4ZKGTE=
+  </data>
+ </layer>
+ <layer id="2" name="Terrain-0-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt07EJgEAMBdDbfyo7BcX2GrFxAtEBTHkDHETlPfiQ8oeQUgAAAACglDEyRebIktylh9rMW1qLfo5mXtNa9NPeJ3Ybsnr00t6n/mAf//NuV+SOnJE9uQsAAAAA3/UAS3cSmQ==
+  </data>
+ </layer>
+ <layer id="3" name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztmIsNgkAMhlkFN9ANdQPdQDfQCb3EkOiflD6uhZ7pl1yaIHCPD3rFeZqmQ2szESnwvHtrj68oRdovdR7GY2unlUiB5z1be31FKdJ+uXEukZsvBfoY3Q/6KD8+ZPPTi5cfr/zWS7b81guOY1nPc2sXxX2y+EGW9by2dlNcl8VPL9R7hn6k+4U2Ir3PBfWeoR/pfqGNiPa5kK7bKH6k6za6H28fVrz8ePuwUn7+y092stQlXpSf3KAfrr625qet6gP8nauvrflpq/qA+z7l5p/dj9c6W68rP+v9/JsfjtH8cIzmh9t/kGz7sXb/QbLVS+Xnl9H9cN+lFFH5jRuPtn6T+onKb9x4yk9uPxw4/6j8pt3nreD8o/Kbtg6zUn5s7OUnir38RFF+bJSfD9HfmVasfqL/B7DS60d7PLsf7fHyo2M0P29Mc1jk
+  </data>
+ </layer>
+ <layer id="4" name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6Dbv7Qx7iYkIAEAAAAAAAAAAAA+mHaAMxYsTAAC
+  </data>
+ </layer>
+ <layer id="5" name="Terrain-2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt1kEKwCAMBVGv1t6gvf9hKhQXDYQqKPmReSCulMCAWMqYo65z8Iyyq647eoiJ6KOl9bB7Vq2H3bOijxavh2qfv7m8Hqp97Fy9PdS6eHp7qHXxZO9hZe9h0UcbfQAAAHLJ/l+z+K997dK12a0rfbTRRxt9tK3qE9V9VZ+o7vSJvTcK76Y2+mijjzb6aKPP6wEaCjch
+  </data>
+ </layer>
+ <objectgroup id="6" name="EntryPoints">
+  <object id="3" name="entry-2" x="192" y="0" width="32" height="32"/>
+  <object id="1" name="entry-1" x="64" y="0" width="32" height="32"/>
+  <object id="1" name="entry-3" x="224" y="0" width="32" height="32"/>
+ </objectgroup>
+</map>

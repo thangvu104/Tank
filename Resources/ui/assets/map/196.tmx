@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" infinite="0" nextlayerid="10" nextobjectid="16">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <tileset firstgid="257" source="terrain-city.tsx"/>
+ <layer id="1" name="Terrain-0" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzdmQGOgzAMBHkqT+tTmvwgftHFwF4XywftFWHMSlEiWqiHdUwa2jA8W2/DiSr993ob+++OtTdZeoxlYyzmHO7b3E88/fqPM5lUGge4Co3bxtie43yuLKd7pOJ42J/yutd8DPd95QtdY4qf/AlhUu1wrO67UK6iN9eavoc+Iu+Kid+bU96x4tx/+GP7s7m8eWTH9ph3HesP+xo1p2ytE8q3LW9UsmZ4WK5zaWbZWscMW96o4ENvD80xzjdtOH4ezSyeT8T23DuP469rf37ZalCNMM/bt/LFzhfurzCX9vLLijxw60H0XPpU7IfnCXNFx/qOeL1TKf4r1Ln/iO+/JOaAvLwqSVlUV1kXHCXmkcR5BmWty55K8P+5o9U5hnYPX3TeKMuQmQNaOCamiLXzUSKGiUliw/lKYJHhxVRDI/pO8IM9yspTqIEra75ZP+BRNh7LgfipTqfJNy+v2J8s+WY9Ya6//LqyOKe4sR+WL4vqvC8CvhHx05785f1hOfu98AV7c6l4IKdej1wbsolrs60VmeYPC7nl1YXMKpRrmf1hIf/u4A+Ubb2zp4zPnz21pd1ReAeXeS8BWp6r07u5qHeLR4q9AVd0TN+IvblD3iHfhPypiZmK8cUbR8f4iarxRcgfSejV8t97Fb+QN9lqhK57tjhqstxrFK83ZpYMPv0Auxtp1g==
+  </data>
+ </layer>
+ <layer id="2" name="Terrain-0-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztmeENgyAQhRmtozgao/jP1AUYwAmMC5RrS0IItoAHBy9+iamJ7eNe34Gt7ErNi1JaNeSwx6bUxK27e5qtPRErsyfrYfa0Nad24viTYfC0fnpsjujrq9olXMkp5iO4rku1S1kK/fzz4rA9oFv7yu09k+glGEPnfuYqqVmlZuMjsUYQvzydzf1UJHqPiK0RJT12oq05dHIIM7qaS0Rfc2lljDlx+3BIzaVa1PiOJKiVtwQoPggkL1zrfC+gZDP63D+8ewpCj23f19FzsbWThzfbwD4cxjs/KjxnaYWfy+gs0gUwY/6/ZRiQskHxcs/9/iAfT+kiGKHnB9bPgw7pWrjh3ouQhmsvojcQc5KugRvU3kPNSroGbu41on/I0y5dRCXcb3Gp/XpOwv8UCJ580PatCLSMCERPUnv1tUHzhLhGIPbeCDm9AOsPhQc=
+  </data>
+ </layer>
+ <layer id="3" name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztmtENwjAMRLsKbAAbwgawAWwAE+KffBA1ipX6eibckyxLlZIPn89K2yyLEEL8JxeLqyMfLI4r2bu+ZDQ3i7sjnyzOK9m7vmQhxHb2mg97Mdt8eFg8AfuydH9ZvAH7snRH1RGlew9UHVG69yjnpWhY/innpWhY/pE+PmbThzXfUPqw5huqz1n+QfU5yz+oPkf5sgeqz1G+7IHqc5Y+qD5n6YOCpQ+K2fTRd4ncsM5vNVE+Zp3faqJ8nMU/9X+LUbL4p/5vMYr0wRClT7b5tlWfbPNN/vlG/sEg/8TSuo8wWt8ofUZp3UcYrW8WfbzPs9Oq46++70qfGD5ASVdp
+  </data>
+ </layer>
+ <layer id="8" name="Terrain-1-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt1FdSFFEUxvE5TTCjRDGAEhUxEU0gBlAwJ8Scs6CYI8oGUDeAuAHDBgwbMGxAZQOGDRj+vE11Vz/0nO47bXm/qt/D7aoTHuZMImFjY2NjY2NjE06mSCKRg6mYJubrw04JO5RiDuamsI+2PuwsYofFWIKlKeyjrQ87reywGm1Yk8I+2vqws5UdtmE7diTt474Lvzvxq09XDrPDERzFsaR93Hfhdyd+9elKHztcwmX0J+3jvgu/O/GrT1cG2OEBHmIwaR/3XfjdiV993OK+i7jdSdC47yJudxI07ruI250Ejfsu/pU7sYlnhN+MgwxkIgvZGIfxmICJmITJoq+LOrnMykM+ClCIIkxHMWZgJmZhtujrok4Zs8pRgUpUoRrzMB81WIBaLBR9XdSpY1Y9GtCIJjRjGZZjBVZiFVpEXxd11jJrHdajHR3YgI3oRBc2YTO2iL4u6uxk1i7sxh50Yy96sA/7cQAHcUj0dVHnOLNO4CRO4TTO4CzO4Twu4CJ6RV8Xda4w6yqu4Tpu4CZu4Tbu4C7u4b7o62z+7wzxW3iEx3gi3rfpPtoMM+spRvBMvG/TfbR5zqwXeIlX4n2b7qPNa2a9wVu8E+/bdB9t3jPrAz7ik3jfpvto85lZX/AVo+J9m+6jzTdmfccP/BTv23QfbX4x6zf+jM10vG/TfWxsbGxszEb4j3aQgUxkIdsJ/j0uyWWXPOSjAIUocoJ/j0vK2KUcFahEFaqd4N/jkjp2qUcDGtGEZif497/jhbtx
+  </data>
+ </layer>
+ <layer id="5" name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6Dbv7Qx7iYkIAEAAAAAAAAAAAA+mHaAMxYsTAAC
+  </data>
+ </layer>
+ <layer id="9" name="Terrain-2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt120OwiAMBmCu5vQCfhyAo3kUjubrjy5qAjTYDejeJyFNdCzQbgxCsHEN4XlCM7pddzfMZSnMB/8nzDlJ3G9k35DzsHzEHKlPrk7om/B7krjNaOswvndu15gj9cnVSeqy1XNZy3frtTlSl9pz2aqW79Zr96Z9H2ahfR+IyJej7almU9tTzaa0p/LyPRVevqfc74zByxogjr5Wj3K+z6mdf3+Ncr63MmpdWnmpCxHZwJoQsc5Fib3H8y+sbxFrdpTYezxWvNRHeKsPEREREdFRnNEuiqjt19sd7aGI2n69jZJXK6Pk1QrrU/YCzMlbdQ==
+  </data>
+ </layer>
+ <objectgroup id="7" name="EntryPoints">
+  <object id="8" name="entry-1" x="0" y="224" width="32" height="32"/>
+  <object id="11" name="entry-3" x="384" y="64" width="32" height="32"/>
+  <object id="12" name="entry-2" x="160" y="0" width="32" height="32"/>
+  <object id="15" name="entry-4" x="384" y="352" width="32" height="32"/>
+ </objectgroup>
+</map>

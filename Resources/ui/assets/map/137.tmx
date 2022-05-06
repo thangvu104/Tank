@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" tiledversion="1.0.1" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" nextobjectid="4">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <layer name="Terrain-0" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt2cEJgDAMBVD330o30In06qWh2NpU34OQYwMfCm2WBQDgbr1qK/Rsonn3q45CzyaaVz5j1c47Wz6R2fKJyOddT/Op7bV6nxfdH63vw97nySd3PgAAQDveP7nfP/KZK59s/vb/Zr8wlv3P3PkAfNUJSI5UGA==
+  </data>
+ </layer>
+ <layer name="Terrain-0-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt2csKwjAQBdD+/4/5FncKagmoH+Br72RRiKHTzEybGOEeGILSNrcEEpI2DQAAAMC3GdWcakG1DNoV1fqHuTipvHuqQ899R6pToYwaqbwXqitz7y5XqBFuzP8bqi3Vk+pFdad6RNe4fLHM3tHvLveZqu25Pnz/2sdHki98fzdtlElo82F8yhozPl48z3Otdb3i1hOuDWnHR8O6XnHriYQTXDO0Hg3p5n+t3P3F65G05eb/2voDAAAAAAA77X6x9P5U2591v1h6fyrtjzt/TCm9P/Us5we17U9DTvB8nL+VlcoXzy+h2sfHk37/8Vy+WGbc+WDq+491vsotlZebX2o93/q3vAAAU/kARQHVrQ==
+  </data>
+ </layer>
+ <layer name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztllEKAzEIRPcq7Q269z9c93shiHXGON15EPyKiI8Yj8MY8yuv67wTcXp9n+ucidhNtj62D3a+rJ8q7HyRnyrd7zHyU6X7PbLf9/R5mWX6vKyi5iNC3YcxBofn2yy8H8wi62O6r6yPab7QPnb7Qvvo9tXtg+2r2wfa1+7+o33t7v/TfFXZ3f9/m3ds1H1EqPmIUPcRoeYjQt1HhJqPCHUfxhgzBdb/0LUX3POy/oeuveCel9XH1X1U3lVk9XF1H5V3FVn7MMpPtj7WPozyk63vC+/Tfc0=
+  </data>
+ </layer>
+ <layer name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgEJAAAMA6C9f+nHGANNYAIAAAAAAAAAAACw59qBYQ8rfAAC
+  </data>
+ </layer>
+ <layer name="Terrain-2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt2VEKhUAIheG21t1B7X8x9RwN6h3NQ/0fxEAPZRyScpYFAIB+63n8btZu/9a1ncd+s3bLqkstn1lq+cwinxreOqx+oZ7PtX6rX6jnM6rf+/ze1ZJ13dF57/N7V0vWdUfns96TaD5V98t6T6L5VN1PpY9FVefzNCuf7D4WlVVHVR+LUqkDAAC8D99v2t9v/P9oYH4Q0z0/8M631Odv0fmo+vwtOt/u9tX9BQv51JjdL2V/u5ZqXcCbHEbHctk=
+  </data>
+ </layer>
+ <objectgroup name="EntryPoints">
+  <object id="1" name="entry-3" x="384" y="0" width="32" height="32"/>
+  <object id="3" name="entry-2" x="192" y="0" width="32" height="32"/>
+  <object id="2" name="entry-1" x="0" y="0" width="32" height="32"/>
+ </objectgroup>
+</map>

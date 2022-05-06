@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" tiledversion="1.0.1" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" nextobjectid="4">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <tileset firstgid="257" source="terrain-city.tsx"/>
+ <layer name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt11EKgCAQRVG3UjuoHdYOasX5Mz+SZTqjJveACEEq81AY577Z/Ng//pOj1j6HH+dA+5BP3/sAqEfeqVrvlTV5p3ivAAAA7k1+zK0PoWjxY219CEXk80z6FqlTbM7tb6zXD0nfInWKzbn9jfX6odS6lOZjtX4otS6l+VitDwAAgLG89Snas7W3PkV7tkY+feeDMbS+F9pGuxexHP6eT+r33pGPjguO8Tvp
+  </data>
+ </layer>
+ <layer name="Terrain-1-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt11OsJEEUxvGeuVjraq2rta7Wtm3btm3btm3btm3b+O/D7EOnO1PZTWa679aX/F4qVd3nJHUy04oiIyMjIyNjngy3KMoIjMQoi7Or+fdMp4cZmIlZ4aCf5fSwAiuxKhz0s50edmAndhmoH3tzYLEqihUucIUb3HGcvSdwEqec2I+6fntzEIvaPeAJL3jDB9fZewM3ccuJ/ajrtzcHSandF37wRwAC8Zy9L/ASr5zYj7p+e3OQgdqDEIwQhCIM39n7Az9/n7E6vI0/UddvlDmwRW9eRefYKHNgi968is6xUebAFr15FZ1jo8yBLXrz6ug51rvfZo3e/TZr9O63WaN3v2VkZMJvevO71Qd90Q/9MQADMQiDMQRDMUzre4o1K1zgCje4IwIiIhIiIwqiOuD/ymjeMQZjMQ7jMQETMQmTMQVTMU3re4o1D3jCC97wQWzEQVzEQ3wkcEA/s3nHHMzFPMzHAizEIizGEizFMq3vKdZ84Qd/BCAQyZAcKZASqZDaAf2s5h1rsBbrsB4bsBGbsBlbsBXbtL6nWAtCMEIQijBkRCZkRhZkRba/6CcaZ6IjBmIKnN/Nnj3Yi33YjwM4iEM4jCM4imMaz8vNWh7kRT7kRwEURCEURhEURTGBetT1J0QiJEYSgfOn2XMGZ3EO53EBF3EJl3EFV3FN43mlWSuDsiiH8qiAiqiEyqiCqqgmUI+6/jRIi3RIL3D+Nnvu4C7u4T4e4CEe4TGe4CmeaTyvNmt1UBf1UB8N0BCN0BhN0BTNBOpR158dOZATuQTOv2bPG7zFO7zHB3zEJ3zGF3zFN43ntWatDdqiHdqjAzqiEzqjC7qim0A96vqLowRKopTAeaNFXX911EBN1DJhP+r6m6MFWqKVCftR198dPdATvUzYj9nrl5GRkZGRkZH53/ML4nPEZA==
+  </data>
+ </layer>
+ <layer name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgEJAAAMA6C9f+nHGANNYAIAAAAAAAAAAACw59qBYQ8rfAAC
+  </data>
+ </layer>
+ <layer name="Terrain-2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt2u0NgCAMhGF2ww10/1lkAqHplRbzPonh38VwiR9Ab61d4+qL48xqTlTePa7HMM5k52XPpzovez7Ved75m4nOs/bjFZ1HPz7Z/Zxm1s9p6Ke20+8fAPAP0d8Hu/Oj36+78+nHJrsf73yq13es+er/U/X6jjWffr5V60eN55svn35sTs8HAGAF+wu1sP9T2+79bbXs/W217PMHavRTs6+s81VRVOer6CfG6v296JK/HQ==
+  </data>
+ </layer>
+ <objectgroup name="EntryPoints">
+  <object id="1" name="entry-1" x="0" y="0" width="32" height="32"/>
+  <object id="2" name="entry-2" x="384" y="0" width="32" height="32"/>
+  <object id="3" name="entry-3" x="192" y="0" width="32" height="32"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" infinite="0" nextlayerid="10" nextobjectid="14">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <tileset firstgid="257" source="terrain-city.tsx"/>
+ <layer id="1" name="Terrain-0" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt1sEJwDAIBdDsv1W6QTNRc8xVaqUh74F4+HgSxNYAADhJn3UtPTuvds8aS8/Oq9lPLAf28fY+7Xbfvp7PZj+588B/+K9jeTX7ieUAAAAA2R6rGWTB
+  </data>
+ </layer>
+ <layer id="2" name="Terrain-0-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt1zEKgDAMBVDvfzFBHLyALh5BD2AGB1epLTS+Bx8Knw6ZQoYBAIA/GSPTnblC39r+eC8V+tayzXNE1sgZ2Sr0QD9K90dv+6f2/69lm6d0f9g/kIf7513fWrZ53D8AAABAby5nwlF5
+  </data>
+ </layer>
+ <layer id="3" name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztl2sKAzEIhPcq7Q3a+x+uC6WwDI15aB1D54Nlf8iIidHE47C5nd/98p+FrUc/j/N7Xv6jftl6BPXov7r+Q0vf8l9Nj6B+Nzsyu3/V7Ah7f5Ufm179VbOPUjX+X90/bPsqVeL3rmN0fdn2aKr1Ly/KT6zdC7v+s+Yftn2WavFnzT9sew92/9L72oa9v8qPDbu+Nf+MUS1+zT9r68u2R1Otf3lRfmLtXtj1r/nnO9Xi1/zzht2/9L62Ye+v8mPjfR+y9S28/Z+tR7z9n63v+V31w9aL/wDPffacFg2e+93roHcf7kbvvtwN5SeGF8O8z4E=
+  </data>
+ </layer>
+ <layer id="8" name="Terrain-1-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAADwZCpAAAE=
+  </data>
+ </layer>
+ <layer id="5" name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6Dbv7Qx7iYkIAEAAAAAAAAAAAA+mHaAMxYsTAAC
+  </data>
+ </layer>
+ <layer id="9" name="Terrain-2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt2k0KgCAQhmGvVnaBfu5/ltwENSQqhs7Y+8AwKyH6Wow03jm3hPKiayef9+p7qOOlaxd7bmu5SKl8rInlEzOFmm+9VKvzMp+YNdR266Vanc/9vqzkk8tKPgAAABhT7Xxbe//VNl/X3n+/nq/J50lbPgAAALCl9/8BbfN17/NS7/dLPgAwJqt7O1LufogV7FfplNp/s5LTX/YTT+36Rck=
+  </data>
+ </layer>
+ <objectgroup id="7" name="EntryPoints">
+  <object id="8" name="entry-1" x="0" y="96" width="32" height="32"/>
+  <object id="11" name="entry-3" x="384" y="96" width="32" height="32"/>
+  <object id="12" name="entry-2" x="128" y="0" width="32" height="32"/>
+  <object id="13" name="entry-4" x="256" y="0" width="32" height="32"/>
+ </objectgroup>
+</map>

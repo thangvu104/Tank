@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" tiledversion="1.0.1" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" nextobjectid="1">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <tileset firstgid="257" source="terrain-city.tsx"/>
+ <layer name="Terrain-0" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt0cEJACAMA8Duv5VuoBPZFfopFe4g5BtIBAAAAAAAzLMyu9DT953MLXS36j7/9Jq+DwAAAPjPA4YaS5E=
+  </data>
+ </layer>
+ <layer name="Terrain-0-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzrsJgEAQRVH7b0xBMTVREyvwU4AjGIsDGyicA49JluVWFQAAAAAAfE8da+61D/da94O+IfH3WLT0nWzfknjfJ1tKyPbtsSO2xraHO8XmoqXvfL0PAAAA+J8TGtkwCQ==
+  </data>
+ </layer>
+ <layer name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztmNsNwyAMRbNKu0GzcbtBOmH44QeJmgvGj+oeCUUOSLF8JAc4DkJIFB5lPIFndF5lnMAzGqiP6L5QH1F9aXvx9qTtxdsT/cT0g9YVnbf2hNYVnbf2RD+5/HivXwWt3+71q9BPLj/Z9wm79wX0s8a/+WnR3h94o70/8IZ+sHlrsvUziez9rIV+YvuptPVdjb1p67sae0M/Mf3QS0wvFfqx8fMu4wPEVszmdZXxBWIrZvOiHxvQvLL0n9E8s/wfRvPc5Uf7nOPtR/ucM5rnbP+Q+p10n9Nj9Hu9eLavSf1Ous/pMfq9Xkw/v99XvPzcUxG5sQ==
+  </data>
+ </layer>
+ <layer name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgEJAAAMA6C9f+nHGANNYAIAAAAAAAAAAACw59qBYQ8rfAAC
+  </data>
+ </layer>
+ <layer name="Terrain-2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt2NEJwCAQg2FXsxvU/YepE3hcy9lE/g/EtyJGIbY1AG/1Oa7FrCZa7z3HWMxqovWSz7+y+biJ8nFDPtqq1x/l7XYeov1yOw/koyXbL9T7SLZfqPcR8qnNR21/sk7vB+Sjpfp9Wt0Pdr9Pq/vB7v8H5PPt++73HwAAAAAAAHDyACzNW+E=
+  </data>
+ </layer>
+ <objectgroup name="EntryPoints">
+  <object id="2" name="entry-3" x="384" y="0" width="32" height="32"/>
+  <object id="3" name="entry-2" x="192" y="0" width="32" height="32"/>
+  <object id="1" name="entry-1" x="0" y="0" width="32" height="32"/>
+ </objectgroup>
+</map>

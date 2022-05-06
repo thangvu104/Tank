@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" tiledversion="1.0.1" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" nextobjectid="11">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <tileset firstgid="257" source="terrain-city.tsx"/>
+ <layer name="Terrain-0" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt0rENACAMAzD+/wo+gItgrDowdalkS1EOSMYAAAAA+JsvK3R3++WE7s4+VMp/6v6v/Kfu/7IPAAAAAFDlAioNJck=
+  </data>
+ </layer>
+ <layer name="Terrain-0-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt0zEOgzAMBVDuf7HSFrFmARZO0MIB6gUpU6agKOp70pctefHyhwEAAACg7BEZI+/I1PiXGlK2L82+qGfP9rnZF/UckTOyRrbGv/yjq+/PyCubvfY/FW499n8v3Hrs/9X3T+SbTf0HAAAAgPv9AJPDG0U=
+  </data>
+ </layer>
+ <layer name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztmFEKwyAMhr3KdoPtxt0NuhNOKL7Iahr8kz+WfBDyYLWSD2xqKUmSROFR4znIq/Gq8R7k6Eg+tJmN5EObWaC9sH2hvbB9efnx8uXlx9oXy4uVJ5YXK09sL+nnP6g6zXpA+UHVadYD2g8ath800fxsNT6DedI4q287q8te4zuYJ42z+rb0c23c24913dh9tPX6bD+zfVY0P7N9FtvPqn10Y/U+uif9xPTD9oL2xPbi9T+afrh+2B7Qntge7vY98uZu9dc+j15Pi7Z+aB9of971jXa+aeej36fF+jyK1l9HXx9FtO/MLKy6b+W4v2wZhXSeoej3v5fj/rJlFNJ5hqLff/q5BsvPD2V4ya0=
+  </data>
+ </layer>
+ <layer name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgEJAAAMA6C9f+nHGANNYAIAAAAAAAAAAACw59qBYQ8rfAAC
+  </data>
+ </layer>
+ <layer name="Terrain-2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt2sENgCAMQFFX0w10/2HkKgcaYpSi7yWEa833Rpflai1na9yj9c6zl3M07tF659HnXdE82XtE6nmz94jU8+qTS9RndrP1iOgDAAAAAAD8jfeR3L7eZ7bvi97jZ/v/ovd4fcbq3ZfI1uvu/kq2Xnf3V/R5Vm+fE7t0QFE=
+  </data>
+ </layer>
+ <objectgroup name="EntryPoints">
+  <object id="2" name="entry-3" x="384" y="0" width="32" height="32"/>
+  <object id="3" name="entry-2" x="192" y="0" width="32" height="32"/>
+  <object id="1" name="entry-1" x="0" y="0" width="32" height="32"/>
+ </objectgroup>
+</map>

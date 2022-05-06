@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>achievement_dialog_content_0</key>
+	<string>УНИЧТОЖИТЬ% ВРАЖЕСКИЕ ТАНКИ</string>
+	<key>achievement_dialog_content_1</key>
+	<string>ОЧИСТИТЬ ЭТАП%</string>
+	<key>achievement_dialog_content_2</key>
+	<string>ОБНОВЛЕНИЕ ВОДА% РАЗ</string>
+	<key>achievement_dialog_content_3</key>
+	<string>COLLECT% STARS</string>
+	<key>achievement_dialog_content_4</key>
+	<string>WIN% РАЗ В РЕЖИМЕ PVP</string>
+	<key>achievement_dialog_reward_key</key>
+	<string>НАГРАДА</string>
+	<key>achievement_dialog_task_key</key>
+	<string>ЗАДАЧА</string>
+	<key>achievement_dialog_title_key</key>
+	<string>ДОСТИЖЕНИЕ</string>
+	<key>app_rate_dialog_decline_key</key>
+	<string>НЕТ, СПАСИБО</string>
+	<key>app_rate_dialog_rate_key</key>
+	<string>ОЦЕНИТЕ ЭТО!</string>
+	<key>app_rate_dialog_remind_key</key>
+	<string>НАПОМНИ МНЕ ПОЗЖЕ</string>
+	<key>app_rate_dialog_title_key</key>
+	<string>ЕСЛИ ВЫ ЛЮБИТЕ ИГРАТЬ БАК 1990: СИЛОЙ, НЕ МОГЛИ БЫ ВЫ НАШЛИ ВРЕМЯ, ЧТОБЫ ОЦЕНИТЬ ЕГО? СПАСИБО ЗА ВАШУ ПОДДЕРЖКУ!</string>
+	<key>bonus_1000_key</key>
+	<string>МГНОВЕННО ДАСТ ВАМ 1000 ЗАБИВАЕТ БОНУС.</string>
+	<key>bonus_2000_key</key>
+	<string>МГНОВЕННО ДАСТ ВАМ 2000 ЗАБИВАЕТ БОНУС.</string>
+	<key>bonus_3000_key</key>
+	<string>МГНОВЕННО ДАСТ ВАМ БОНУС ЗАБИВАЕТ 3000.</string>
+	<key>bonus_500_key</key>
+	<string>МГНОВЕННО ДАСТ ВАМ 500 БОНУСА ЗАБИВАЕТ.</string>
+	<key>bonus_amphibious_key</key>
+	<string>ДАЙТЕ ВОЗМОЖНОСТЬ БАКА ДЛЯ ПЕРЕМЕЩЕНИЯ ПО ВОДЕ.</string>
+	<key>bonus_four_shot_key</key>
+	<string>ДАЙТЕ ВАШУ СПОСОБНОСТЬ ТАНКА К ПОЖАРНОЙ ПУЛЕ 4 СПОСОБОВ.
+ЭТО ЕДИНСТВЕННЫЙ ЭФФЕКТИВНЫЙ В ТЕЧЕНИЕ 20 СЕКУНД.</string>
+	<key>bonus_grenade_key</key>
+	<string>УНИЧТОЖАЕТ ВСЕХ ВРАГОВ В ДАННЫЙ МОМЕНТ НА ЭКРАНЕ.
+НИКАКОЙ КРЕДИТ ДАЕТСЯ ДЛЯ УНИЧТОЖЕНИЯ ТАНКОВ НЕ УНИЧТОЖЕН ЭТИМ ВО ВРЕМЯ ВКЛЮЧЕНИЯ ПИТАНИЯ НА КОНЕЧНОЙ СТАДИИ БОНУСНЫХ БАЛЛОВ БИРКИ.</string>
+	<key>bonus_gun_key</key>
+	<string>УВЕЛИЧЕНИЕ КОЛИЧЕСТВА ПУЛЬ МОГУТ БЫТЬ ЗАПУЩЕНЫ НА ЭКРАНЕ ОДНОВРЕМЕННО.</string>
+	<key>bonus_helmet_key</key>
+	<string>ДАЕТ ПОЛЕ ВРЕМЕННОЙ СИЛЫ, ЧТО ЩИТЫ ОТ ВРАЖЕСКИХ ВЫСТРЕЛОВ, КАК ТОТ, В НАЧАЛЕ КАЖДОГО ЭТАПА, НО ПОСЛЕДНИЕ 10 СЕКУНД.</string>
+	<key>bonus_shovel_key</key>
+	<string>ВКЛЮЧАЕТ КИРПИЧНЫЕ СТЕНЫ ВОКРУГ КРЕПОСТИ КАМНЯ, ПРЕДОТВРАЩАЯ ВРАГОВ УНИЧТОЖИТЬ ЕГО.
+РЕМОНТ ВСЕ ПОВРЕЖДЕНИЯ РАНЕЕ СДЕЛАНО. ЭТО ЕДИНСТВЕННЫЙ ЭФФЕКТИВНЫЙ В ТЕЧЕНИЕ 10 СЕКУНД.</string>
+	<key>bonus_small_key</key>
+	<string>ТЕРМОУСАДОЧНАЯ ВАШ ТАНК НАПОЛОВИНУ, НО УДВОИТЬ СВОЮ СКОРОСТЬ ПЕРЕДВИЖЕНИЯ И СКОРОСТЬ ПУЛИ.
+ЭТО ЕДИНСТВЕННЫЙ ЭФФЕКТИВНЫЙ В ТЕЧЕНИЕ 20 СЕКУНД.</string>
+	<key>bonus_star_key</key>
+	<string>ПОВЫШАЕТ НАСТУПАТЕЛЬНУЮ МОЩЬ НА ОДИН ЯРУС (ЯРУСЫ ЯВЛЯЮТСЯ: ПО УМОЛЧАНИЮ, ВТОРОЙ, ТРЕТИЙ И ЧЕТВЕРТЫЙ). УРОВЕНЬ МОЩНОСТИ ТОЛЬКО СБРАСЫВАЕТ ПО УМОЛЧАНИЮ, КОГДА ВЫ УМИРАЕТЕ.</string>
+	<key>bonus_tank_key</key>
+	<string>ДАЕТ ДОПОЛНИТЕЛЬНУЮ ЖИЗНЬ.</string>
+	<key>bonus_time_key</key>
+	<string>ПИТАНИЯ ТАЙМЕРА ВРЕМЕННО ЗАМОРАЖИВАЕТ ВРЕМЯ В ТЕЧЕНИЕ 20 СЕКУНД, ОСТАНАВЛИВАЯ ДВИЖЕНИЕ ВСЕХ ТАНКОВ ПРОТИВНИКА.
+СОВЕТ: ПОЗВОЛЯЕТ ВОЗМОЖНОСТЬ БЕЗВРЕДНО ПОДХОДИТЬ КАЖДЫЙ ТАНК И УНИЧТОЖИТЬ ИХ.</string>
+	<key>boss_factory_key</key>
+	<string>ЗАВОД СПЕЦИАЛИЗИРУЕТСЯ НА ПРОИЗВОДСТВЕ АВТОМОБИЛЕЙ, КОТОРЫЕ ВЗРЫВАЮТСЯ, И БЫТЬ ОСТОРОЖНЫМИ С АВТОМОБИЛЯМИ, КОТОРЫЕ ВЗРЫВАЮТСЯ И РАЗРУШАЮТ ЗАВОД КАК МОЖНО БЫСТРЕЕ.</string>
+	<key>boss_helicopter_key</key>
+	<string>ЭТОТ ВЕРТОЛЕТ БУДЕТ ЛЕТАТЬ И СТРЕЛЯТЬ В ВАШЕМ НАПРАВЛЕНИИ, ИЗБЕГАЯ ПОТОК ПУЛЬ, ДВИЖУЩИХСЯ И КОНТРАТАК ПРАВИЛЬНО, ЧТОБЫ УНИЧТОЖИТЬ ЕГО.</string>
+	<key>boss_marine_key</key>
+	<string>ЭТА ПОДВОДНАЯ ЛОДКА БУДЕТ СТРЕЛЯТЬ В СТОРОНУ БАЗЫ, ОГОНЬ РАКЕТАМИ НА ВАС. ТАКИМ ОБРАЗОМ, УНИЧТОЖИТЬ ЕГО КАК МОЖНО БЫСТРЕЕ.</string>
+	<key>boss_tank_key</key>
+	<string>ЭТОТ ТАНК БУДЕТ ИСКАТЬ И УНИЧТОЖИТЬ ВАС, И ЛУЧШИЙ СПОСОБ, ЧТОБЫ ВЫЖИТЬ, ЧТОБЫ СПРЯТАТЬСЯ ЗА ЗДАНИЯМИ И СТРЕЛЯТЬ В ГОЛОВЕ АВТОМОБИЛЯ.</string>
+	<key>boss_train_key</key>
+	<string>ЭТОТ ПОЕЗД ПОЕЗД БУДЕТ СТРЕЛЯТЬ В ОПРЕДЕЛЕННОМ ЦИКЛЕ, УКРЫТИЕ И АТАКОВАТЬ В НУЖНОЕ ВРЕМЯ ЯВЛЯЕТСЯ ЛУЧШИМ СПОСОБОМ, ЧТОБЫ УНИЧТОЖИТЬ ЕГО.</string>
+	<key>button_5_star_key</key>
+	<string>5 ЗВЕЗД</string>
+	<key>button_accept_key</key>
+	<string>ПРИНИМАТЬ</string>
+	<key>button_add_friend_key</key>
+	<string>ДОБАВИТЬ В ДРУЗЬЯ</string>
+	<key>button_auto_key</key>
+	<string>АВТО</string>
+	<key>button_back_key</key>
+	<string>НАЗАД</string>
+	<key>button_below_4_star_key</key>
+	<string>1-4 ЗВЕЗД</string>
+	<key>button_bonus_key</key>
+	<string>БОНУС</string>
+	<key>button_buy_key</key>
+	<string>КУПИТЬ</string>
+	<key>button_cancel_key</key>
+	<string>CANCEL</string>
+	<key>button_claim_key</key>
+	<string>ЗАПРОС</string>
+	<key>button_continue_key</key>
+	<string>ПРОДОЛЖИТЬ</string>
+	<key>button_done_key</key>
+	<string>СДЕЛАННЫЙ</string>
+	<key>button_double_reward_key</key>
+	<string>X2 ДОЛЛАР</string>
+	<key>button_download_key</key>
+	<string>СКАЧАТЬ</string>
+	<key>button_email_key</key>
+	<string>ЭЛЕКТРОННОЕ ПИСЬМО</string>
+	<key>button_enemy_key</key>
+	<string>ВРАГ</string>
+	<key>button_env_key</key>
+	<string>СРЕДА</string>
+	<key>button_exit_key</key>
+	<string>ВЫХОД</string>
+	<key>button_facebook_key</key>
+	<string>FACEBOOK</string>
+	<key>button_fight_key</key>
+	<string>БОРЬБА</string>
+	<key>button_get_now_key</key>
+	<string>ПОЛУЧИТЬ СЕЙЧАС</string>
+	<key>button_go_key</key>
+	<string>ИДТИ</string>
+	<key>button_invite_facebook_friend_key</key>
+	<string>ПРИГЛАШАЕМ FACEBOOK ДРУГ</string>
+	<key>button_invite_friend_key</key>
+	<string>ПРИГЛАШЕНИЕ</string>
+	<key>button_login_key</key>
+	<string>АВТОРИЗОВАТЬСЯ</string>
+	<key>button_logout_key</key>
+	<string>ВЫЙТИ</string>
+	<key>button_menu_key</key>
+	<string>МЕНЮ</string>
+	<key>button_next_key</key>
+	<string>СЛЕДУЮЩИЙ</string>
+	<key>button_no_key</key>
+	<string>НЕТ</string>
+	<key>button_ok_key</key>
+	<string>OK</string>
+	<key>button_play_key</key>
+	<string>ИГРАТЬ В</string>
+	<key>button_privacy_key</key>
+	<string>ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ</string>
+	<key>button_ready_key</key>
+	<string>ГОТОВ</string>
+	<key>button_refresh_key</key>
+	<string>ОБНОВЛЕНИЕ</string>
+	<key>button_refuse_key</key>
+	<string>ОТКАЗЫВАТЬСЯ</string>
+	<key>button_replay_key</key>
+	<string>REPLAY</string>
+	<key>button_restore_key</key>
+	<string>ВОССТАНОВИТЬ</string>
+	<key>button_retry_key</key>
+	<string>ПОВТОР</string>
+	<key>button_revive_key</key>
+	<string>ВОЗРОЖДАТЬ</string>
+	<key>button_select_key</key>
+	<string>ВЫБРАТЬ</string>
+	<key>button_skip_key</key>
+	<string>ПРОПУСКАТЬ</string>
+	<key>button_start_key</key>
+	<string>НАЧНИТЕ</string>
+	<key>button_submit_key</key>
+	<string>РАЗМЕСТИТЬ</string>
+	<key>button_try_key</key>
+	<string>ПЫТАТЬСЯ</string>
+	<key>button_website_key</key>
+	<string>ВЕБ-САЙТ</string>
+	<key>button_yes_key</key>
+	<string>ДА</string>
+	<key>button_youtube_key</key>
+	<string>YOUTUBE</string>
+	<key>choose_item_title_key</key>
+	<string>КОТОРЫЕ БОНУС ХОТИТЕ ACTIVATE?</string>
+	<key>crate_dialog_box_already_collected_key</key>
+	<string>ЭТА КОРОБКА УЖЕ СОБРАЛО</string>
+	<key>crate_dialog_box_store_full_key</key>
+	<string>STORE IS FULL!</string>
+	<key>crate_sceme_title_unlock_key</key>
+	<string>ОТКРЫТЬ</string>
+	<key>crate_scene_all_slot_full_key</key>
+	<string>ВСЕ СЛОТЫ ПОЛНЫЙ! ВЫСВОБОДИТ СЛОТ НЕ ПОТЕРЯТЬ ОЧЕРЕДНОЙ ЯЩИК!</string>
+	<key>crate_scene_bronze_crate_key</key>
+	<string>БРОНЗА CRATE</string>
+	<key>crate_scene_button_begin_unlock_key</key>
+	<string>НАЧАТЬ РАЗБЛОКИРОВАТЬ</string>
+	<key>crate_scene_content_key</key>
+	<string>30% GET</string>
+	<key>crate_scene_content_random_booster</key>
+	<string>% СЛУЧАЙНЫЙ БУСТЕР</string>
+	<key>crate_scene_content_tank</key>
+	<string>РЕДКИЙ ШАНС ПОЛУЧИТЬ 1% БАК</string>
+	<key>crate_scene_diamond_crate_key</key>
+	<string>DIAMOND CRATE</string>
+	<key>crate_scene_free_crate_key</key>
+	<string>СВОБОДНЫЙ CRATE</string>
+	<key>crate_scene_gold_crate_key</key>
+	<string>ЗОЛОТО CRATE</string>
+	<key>crate_scene_platinum_crate_key</key>
+	<string>PLATINUM CRATE</string>
+	<key>crate_scene_silver_crate_key</key>
+	<string>SILVER CRATE</string>
+	<key>crate_scene_unlock_1_at_a_time_key</key>
+	<string>ВЫ МОЖЕТЕ ТОЛЬКО ОТКРЫТЬ РАЗ НА РАЗ</string>
+	<key>crate_status_locked_key</key>
+	<string>LOCKED</string>
+	<key>crate_status_open_free_crate_key</key>
+	<string>ОТКРЫТЬ В %</string>
+	<key>crate_status_open_key</key>
+	<string>ОТКРЫТЫЙ</string>
+	<key>dialog_invitation_content_key</key>
+	<string>ПОЖАЛУЙСТА СКАЧАТЬ ПРОДОЛЖИТЬ ИГРАТЬ ЛУЧШЕ ОПЫТ!</string>
+	<key>dialog_policy_content_key</key>
+	<string>ПРОЧИТАЙТЕ И ПРИМИТЕ ПОЛИТИКУ КОНФИДЕНЦИАЛЬНОСТИ, ЧТОБЫ ПРОДОЛЖИТЬ ИГРУ.</string>
+	<key>dialog_try_level_content_key</key>
+	<string>ВЫ ХОТИТЕ, ЧТОБЫ ПОПРОБОВАТЬ ЭТОТ УРОВЕНЬ?</string>
+	<key>dialog_try_next_level_content_key</key>
+	<string>ХОТИТЕ ПОПРОБОВАТЬ СЛЕДУЮЩИЙ УРОВЕНЬ?</string>
+	<key>dialog_try_next_level_key</key>
+	<string>ХОТИТЕ ПОПРОБОВАТЬ НА СЛЕДУЮЩИЙ УРОВЕНЬ?</string>
+	<key>dialog_warning_map_content_key</key>
+	<string>ЭТАП ЗАБЛОКИРОВАН!</string>
+	<key>enemy_armor_key</key>
+	<string>НАЧАЛО, КАК ПУРПУР; ПОСТЕПЕННО СТАНОВИТСЯ СЕРЫМ ОТ ВРЕДА.
+НЕ РАЗРУШАЙТЕ ИХ ЛОБОВЫХ, ПОКА ВТОРАЯ ЗВЕЗДА POWERUP НЕ СОБИРАЕТСЯ.</string>
+	<key>enemy_basic_key</key>
+	<string>КАК ПРАВИЛО, НЕ ПРЕДСТАВЛЯЕТ СЕРЬЕЗНУЮ УГРОЗУ. ХОДЫ МЕДЛЕННЕЕ, ЧЕМ ИГРОКИ, ПОЖАРЫ НА ТОМ ЖЕ УРОВНЕ МОЩНОСТИ СКОРОСТЬ ПО УМОЛЧАНИЮ (НОЛЬ ЗВЕЗД).</string>
+	<key>enemy_fast_key</key>
+	<string>КАК ПРАВИЛО, БОЛЕЕ ОПАСНЫМ, ЧЕМ ШТАБ-КВАРТИРА ИГРОКА; ДОЛЖНЫ БЫТЬ ОТПРАВЛЕНЫ БЫСТРО.</string>
+	<key>enemy_power_key</key>
+	<string>НЕ ИДУТ НА ЛИНИЮ ОГНЯ.
+ПОРЕЗЫ ЧЕРЕЗ КИРПИЧНЫЕ СТЕНЫ БЫСТРЕЕ, ЧЕМ ДРУГИЕ РЕЗЕРВУАРЫ (ИЗВЕСТНЫЕ НА ЭТАПЕ 34).</string>
+	<key>env_brick_key</key>
+	<string>ТАНКИ И ПУЛИ НЕ МОГУТ ПРОЙТИ ЧЕРЕЗ ЭТО. МОЖЕТ БЫТЬ УНИЧТОЖЕН РАССТРЕЛИВАЛИ ЧЕТЫРЕ РАЗА (ДВА РАЗА, КОГДА НАСТУПЛЕНИЕ МОЩНОСТИ ЯРУСА ЧЕТЫРЕ / МАКС) НА ТОЙ ЖЕ СТОРОНЕ.</string>
+	<key>env_froze_key</key>
+	<string>ТАНКИ МОГУТ ПЕРЕМЕЩАТЬСЯ ПО НЕМУ. ПРИ ПОПЫТКЕ ОСТАНОВИТЬ ДВИЖЕНИЕ, ВАШ ТАНК БУДЕТ СКОЛЬЗИТЬ НЕМНОГО ВПЕРЕД ДО ОСТАНОВКИ.
+ВНИМАНИЕ: ЗАПУТЫВАЕТ ЛЕТАЮЩИЕ ПУЛИ.</string>
+	<key>env_grass_key</key>
+	<string>ЗАПУТЫВАЕТ ТАНКИ И ПУЛИ ПОД НИМ ПРИ ПЕРЕМЕЩЕНИИ ЧЕРЕЗ.
+ВНИМАНИЕ: TRICKY, ЧТОБЫ СКАЗАТЬ, ГДЕ ВРАГИ И ИХ ПУЛИ.</string>
+	<key>env_steel_key</key>
+	<string>ОСТАНОВКИ ТАНКИ И ПУЛИ ПОЛНОСТЬЮ.
+МОЖЕТ БЫТЬ УНИЧТОЖЕНО ТОЛЬКО ПРИ ПОПАДАНИИ В ДВА РАЗА ПО ОДНОЙ И ТОЙ ЖЕ СТОРОНЕ ОТ МАКСИМАЛЬНЫХ ПУЛЬ УРОВНЯ МОЩНОСТИ (УРОВНЯ ЧЕТЫРЕ).</string>
+	<key>env_water_key</key>
+	<string>ТАНКИ НЕ МОГУТ ПРОЙТИ ЧЕРЕЗ ВООБЩЕ. ПУЛИ МОГУТ ЛЕТАТЬ В ПОПЕРЕЧНИКЕ.</string>
+	<key>exit_dialog_no_key</key>
+	<string>НЕТ</string>
+	<key>exit_dialog_title_key</key>
+	<string>ВЫ ХОТИТЕ ВЫЙТИ?</string>
+	<key>exit_dialog_yes_key</key>
+	<string>ДА</string>
+	<key>feedback_dialog_content_key</key>
+	<string>ЧТО ВЫ ДУМАЕТЕ, ЧТО ДЕЛАЕТ ЭТУ ИГРУ 5-STARS?</string>
+	<key>feedback_dialog_title_key</key>
+	<string>ДАЙТЕ НАМ ЗНАТЬ!</string>
+	<key>friend_leave_room_key</key>
+	<string>ВАШ ДРУГ ВЫШЕЛ ИЗ КОМНАТЫ!</string>
+	<key>game_enemy_score_key</key>
+	<string>ВРАГ POINT</string>
+	<key>game_my_score_key</key>
+	<string>МОЯ ТОЧКА</string>
+	<key>guest_not_ready_key</key>
+	<string>ВАШ ДРУГ НЕ ГОТОВ!</string>
+	<key>help_scene_desc_key</key>
+	<string>КАКАЯ ИНФОРМАЦИЯ
+
+ВЫ ХОТЕЛИ БЫ ЗНАТЬ?</string>
+	<key>iap_amount_coin_key</key>
+	<string>%
+МОНЕТЫ</string>
+	<key>iap_dialog_free_key</key>
+	<string>БЕСПЛАТНО</string>
+	<key>iap_dialog_title_key</key>
+	<string>НУЖНО НЕСКОЛЬКО МОНЕТ?</string>
+	<key>iap_warning_text_key</key>
+	<string>РЫНОЧНЫЕ ПОЗИЦИИ НЕ УДАЛОСЬ ОБНОВИТЬ!
+
+ПОЖАЛУЙСТА, ПОПРОБУЙТЕ ПОЗЖЕ.</string>
+	<key>info_dialog_exit_match_content_key</key>
+	<string>ЖЕЛАЕШЬ EXIT MATCH?</string>
+	<key>info_dialog_invite_friend_key</key>
+	<string>ПРИГЛАШЕНИЕ
+ДРУГ</string>
+	<key>info_dialog_login_failed_key</key>
+	<string>ОШИБКА ВХОДА</string>
+	<key>info_dialog_login_success_key</key>
+	<string>ВХОД ВЫПОЛНЕН УСПЕШНО</string>
+	<key>info_dialog_no_ads_key</key>
+	<string>ИЗВИНИТЕ! ОТСУТСТВИЕ AD ДОСТУПНЫ.</string>
+	<key>info_dialog_purchase_cancelled_key</key>
+	<string>ОТМЕНЕН</string>
+	<key>info_dialog_purchase_failed_key</key>
+	<string>НЕ СМОГЛИ. ПОЖАЛУЙСТА, ПОПРОБУЙТЕ ПОЗЖЕ.</string>
+	<key>info_dialog_purchase_succeded_key</key>
+	<string>УДАЛОСЬ</string>
+	<key>info_dialog_select_pvp_mode_key</key>
+	<string>ВЫБОР РЕЖИМА ИГРЫ</string>
+	<key>invite_dialog_content_key</key>
+	<string>% ПРИГЛАШАЕМ ВАС ИГРАТЬ В ИГРУ.</string>
+	<key>invite_waiting_dialog_content_key</key>
+	<string>ЖДЕМ PLAYER ПРИНЯТЬ ПРИГЛАШЕНИЕ</string>
+	<key>loading_key</key>
+	<string>ЗАГРУЗКА</string>
+	<key>login_dialog_content_key</key>
+	<string>ВЫ ДОЛЖНЫ ВОЙТИ INTO FACEBOOK ЧТОБЫ ИСПОЛЬЗОВАТЬ ЭТУ ФУНКЦИЮ. ЗАРЕГИСТРИРУЙТЕСЬ СЕЙЧАС?</string>
+	<key>menu_campaign_key</key>
+	<string>КАМПАНИЯ</string>
+	<key>menu_quick_play_key</key>
+	<string>БЫСТРАЯ ИГРА</string>
+	<key>menu_scene_about_key</key>
+	<string>ОКОЛО</string>
+	<key>menu_scene_crate</key>
+	<string>CRATE</string>
+	<key>menu_scene_daily_gift_key</key>
+	<string>DAILY ПОДАРОК</string>
+	<key>menu_scene_help_key</key>
+	<string>ПОМОГИТЕ</string>
+	<key>menu_scene_highscore_key</key>
+	<string>РЕКОРД</string>
+	<key>menu_scene_multiplayer_key</key>
+	<string>MULTIPLAYER</string>
+	<key>menu_scene_pvp_key</key>
+	<string>PvP</string>
+	<key>menu_scene_setting_key</key>
+	<string>НАСТРОЙКИ</string>
+	<key>menu_scene_stage_key</key>
+	<string>СЦЕНА</string>
+	<key>menu_scene_stage_title_item</key>
+	<string>КУПИТЬ ПОДДЕРЖКА ПОЗИЦИИ</string>
+	<key>menu_scene_stage_title_tank</key>
+	<string>ВЫБЕРИТЕ БАК</string>
+	<key>menu_scene_start_key</key>
+	<string>НАЧНИТЕ</string>
+	<key>menu_scene_tank_upgrade</key>
+	<string>БАК ОБНОВЛЕНИЕ</string>
+	<key>no_bonus_left_key</key>
+	<string>НЕТ ПРЕДМЕТЫ ОСТАЛИСЬ!</string>
+	<key>not_enough_money_key</key>
+	<string>ВЫ НЕ ДОЛЖНЫ ХВАТИТ МОНЕТЫ ПРИОБРЕСТИ ЭТОТ БОНУС!</string>
+	<key>notification_text_1</key>
+	<string>👩🏾‍✈️Your танк был готов, общий War.💥💥💥</string>
+	<key>notification_text_2</key>
+	<string>👩🏾‍✈️Вражеские танки прибыли, готовы бороться прямо сейчас.💥💥💥</string>
+	<key>notification_text_3</key>
+	<string>👩🏾‍✈️Ваша база находится под атакой. Давайте бороться до конца.💥💥💥</string>
+	<key>null</key>
+	<string>_</string>
+	<key>paid_key</key>
+	<string>ПЛАТНЫЕ</string>
+	<key>pause_game_key</key>
+	<string>ПАУЗА</string>
+	<key>player_state_idle_key</key>
+	<string>IDLE</string>
+	<key>player_state_offline_key</key>
+	<string>НЕ В СЕТИ</string>
+	<key>player_state_online_key</key>
+	<string>ЗАНЯТЫЙ</string>
+	<key>popup_not_enough_coin_key</key>
+	<string>НЕДОСТАТОЧНО МОНЕТЫ!</string>
+	<key>popup_player_is_busy_key</key>
+	<string>ВАШ ДРУГ BUSY</string>
+	<key>rank_up_dialog_content_reward</key>
+	<string>RANK UP ВОЗНАГРАЖДЕНИЕ</string>
+	<key>rank_up_dialog_key</key>
+	<string>НА РАНГ ВЫШЕ</string>
+	<key>rank_user_0</key>
+	<string>ЧАСТНЫЙ</string>
+	<key>rank_user_1</key>
+	<string>ЧАСТНЫЙ
+ПЕРВЫЙ КЛАСС</string>
+	<key>rank_user_10</key>
+	<string>ПОЛКОВНИК</string>
+	<key>rank_user_11</key>
+	<string>BRIGADIER
+ГЕНЕРАЛЬНЫЙ</string>
+	<key>rank_user_12</key>
+	<string>BRIGADIER</string>
+	<key>rank_user_13</key>
+	<string>ЛЕЙТЕНАНТ
+ГЕНЕРАЛЬНЫЙ</string>
+	<key>rank_user_14</key>
+	<string>ГЕНЕРАЛЬНЫЙ</string>
+	<key>rank_user_15</key>
+	<string>ГЕНЕРАЛЬНЫЙ
+АРМИИ</string>
+	<key>rank_user_2</key>
+	<string>КАПРАЛ</string>
+	<key>rank_user_3</key>
+	<string>СЕРЖАНТ</string>
+	<key>rank_user_4</key>
+	<string>МАСТЕР
+СЕРЖАНТ</string>
+	<key>rank_user_5</key>
+	<string>2-Й
+ЛЕЙТЕНАНТ</string>
+	<key>rank_user_6</key>
+	<string>ЛЕЙТЕНАНТ</string>
+	<key>rank_user_7</key>
+	<string>КАПИТАН</string>
+	<key>rank_user_8</key>
+	<string>КРУПНЫЙ</string>
+	<key>rank_user_9</key>
+	<string>ЛЕЙТЕНАНТ
+ПОЛКОВНИК</string>
+	<key>rate_dialog_content_part1_key</key>
+	<string>5-СТАР РЕЙТИНГИ HELP США ПРЕДОСТАВЛЯТЬ БЕСПЛАТНЫЕ ОБНОВЛЕНИЯ!</string>
+	<key>rate_dialog_content_part2_key</key>
+	<string>КАК ВЫ ОЦЕНИВАЕТЕ США</string>
+	<key>rate_dialog_title_key</key>
+	<string>КАК ИГРА</string>
+	<key>reserved_for_ads_key</key>
+	<string>RESERVED AD ПРОСТРАНСТВО</string>
+	<key>result_open_crate_dialog_already_owned_tank_key</key>
+	<string>ДУБЛИРОВАНЫ БАК, ПРОДАННЫЙ ЗА% COIN</string>
+	<key>result_open_crate_dialog_booster_key</key>
+	<string>BOOSTER</string>
+	<key>result_open_crate_dialog_key_key</key>
+	<string>KEY</string>
+	<key>result_open_crate_dialog_title_key</key>
+	<string>ТЫ ПОЛУЧАЕШЬ</string>
+	<key>result_pvp_dialog_draw_key</key>
+	<string>РИСОВАТЬ</string>
+	<key>result_pvp_dialog_lose_key</key>
+	<string>ПОТЕРЯТЬ</string>
+	<key>result_pvp_dialog_win_key</key>
+	<string>ВЫИГРАТЬ</string>
+	<key>result_scene_boss</key>
+	<string>BOSS</string>
+	<key>result_scene_companion_key</key>
+	<string>КОМПАНЬОН</string>
+	<key>result_scene_gain_live_key</key>
+	<string>% ЖИЗНЬ</string>
+	<key>result_scene_me_key</key>
+	<string>ВЫ</string>
+	<key>result_scene_player_score_key</key>
+	<string>НАГРАДА</string>
+	<key>result_scene_record_key</key>
+	<string>ЗАПИСЬ</string>
+	<key>result_scene_stage_complete_key</key>
+	<string>СЦЕНА %</string>
+	<key>result_scene_time_key</key>
+	<string>ВРЕМЯ</string>
+	<key>resume_dialog_new_game_key</key>
+	<string>НОВАЯ ИГРА</string>
+	<key>resume_dialog_resume_key</key>
+	<string>РЕЗЮМЕ</string>
+	<key>resume_dialog_title_key</key>
+	<string>ХОТИТЕ ПРОДОЛЖИТЬ ПОСЛЕДНЯЯ ИГРА ИЛИ НАЧАТЬ НОВЫЙ?</string>
+	<key>revive_continue_key</key>
+	<string>ПРОДОЛЖИТЬ?</string>
+	<key>revive_not_enough_coin_key</key>
+	<string>НЕДОСТАТОЧНО МОНЕТЫ!
+ХОТИТЕ ПОЛУЧИТЬ БОЛЬШЕ?</string>
+	<key>revive_not_enough_dollar_key</key>
+	<string>НЕДОСТАТОЧНО ДОЛЛАР!
+ХОТИТЕ ПОЛУЧИТЬ БОЛЬШЕ?</string>
+	<key>server_disconnected_key</key>
+	<string>SERVER DISCONNECTED</string>
+	<key>server_response_error_key</key>
+	<string>SERVER ERROR РЕАКЦИЯ</string>
+	<key>setting_control_dpad_key</key>
+	<string>D-PAD</string>
+	<key>setting_control_joystick_key</key>
+	<string>ДЖОЙСТИК</string>
+	<key>setting_control_key</key>
+	<string>ДИСПЕТЧЕР:</string>
+	<key>setting_difficulty_key</key>
+	<string>ТРУДНОСТИ:</string>
+	<key>setting_easy_key</key>
+	<string>ЛЕГКО</string>
+	<key>setting_english_key</key>
+	<string>ENGLISH</string>
+	<key>setting_hard_key</key>
+	<string>ЖЕСТКИЙ</string>
+	<key>setting_language_key</key>
+	<string>ЯЗЫК:</string>
+	<key>setting_medium_key</key>
+	<string>СРЕДНИЙ</string>
+	<key>setting_music_key</key>
+	<string>МУЗЫКА:</string>
+	<key>setting_off_key</key>
+	<string>ОТ</string>
+	<key>setting_on_key</key>
+	<string>НА</string>
+	<key>setting_portugal_key</key>
+	<string>PORTUGUÊS</string>
+	<key>setting_red_key</key>
+	<string>КРАСНЫЙ</string>
+	<key>setting_russian_key</key>
+	<string>PУССКИЙ</string>
+	<key>setting_sound_key</key>
+	<string>ЗВУК:</string>
+	<key>setting_spanish_key</key>
+	<string>ESPAÑOL</string>
+	<key>setting_tank_key</key>
+	<string>БАК:</string>
+	<key>setting_thai_key</key>
+	<string>ไทย</string>
+	<key>setting_turkish_key</key>
+	<string>TÜRKÇE</string>
+	<key>setting_vietnamese_key</key>
+	<string>TIẾNG VIỆT</string>
+	<key>setting_yellow_key</key>
+	<string>ЖЕЛТЫЙ</string>
+	<key>shop_buy_item_key</key>
+	<string>ХОТИТЕ КУПИТЬ ЭТОТ ТОВАР?</string>
+	<key>shop_coin_key</key>
+	<string>МОНЕТА</string>
+	<key>shop_coin_pack_0</key>
+	<string>ЗАМОРОЖЕННЫЕ
+ПАКЕТ</string>
+	<key>shop_coin_pack_1</key>
+	<string>УНИЧТОЖИТЬ
+ПАКЕТ</string>
+	<key>shop_coin_pack_2</key>
+	<string>БЕССМЕРТНЫЙ
+ПАКЕТ</string>
+	<key>shop_coin_pack_3</key>
+	<string>ЧЕМПИОН
+ПАКЕТ</string>
+	<key>shop_dollar_key</key>
+	<string>ДОЛЛАР</string>
+	<key>shop_note_key</key>
+	<string>ПРИМЕЧАНИЕ: КУПИЛ БОНУСЫ ТОЛЬКО ВЫКУРИВАНИИ 1 УРОВЕНЬ</string>
+	<key>shop_title_key</key>
+	<string>МАГАЗИН</string>
+	<key>stage_note_key</key>
+	<string>ПАЛЬЦЕМ ВЛЕВО ИЛИ ВПРАВО, ЧТОБЫ ИЗМЕНИТЬ УРОВЕНЬ</string>
+	<key>stage_start_companion_dialog_prepare_key</key>
+	<string>ПОДГОТОВИТЬ</string>
+	<key>tank_collection_dialog_title_key</key>
+	<string>БАК СБОР</string>
+	<key>tank_upgrade_bought_key</key>
+	<string>КУПИЛ</string>
+	<key>tank_upgrade_info_0</key>
+	<string>ХИТПОИНТ</string>
+	<key>tank_upgrade_info_1</key>
+	<string>СИЛА</string>
+	<key>tank_upgrade_info_2</key>
+	<string>ФОТ RATE</string>
+	<key>tank_upgrade_info_3</key>
+	<string>СКОРОСТЬ</string>
+	<key>tank_user_info_dialog_content_0</key>
+	<string>ВРАГ KILLEDS:</string>
+	<key>tank_user_info_dialog_content_1</key>
+	<string>ЗВЕЗДЫ КОЛЛЕКЦИИ:</string>
+	<key>tank_user_info_dialog_content_2</key>
+	<string>ВЫСШАЯ СТАДИЯ:</string>
+	<key>tank_user_info_dialog_rank_reward_key</key>
+	<string>DAILY RANK ВОЗНАГРАЖДЕНИЕ</string>
+	<key>warning_key</key>
+	<string>ПРЕДУПРЕЖДЕНИЕ!!!</string>
+</dict>
+</plist>

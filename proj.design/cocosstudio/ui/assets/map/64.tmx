@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" tiledversion="1.0.1" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" nextobjectid="7">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <tileset firstgid="257" source="terrain-city.tsx"/>
+ <layer name="Terrain-0" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt0bENACAMA7D+/xV8ABfRmZWhqLKlKFuWRAAAAADQ0cjMh67ev63Mfujq/Zt//v4HAAAAAKC7A+l9ZME=
+  </data>
+ </layer>
+ <layer name="Terrain-0-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzTsKhEAQBUDvfzGFFVMTdxNP4OcAduAkA6ugyaBV8OiBoV9XFQAAAABPVEc+keZg/vtrC+jP9Rd2kqGA/tx4415XQH9uiayRac988k7zG/kV0A8AAAAA8DYbl3493Q==
+  </data>
+ </layer>
+ <layer name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztmQ0KgzAMRr3KdgN3w+0G88QrDMEJWWKTNvnge1AKxdokzz/qshBCori1dgfqNdbWHkC9Rna96ec/Wv7WOl2ta+9xGlr+1jpdrWvvcRr0U9uPRrafaLL9REM/tf0QQubxbO116NF5t7YdelTOXtA9nb2ge6KfsUTVs8p5oupZ5Tyzv3M1vPFU+871xkM/Y7HGIz0v0PzseUjPCzQ/ex5S3t79geh9aWucUt7e/YHofWlrnL33SfZ/AymO3vsk+7+BFAf9fEHxY61Tlh9tXm+dsvxo86Ku41mM8pMFWrxkDmj3pUbV69z73raOR68v4X1vW8ej15egn9951vGo9T/x86hd
+  </data>
+ </layer>
+ <layer name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgEJAAAMA6C9f+nHGANNYAIAAAAAAAAAAACw59qBYQ8rfAAC
+  </data>
+ </layer>
+ <layer name="Terrain-2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt0cEJhEAQRUFTczNw8w9Gj9KstL3IOA1VIP+mM75lAf61Hs/ntN3E82/H8z1tN/H8+syl2uduv2rnp95b7XO3X7XzU+/Vp3efbK+M6pNtvF+2V0b1yVaf37r2mX2r95993/6f+rzbJ+reJxr9PQAAAAAAgMwO9lugyQ==
+  </data>
+ </layer>
+ <objectgroup name="EntryPoints">
+  <object id="3" name="entry-2" x="192" y="0" width="32" height="32"/>
+  <object id="1" name="entry-1" x="0" y="0" width="32" height="32"/>
+  <object id="1" name="entry-3" x="384" y="0" width="32" height="32"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" tiledversion="1.0.1" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" nextobjectid="4">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <layer name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztllEKwyAQRHOV9gbNDdsbpCeO/Qik+5FR1t2dwDyQgYBR5oG6LEIIIX482ngmZjSvNtbEjEZ+uPxk+4j2le0j2le1D/n5Z7SvdxufU2bPR4z2tbXxPWX2fIT8cPnx9lOddv/efqrT7l9+uNLu31Ldd/X5Vp2I6r7l5xq9D7jeBxb54fZj8faNcrYPhLdvlNE+LPLD7cfCdv97Ybv/vcgPtx/L3Xwg7u7DIj/cfoQQ82E/x0ZhOcdQj709o/nR6x+gHnt7RvOj1z+Qn+v/9H6ftf4OFG8c6A==
+  </data>
+ </layer>
+ <layer name="Terrain-1-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAADwZCpAAAE=
+  </data>
+ </layer>
+ <layer name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgEJAAAMA6C9f+nHGANNYAIAAAAAAAAAAACw6dqBUQ8reAAC
+  </data>
+ </layer>
+ <layer name="Terrain-2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt2MsNgDAMBNE0Bx1A/6WQDqzF2GyieRLikIthJD4ZAwD2dMzjFM7u813zuIVzN3U++vT6uo+bbB839Nmrz2qiPquhj7fV5wec8HzzwvvHG3280ccb/6de2D/Yu8/fvdgfpU+n6j7VvbLzqNdf3Ss7D33oo6APfejzHn20/QO377doPbrfbt9v0Tp9eqnzPZ9W8jE=
+  </data>
+ </layer>
+ <objectgroup name="EntryPoints">
+  <object id="1" name="entry-3" x="384" y="0" width="32" height="32"/>
+  <object id="3" name="entry-2" x="192" y="0" width="32" height="32"/>
+  <object id="2" name="entry-1" x="0" y="0" width="32" height="32"/>
+ </objectgroup>
+</map>

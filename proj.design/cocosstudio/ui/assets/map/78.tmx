@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" infinite="0" nextlayerid="8" nextobjectid="7">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <tileset firstgid="257" source="terrain-city.tsx"/>
+ <layer id="1" name="Terrain-0" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztln0OgyAMxb3qvMG84XaD7UTjD0mIKeX1A4SlLyHVRCx5P227bbweae1nLK93cI81ojlRPdM6zlheH+Aea0RzouK8qnkn9Z26v4NPzTup79T9CD7ot309A8JWG6WizpbfV/PumhNhq41SUWfL76t5hvBB893Jh3qmxgfNNysfzmNpbbTwkvQGjg/nsbQ2WnhpevjMfBCvV+KDeG3lQ/HyrmtZKB/uOanHPepaFspH8n9JZg3vPoTOYpo6iMxp3n0I9dbq7+x8JPs5v1flo80v1Sg+2vw1Wfoyx4fKY62FSB5LX+b4UHmstXAEH8vMNSMfy8zVg89V3p5qZjjqLD37jqX/IzMcdRYpHysXrznBi4+Vi9ec8A98ND2spTv5aHpYS2i9957DtHWyJbTee89h2jrZkpVP71lhNJ/es0IvPtJ9vWJL2nlpBC/kPK+03kVcXZ+0vkVcXcEnFAqFQqFQKBTy0w/SJkH6
+  </data>
+ </layer>
+ <layer id="2" name="Terrain-0-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzrkJgEAARUH7b0zBI1XwSLQDLcBvDwsbOAMvf00DAAAAAAAAwKdNXerTUPmlhDktaU1b5ZcSznSlMU2VX0q405P2dFR+AQDgf14WQQ2R
+  </data>
+ </layer>
+ <layer id="3" name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztmm0KwjAMhncVvYHeUG8wT2z9W9rGN98deaAEhA3NY9Nk7Dj4vNp6D6Ilt7buiyjhbOsziJY82nouoia7++kpP3J299Nj6QdBqzZa+kHQqo1Z/PRE7D1LIvaeJeXnWkT0jpZE9I4S0PMkux/0PLH2I81XNj/SfHH9zOqE9Pei12vNM7M6Ic0ver3WPGP1v4s6H6zqQtT5kL1uo2Q/V1Ey90Gc75K5D+J8F+v5W3Jfjh/r+Vty36v6Qfb2Dn6QvY36oXLk8Vx5BeqHypHHc+UV2n6i0fYTDddPxn7iB9dPxn5iBDWvZosU1LyaLVJE57v8FEVRFBI837PxwPM9Gw9mHnb38+/n2Sk/OnwBpWfMQw==
+  </data>
+ </layer>
+ <layer id="4" name="Terrain-1-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAADwZCpAAAE=
+  </data>
+ </layer>
+ <layer id="5" name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgEJAAAMA6C9f+nHGANNYAIAAAAAAAAAAACw59qBYQ8rfAAC
+  </data>
+ </layer>
+ <layer id="6" name="Terrain-2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt2LENwCAMBVGvRjYI+w8T6khAFeU+uidZ7jkqt6q6xrTJTnOP6YudZtbFPgz2YbMPm33Y7MNmHzb7sNlHX0r/T2+n/Sf7sNmHzT5s9mGzD5t92OzDZh82+7Cd3md3f0vbu/tb2v77Pe3jPVeSxPMAqO5+VQ==
+  </data>
+ </layer>
+ <objectgroup id="7" name="EntryPoints">
+  <object id="3" name="entry-2" x="384" y="64" width="32" height="32"/>
+  <object id="1" name="entry-1" x="0" y="0" width="32" height="32"/>
+  <object id="1" name="entry-3" x="0" y="64" width="32" height="32"/>
+ </objectgroup>
+</map>

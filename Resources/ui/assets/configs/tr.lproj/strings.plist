@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>achievement_dialog_content_0</key>
+	<string>% DÜŞMAN TANKLARINI YOK</string>
+	<key>achievement_dialog_content_1</key>
+	<string>SİL SAHNE%</string>
+	<key>achievement_dialog_content_2</key>
+	<string>TANKI% DEFA UPGRADE</string>
+	<key>achievement_dialog_content_3</key>
+	<string>YILDIZLARI TOPLA</string>
+	<key>achievement_dialog_content_4</key>
+	<string>WIN% TIMES IN MODE PVP</string>
+	<key>achievement_dialog_reward_key</key>
+	<string>ÖDÜL</string>
+	<key>achievement_dialog_task_key</key>
+	<string>GÖREV</string>
+	<key>achievement_dialog_title_key</key>
+	<string>KAZANIM</string>
+	<key>app_rate_dialog_decline_key</key>
+	<string>HAYIR TEŞEKKÜRLER</string>
+	<key>app_rate_dialog_rate_key</key>
+	<string>ŞİMDİ OYLA!</string>
+	<key>app_rate_dialog_remind_key</key>
+	<string>BANA DAHA SONRA HATIRLAT</string>
+	<key>app_rate_dialog_title_key</key>
+	<string>SİZ OYUN DEPOSU 1990 KEYFİNİ İSE: KUVVET, OLUR ZİHİN ALMA BIR AN OY VERMESINI? DESTEĞİN İÇİN TEŞEKKÜRLER!</string>
+	<key>bonus_1000_key</key>
+	<string>ANINDA SIZE 1000 PUANLARI PRIM VERMEK.</string>
+	<key>bonus_2000_key</key>
+	<string>ANINDA SIZE 2000 PUANLARI PRIM VERMEK.</string>
+	<key>bonus_3000_key</key>
+	<string>ANINDA SIZE 3000 PUANLARI PRIM VERMEK.</string>
+	<key>bonus_500_key</key>
+	<string>ANINDA SIZE 500 SKORLARI PRIM VERMEK.</string>
+	<key>bonus_amphibious_key</key>
+	<string>SUDA HAREKET ETMELERINI TANKI YETENEĞI KAZANDIRIR.</string>
+	<key>bonus_four_shot_key</key>
+	<string>4 YOLLARLA YANGIN MERMIYE TANK YETENEĞI KAZANDIRIR.
+20 SANIYEDE BU YALNIZCA ETKILI.</string>
+	<key>bonus_grenade_key</key>
+	<string>EKRANDA ŞU ANDA HER DÜŞMANI YOK EDER.
+TANKLARINI YOK IÇIN VERILEN HIÇBIR KREDI SON AŞAMA BONUS PUAN TALLYSI SIRASINDA BU GÜÇLENDIRMENIN TARAFINDAN YOK.</string>
+	<key>bonus_gun_key</key>
+	<string>MERMI SAYISI BIR ANDA EKRANDA ATEŞ OLABILIR ARTTIRIN.</string>
+	<key>bonus_helmet_key</key>
+	<string>GEÇICI BIR GÜÇ ALANI VERIR HER AŞAMASININ BAŞINDA BIRI HARIÇ SON 10 SANIYE GIBI DÜŞMAN ÇEKIM DAN KALKANLAR,.</string>
+	<key>bonus_shovel_key</key>
+	<string>BUNU YOK ETMESINI DÜŞMANLARI ÖNLENMESI, TAŞA KALE ETRAFINDA TUĞLA DUVARLAR AÇAR.
+TÜM ZARARI ÖNCEDEN YAPILAN TAMIR. 10 SANIYE IÇINDE BU SADECE ETKILI.</string>
+	<key>bonus_small_key</key>
+	<string>YARI YARIYA TANKI KÜÇÜLTMEK ANCAK HAREKET HIZINI VE MERMI HIZINI IKI KATINA.
+20 SANIYEDE BU YALNIZCA ETKILI.</string>
+	<key>bonus_star_key</key>
+	<string>TEK KATMANINA GÖRE OFANSIF GÜCÜ ARTIRIR (: VARSAYILAN, IKINCI, ÜÇÜNCÜ VE DÖRDÜNCÜ SIRALAR VARDIR). GÜÇ SEVIYESI SADECE ÖLDÜĞÜNÜZDE VARSAYILAN SIFIRLANIR.</string>
+	<key>bonus_tank_key</key>
+	<string>EKSTRA BIR HAYAT VERIR.</string>
+	<key>bonus_time_key</key>
+	<string>ZAMANLAYICI GÜÇ-UP GEÇICI OLARAK TÜM DÜŞMAN TANKLARININ HAREKETINI DURDURARAK, 20 SANIYE IÇINDE ZAMAN DONAR.
+İPUCU: ZARARSIZ HER TANKI YAKLAŞMAK VE ONLARI YOK ETMEK IÇIN YETENEĞI SAĞLAR.</string>
+	<key>boss_factory_key</key>
+	<string>BU FABRIKA PATLAYABILIR ARAÇLAR ÜRETIMINDE UZMANLAŞMIŞ VE PATLAYABILIR VE MÜMKÜN OLDUĞUNCA ÇABUK FABRIKA YOK ARABALARLA DIKKATLI OLUN.</string>
+	<key>boss_helicopter_key</key>
+	<string>BU HELIKOPTER, KURŞUNLARIN AKIŞINI KAÇINARAK HAREKETLI VE ONU YOK ETMEK DÜZGÜN KONTRA, SENIN YÖNÜNDE SINEK VE ATEŞ EDECEK.</string>
+	<key>boss_marine_key</key>
+	<string>BU DENIZALTI SANA TABANI, YANGIN ROKETLER DOĞRU ÇEKECEĞIZ. BU NEDENLE, MÜMKÜN OLDUĞUNCA ÇABUK ONU YOK.</string>
+	<key>boss_tank_key</key>
+	<string>BU TANK ARAMAK VE SIZI IMHA VE HAYATTA KALMAK IÇIN EN IYI YOLU ARABA BAŞINDA BINALARIN ARKASINDAN DERI VE ATEŞ ETMEKTIR OLACAKTIR.</string>
+	<key>boss_train_key</key>
+	<string>BU TREN TREN BELLI DÖNGÜSÜ, SAKLANARAK ATEŞ VE DOĞRU ZAMANDA SALDIRAN ONU YOK ETMENIN EN IYI YOLU OLDUĞUNU EDECEKTIR.</string>
+	<key>button_5_star_key</key>
+	<string>5 YILDIZ</string>
+	<key>button_accept_key</key>
+	<string>KABUL ETMEK</string>
+	<key>button_add_friend_key</key>
+	<string>ARKADAŞ EKLE</string>
+	<key>button_auto_key</key>
+	<string>OTO</string>
+	<key>button_back_key</key>
+	<string>GERİ</string>
+	<key>button_below_4_star_key</key>
+	<string>1-4 STARS</string>
+	<key>button_bonus_key</key>
+	<string>BONUS</string>
+	<key>button_buy_key</key>
+	<string>AL</string>
+	<key>button_cancel_key</key>
+	<string>CANCEL</string>
+	<key>button_claim_key</key>
+	<string>İDDİA</string>
+	<key>button_continue_key</key>
+	<string>DEVAM ET</string>
+	<key>button_done_key</key>
+	<string>YAPILAN</string>
+	<key>button_double_reward_key</key>
+	<string>X2 DOLAR</string>
+	<key>button_download_key</key>
+	<string>İNDİR</string>
+	<key>button_email_key</key>
+	<string>E-POSTA</string>
+	<key>button_enemy_key</key>
+	<string>DÜŞMAN</string>
+	<key>button_env_key</key>
+	<string>ENVIR.</string>
+	<key>button_exit_key</key>
+	<string>ÇIKIŞ</string>
+	<key>button_facebook_key</key>
+	<string>FACEBOOK</string>
+	<key>button_fight_key</key>
+	<string>KAVGA</string>
+	<key>button_get_now_key</key>
+	<string>ŞİMDİ AL</string>
+	<key>button_go_key</key>
+	<string>GİT</string>
+	<key>button_invite_facebook_friend_key</key>
+	<string>FACEBOOK ARKADAŞ DAVET</string>
+	<key>button_invite_friend_key</key>
+	<string>DAVET ET</string>
+	<key>button_login_key</key>
+	<string>OTURUM AÇ</string>
+	<key>button_logout_key</key>
+	<string>ÇIKIŞ YAP</string>
+	<key>button_menu_key</key>
+	<string>MENÜ</string>
+	<key>button_next_key</key>
+	<string>SONRAKİ</string>
+	<key>button_no_key</key>
+	<string>HAYIR</string>
+	<key>button_ok_key</key>
+	<string>OK</string>
+	<key>button_play_key</key>
+	<string>OYNA</string>
+	<key>button_privacy_key</key>
+	<string>GİZLİLİK POLİTİKASI</string>
+	<key>button_ready_key</key>
+	<string>HAZIR</string>
+	<key>button_refresh_key</key>
+	<string>YENİLEME</string>
+	<key>button_refuse_key</key>
+	<string>ÇÖP</string>
+	<key>button_replay_key</key>
+	<string>TEKRAR</string>
+	<key>button_restore_key</key>
+	<string>ONARMAK</string>
+	<key>button_retry_key</key>
+	<string>DENE'YI</string>
+	<key>button_revive_key</key>
+	<string>CANLANDIRMAK</string>
+	<key>button_select_key</key>
+	<string>SEÇ</string>
+	<key>button_skip_key</key>
+	<string>ATLA</string>
+	<key>button_start_key</key>
+	<string>BAŞLAT</string>
+	<key>button_submit_key</key>
+	<string>SUNMAK</string>
+	<key>button_try_key</key>
+	<string>DENEYİN</string>
+	<key>button_website_key</key>
+	<string>İNTERNET SİTESİ</string>
+	<key>button_yes_key</key>
+	<string>EVET</string>
+	<key>button_youtube_key</key>
+	<string>YOUTUBE</string>
+	<key>choose_item_title_key</key>
+	<string>ETKINLEŞTIRMEK HANGİ BONUS İSTİYORUZ?</string>
+	<key>crate_dialog_box_already_collected_key</key>
+	<string>BU KUTU ZATEN TOPLADIĞI</string>
+	<key>crate_dialog_box_store_full_key</key>
+	<string>MAĞAZA DOLU!</string>
+	<key>crate_sceme_title_unlock_key</key>
+	<string>KİLİDİNİ AÇ</string>
+	<key>crate_scene_all_slot_full_key</key>
+	<string>TÜM YERLER DOLU! SERBEST YUKARI BIR YUVASI SONRAKİ CRATE KAYBETMEZSİNİZ İÇİN!</string>
+	<key>crate_scene_bronze_crate_key</key>
+	<string>BRONZ CRATE</string>
+	<key>crate_scene_button_begin_unlock_key</key>
+	<string>KİLİDİ ​​BEGIN</string>
+	<key>crate_scene_content_key</key>
+	<string>% 30 GET</string>
+	<key>crate_scene_content_random_booster</key>
+	<string>% RASGELE YÜKSELTİCİ</string>
+	<key>crate_scene_content_tank</key>
+	<string>% 1 HAZNEYİ ALMAK İÇİN NADİR ŞANS</string>
+	<key>crate_scene_diamond_crate_key</key>
+	<string>ELMAS CRATE</string>
+	<key>crate_scene_free_crate_key</key>
+	<string>SERBEST CRATE</string>
+	<key>crate_scene_gold_crate_key</key>
+	<string>ALTIN ​​CRATE</string>
+	<key>crate_scene_platinum_crate_key</key>
+	<string>PLATİN CRATE</string>
+	<key>crate_scene_silver_crate_key</key>
+	<string>GÜMÜŞ KASA</string>
+	<key>crate_scene_unlock_1_at_a_time_key</key>
+	<string>SİZ SADECE BİR ZAMANDA BİR KEZ KILIDINI AÇABILIR</string>
+	<key>crate_status_locked_key</key>
+	<string>KİLİTLİ</string>
+	<key>crate_status_open_free_crate_key</key>
+	<string>AÇILMAK %</string>
+	<key>crate_status_open_key</key>
+	<string>AÇIK</string>
+	<key>dialog_invitation_content_key</key>
+	<string>İNDİR DAHA İYİ TECRÜBE İLE YAPIYOR DEVAM ETMEK LÜTFEN!</string>
+	<key>dialog_policy_content_key</key>
+	<string>İNCELEME VE OYNAMAYA DEVAM ETMEK GİZLİLİK POLİTİKASI KABUL LÜTFEN.</string>
+	<key>dialog_try_level_content_key</key>
+	<string>DO BU LEVEL YTL İSTİYORUM?</string>
+	<key>dialog_try_next_level_content_key</key>
+	<string>BIR SONRAKI SEVIYEYE DENEMEK ISTIYOR MUSUNUZ?</string>
+	<key>dialog_try_next_level_key</key>
+	<string>SİZ SONRAKİ LEVEL TL İSTİYORMUSUN?</string>
+	<key>dialog_warning_map_content_key</key>
+	<string>SAHNE KİLİTLENDİĞİNDEN!</string>
+	<key>enemy_armor_key</key>
+	<string>MOR OLARAK BAŞLAYIN; YAVAŞ YAVAŞ ZARAR ÜZERINE GRI DÖNER.
+ONLARI BAŞ-ON 2 YILDIZ BIR GÜÇLENDIRME TOPLANANA KADAR YOK ETMEYIN.</string>
+	<key>enemy_basic_key</key>
+	<string>GENELLIKLE KÜÇÜK TEHDIT OLUŞTURMAKTADIR. OYUNCULARIN DAHA YAVAŞ GEÇER, AYNI HIZ VARSAYILAN GÜÇ SEVIYESINDE (SIFIR YILDIZ) ÇIKAN YANGINLARDA.</string>
+	<key>enemy_fast_key</key>
+	<string>BIR OYUNCUDAN DAHA MERKEZE GENELLIKLE DAHA TEHLIKELI; HIZLA SEVK EDILMELIDIR.</string>
+	<key>enemy_power_key</key>
+	<string>YANGIN ONLARIN ÇIZGISINE GITME.
+ÇABUK DIĞER TANKLARA GÖRE DAHA TUĞLA DUVARLAR ARACILIĞIYLA KESER (SAHNE 34'TE DIKKATE DEĞER).</string>
+	<key>env_brick_key</key>
+	<string>TANKLAR VE MERMILER BU GEÇEMEZ. AYNI TARAFTA (SALDIRGAN GÜÇ KATMANLI DÖRT / MAKS OLDUĞUNDA, IKI KEZ), ATIŞ DÖRT KEZ OLMAK IMHA EDILEBILIR.</string>
+	<key>env_froze_key</key>
+	<string>TANKLAR ÜZERINDE HAREKET EDEBILIR. HAREKET DURDURMAYA ÇALIŞTIĞINIZDA, TANK DURMADAN ÖNCE BIRAZ ILERI KAYAR.
+DIKKAT: OBFUSCATES MERMI UÇAN.</string>
+	<key>env_grass_key</key>
+	<string>ALTINDA OBFUSCATES TANKLAR VE MERMILER ILE TAŞIRKEN.
+DIKKAT: DÜŞMAN VE ONLARIN MERMI NEREDE TRICKY ANLATMAK IÇIN.</string>
+	<key>env_steel_key</key>
+	<string>TAMAMEN TANK VE MERMI DURDURUR.
+MAKSIMUM GÜÇ SEVIYESI MERMILERIN (KATMANLI DÖRT) TARAFINDAN AYNI TARAFTA IKI KEZ VURMAK YALNIZCA YOK EDILEBILIR.</string>
+	<key>env_water_key</key>
+	<string>TANKLAR HIÇ YOLUYLA DÖNÜŞ YAPAMAZ. MERMILER GENELINDE UÇABILIR.</string>
+	<key>exit_dialog_no_key</key>
+	<string>HAYIR</string>
+	<key>exit_dialog_title_key</key>
+	<string>EĞER İÇİN EXIT İSTİYORSUNUZ?</string>
+	<key>exit_dialog_yes_key</key>
+	<string>EVET</string>
+	<key>feedback_dialog_content_key</key>
+	<string>VERIRSIN BU OYUNU 5-STARS YAPMAK NE DÜŞÜNÜYOR?</string>
+	<key>feedback_dialog_title_key</key>
+	<string>BİLMEMİZE İZİN VER!</string>
+	<key>friend_leave_room_key</key>
+	<string>DOSTUNDUR KALDI ODASI!</string>
+	<key>game_enemy_score_key</key>
+	<string>DÜŞMAN NOKTASI</string>
+	<key>game_my_score_key</key>
+	<string>MY NOKTASI</string>
+	<key>guest_not_ready_key</key>
+	<string>DOSTUNDUR DEĞİL HAZIR HENÜZ!</string>
+	<key>help_scene_desc_key</key>
+	<string>HANGİ BİLGİLER
+
+YAPACAĞINIZ GIBI BILIYOR MUSUN?</string>
+	<key>iap_amount_coin_key</key>
+	<string>%
+PARALAR</string>
+	<key>iap_dialog_free_key</key>
+	<string>BEDAVA</string>
+	<key>iap_dialog_title_key</key>
+	<string>BAZI PARALAR İHTİYAÇ?</string>
+	<key>iap_warning_text_key</key>
+	<string>PAZAR UNSURLARI YENILENEMEDI!
+
+LÜTFEN DAHA SONRA TEKRAR DENEYİNİZ.</string>
+	<key>info_dialog_exit_match_content_key</key>
+	<string>EĞER İÇİN ÇIKIŞ MAÇ MI?</string>
+	<key>info_dialog_invite_friend_key</key>
+	<string>DAVET ET
+ARKADAŞ</string>
+	<key>info_dialog_login_failed_key</key>
+	<string>GİRİŞ BAŞARISIZ</string>
+	<key>info_dialog_login_success_key</key>
+	<string>GİRİŞ BAŞARILI</string>
+	<key>info_dialog_no_ads_key</key>
+	<string>AFEDERSİNİZ! MEVCUT YOK AD.</string>
+	<key>info_dialog_purchase_cancelled_key</key>
+	<string>İPTAL EDİLDİ</string>
+	<key>info_dialog_purchase_failed_key</key>
+	<string>BAŞARISIZ OLDU. LÜTFEN DAHA SONRA TEKRAR DENEYİNİZ.</string>
+	<key>info_dialog_purchase_succeded_key</key>
+	<string>SUCCEEDED</string>
+	<key>info_dialog_select_pvp_mode_key</key>
+	<string>SEÇ OYUN MODU</string>
+	<key>invite_dialog_content_key</key>
+	<string>% OYUNU OYNAMAK IÇIN DAVET EDIYORUZ.</string>
+	<key>invite_waiting_dialog_content_key</key>
+	<string>OYUNCU DAVETİYE KABUL ETMEK İÇİN BEKLEME</string>
+	<key>loading_key</key>
+	<string>YÜKLENİYOR</string>
+	<key>login_dialog_content_key</key>
+	<string>EĞER INTO FACEBOOK İÇİN KULLANIMI BU ÖZELLİK IMZALAMANIZ GEREKIYOR. ŞİMDİ GİRİŞ YAP?</string>
+	<key>menu_campaign_key</key>
+	<string>KAMPANYA</string>
+	<key>menu_quick_play_key</key>
+	<string>HIZLI OYNAT</string>
+	<key>menu_scene_about_key</key>
+	<string>HAKKINDA</string>
+	<key>menu_scene_crate</key>
+	<string>CRATE</string>
+	<key>menu_scene_daily_gift_key</key>
+	<string>GÜNLÜK HEDİYE</string>
+	<key>menu_scene_help_key</key>
+	<string>YARDIM</string>
+	<key>menu_scene_highscore_key</key>
+	<string>YÜKSEK SKOR</string>
+	<key>menu_scene_multiplayer_key</key>
+	<string>MULTIPLAYER</string>
+	<key>menu_scene_pvp_key</key>
+	<string>PvP</string>
+	<key>menu_scene_setting_key</key>
+	<string>AYARLAR</string>
+	<key>menu_scene_stage_key</key>
+	<string>SAHNE</string>
+	<key>menu_scene_stage_title_item</key>
+	<string>AL DESTEK EŞYALAR</string>
+	<key>menu_scene_stage_title_tank</key>
+	<string>SİZİN HAZNEYİ SEÇ</string>
+	<key>menu_scene_start_key</key>
+	<string>BAŞLAT</string>
+	<key>menu_scene_tank_upgrade</key>
+	<string>TANKI YÜKSELTME</string>
+	<key>no_bonus_left_key</key>
+	<string>NO ÖĞE KALDI!</string>
+	<key>not_enough_money_key</key>
+	<string>SİZ DONT VAR YETER PARALAR BU BONUS ALMAK İÇİN!</string>
+	<key>notification_text_1</key>
+	<string>👩🏾‍✈️Sizin tankı hazır, ortak Savaşı idi.💥💥💥</string>
+	<key>notification_text_2</key>
+	<string>👩🏾‍✈️Düşman tankları, şimdi savaşmaya hazır gelmiş.💥💥💥</string>
+	<key>notification_text_3</key>
+	<string>👩🏾‍✈️Baz saldırı altında. Bize sonuna kadar mücadele edelim.💥💥💥</string>
+	<key>null</key>
+	<string>_</string>
+	<key>paid_key</key>
+	<string>ÜCRETLİ</string>
+	<key>pause_game_key</key>
+	<string>DURAKLAT</string>
+	<key>player_state_idle_key</key>
+	<string>BOŞTA</string>
+	<key>player_state_offline_key</key>
+	<string>ÇEVRİMDIŞI</string>
+	<key>player_state_online_key</key>
+	<string>MEŞGUL</string>
+	<key>popup_not_enough_coin_key</key>
+	<string>YETERLİ PARA!</string>
+	<key>popup_player_is_busy_key</key>
+	<string>DOSTUNDUR MEŞGUL IS</string>
+	<key>rank_up_dialog_content_reward</key>
+	<string>SIRA YUKARI ÖDÜL</string>
+	<key>rank_up_dialog_key</key>
+	<string>RÜTBE</string>
+	<key>rank_user_0</key>
+	<string>ÖZEL</string>
+	<key>rank_user_1</key>
+	<string>ÖZEL
+BİRİNCİ SINIF</string>
+	<key>rank_user_10</key>
+	<string>ALBAY</string>
+	<key>rank_user_11</key>
+	<string>BRIGADIER
+GENEL</string>
+	<key>rank_user_12</key>
+	<string>BRIGADIER</string>
+	<key>rank_user_13</key>
+	<string>TEĞMEN
+GENEL</string>
+	<key>rank_user_14</key>
+	<string>GENEL</string>
+	<key>rank_user_15</key>
+	<string>GENEL
+ORDU İLİŞKİN</string>
+	<key>rank_user_2</key>
+	<string>ONBAŞI</string>
+	<key>rank_user_3</key>
+	<string>ÇAVUŞ</string>
+	<key>rank_user_4</key>
+	<string>USTA
+ÇAVUŞ</string>
+	<key>rank_user_5</key>
+	<string>2ND
+TEĞMEN</string>
+	<key>rank_user_6</key>
+	<string>TEĞMEN</string>
+	<key>rank_user_7</key>
+	<string>KAPTAN</string>
+	<key>rank_user_8</key>
+	<string>MAJÖR</string>
+	<key>rank_user_9</key>
+	<string>TEĞMEN
+ALBAY</string>
+	<key>rate_dialog_content_part1_key</key>
+	<string>5-YILDIZ DERECELENDİRME YARDIM ABD SERBEST GÜNCELLEMELERI SAĞLAMAK!</string>
+	<key>rate_dialog_content_part2_key</key>
+	<string>NASIL YAPAR MISIN ORANI ABD</string>
+	<key>rate_dialog_title_key</key>
+	<string>GİBİ OYUN</string>
+	<key>reserved_for_ads_key</key>
+	<string>SAKLIDIR AD UZAY</string>
+	<key>result_open_crate_dialog_already_owned_tank_key</key>
+	<string>% COIN İÇİN SATILDI YINELENDI TANKI,</string>
+	<key>result_open_crate_dialog_booster_key</key>
+	<string>YÜKSELTİCİ</string>
+	<key>result_open_crate_dialog_key_key</key>
+	<string>ANAHTAR</string>
+	<key>result_open_crate_dialog_title_key</key>
+	<string>KAZANIRSINIZ</string>
+	<key>result_pvp_dialog_draw_key</key>
+	<string>ÇİZMEK</string>
+	<key>result_pvp_dialog_lose_key</key>
+	<string>KAYBETMEK</string>
+	<key>result_pvp_dialog_win_key</key>
+	<string>WIN</string>
+	<key>result_scene_boss</key>
+	<string>PATRON</string>
+	<key>result_scene_companion_key</key>
+	<string>ARKADAŞ</string>
+	<key>result_scene_gain_live_key</key>
+	<string>% YAŞAM</string>
+	<key>result_scene_me_key</key>
+	<string>SEN</string>
+	<key>result_scene_player_score_key</key>
+	<string>ÖDÜL</string>
+	<key>result_scene_record_key</key>
+	<string>KAYIT</string>
+	<key>result_scene_stage_complete_key</key>
+	<string>SAHNE %</string>
+	<key>result_scene_time_key</key>
+	<string>ZAMAN</string>
+	<key>resume_dialog_new_game_key</key>
+	<string>YENİ OYUN</string>
+	<key>resume_dialog_resume_key</key>
+	<string>DEVAM ET</string>
+	<key>resume_dialog_title_key</key>
+	<string>GEÇEN OYUN VEYA BAŞLANGIÇ A YENİ BİR DEVAM ETMEK İÇİN İSTİYORUZ?</string>
+	<key>revive_continue_key</key>
+	<string>DEVAM ET?</string>
+	<key>revive_not_enough_coin_key</key>
+	<string>YETERLİ PARA!
+SİZ DAHA ALMAK İSTİYORSUNUZ?</string>
+	<key>revive_not_enough_dollar_key</key>
+	<string>YETERLİ DEĞİL DOLAR!
+SİZ DAHA ALMAK İSTİYORSUNUZ?</string>
+	<key>server_disconnected_key</key>
+	<string>SUNUCU DISCONNECTED</string>
+	<key>server_response_error_key</key>
+	<string>SUNUCU TEPKİ HATASI</string>
+	<key>setting_control_dpad_key</key>
+	<string>D-PAD</string>
+	<key>setting_control_joystick_key</key>
+	<string>OYUN KOLU</string>
+	<key>setting_control_key</key>
+	<string>KONTROL:</string>
+	<key>setting_difficulty_key</key>
+	<string>ZORLUK:</string>
+	<key>setting_easy_key</key>
+	<string>KOLAY</string>
+	<key>setting_english_key</key>
+	<string>ENGLISH</string>
+	<key>setting_hard_key</key>
+	<string>ZOR</string>
+	<key>setting_language_key</key>
+	<string>DİL:</string>
+	<key>setting_medium_key</key>
+	<string>ORTA</string>
+	<key>setting_music_key</key>
+	<string>MÜZİK:</string>
+	<key>setting_off_key</key>
+	<string>KAPALI</string>
+	<key>setting_on_key</key>
+	<string>AÇIK</string>
+	<key>setting_portugal_key</key>
+	<string>PORTUGUÊS</string>
+	<key>setting_red_key</key>
+	<string>KIRMIZI</string>
+	<key>setting_russian_key</key>
+	<string>PУССКИЙ</string>
+	<key>setting_sound_key</key>
+	<string>SES:</string>
+	<key>setting_spanish_key</key>
+	<string>ESPAÑOL</string>
+	<key>setting_tank_key</key>
+	<string>DEPOSU:</string>
+	<key>setting_thai_key</key>
+	<string>ไทย</string>
+	<key>setting_turkish_key</key>
+	<string>TÜRKÇE</string>
+	<key>setting_vietnamese_key</key>
+	<string>TIẾNG VIỆT</string>
+	<key>setting_yellow_key</key>
+	<string>SARI</string>
+	<key>shop_buy_item_key</key>
+	<string>BU ITEM SATIN ALMAK MI?</string>
+	<key>shop_coin_key</key>
+	<string>MADENİ PARA</string>
+	<key>shop_coin_pack_0</key>
+	<string>DONDURULMUŞ
+PAKETİ</string>
+	<key>shop_coin_pack_1</key>
+	<string>DESTROY
+PAKETİ</string>
+	<key>shop_coin_pack_2</key>
+	<string>ÖLÜMSÜZ
+PAKETİ</string>
+	<key>shop_coin_pack_3</key>
+	<string>ŞAMPİYON
+PAKETİ</string>
+	<key>shop_dollar_key</key>
+	<string>DOLAR</string>
+	<key>shop_note_key</key>
+	<string>NOT: 1 LEVEL İÇİN SON BOUGHT İKRAMİYE</string>
+	<key>shop_title_key</key>
+	<string>DÜKKAN</string>
+	<key>stage_note_key</key>
+	<string>SOLA VEYA SAĞA KAYDIRABILIR İÇİN DEĞİŞİM SEVİYE</string>
+	<key>stage_start_companion_dialog_prepare_key</key>
+	<string>HAZIRLAMAK</string>
+	<key>tank_collection_dialog_title_key</key>
+	<string>TANKI TOPLAMA</string>
+	<key>tank_upgrade_bought_key</key>
+	<string>SATIN ALMAK</string>
+	<key>tank_upgrade_info_0</key>
+	<string>DARBE NOKTASI</string>
+	<key>tank_upgrade_info_1</key>
+	<string>GÜÇ</string>
+	<key>tank_upgrade_info_2</key>
+	<string>SÜRGÜN ORANI</string>
+	<key>tank_upgrade_info_3</key>
+	<string>HIZ</string>
+	<key>tank_user_info_dialog_content_0</key>
+	<string>DÜŞMAN KILLEDS:</string>
+	<key>tank_user_info_dialog_content_1</key>
+	<string>YILDIZ KOLEKSİYONLAR:</string>
+	<key>tank_user_info_dialog_content_2</key>
+	<string>EN YÜKSEK AŞAMASI:</string>
+	<key>tank_user_info_dialog_rank_reward_key</key>
+	<string>GÜNLÜK SIRA ÖDÜL</string>
+	<key>warning_key</key>
+	<string>UYARI!!!</string>
+</dict>
+</plist>

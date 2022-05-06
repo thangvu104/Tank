@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>achievement_dialog_content_0</key>
+	<string>TIÊU DIỆT % TĂNG ĐỊCH</string>
+	<key>achievement_dialog_content_1</key>
+	<string>VƯỢT QUA ẢI %</string>
+	<key>achievement_dialog_content_2</key>
+	<string>NÂNG CẤP XE % LẦN</string>
+	<key>achievement_dialog_content_3</key>
+	<string>THU THẬP % SAO</string>
+	<key>achievement_dialog_content_4</key>
+	<string>CHIẾN THẮNG % TRẬN PvP</string>
+	<key>achievement_dialog_reward_key</key>
+	<string>PHẦN THƯỞNG</string>
+	<key>achievement_dialog_task_key</key>
+	<string>NHIỆM VỤ</string>
+	<key>achievement_dialog_title_key</key>
+	<string>THÀNH TÍCH</string>
+	<key>app_rate_dialog_decline_key</key>
+	<string>KHÔNG, CÁM ƠN</string>
+	<key>app_rate_dialog_rate_key</key>
+	<string>ĐÁNH GIÁ NGAY!</string>
+	<key>app_rate_dialog_remind_key</key>
+	<string>NHẮC TÔI SAU</string>
+	<key>app_rate_dialog_title_key</key>
+	<string>NẾU BẠN YÊU THÍCH XE TĂNG 1990: LỰC LƯỢNG, BẠN CÓ THỂ BỎ RA GIÂY LÁT ĐỂ ĐÁNH GIÁ NÓ KHÔNG? CÁM ƠN SỰ ỦNG HỘ CỦA BẠN!</string>
+	<key>bonus_1000_key</key>
+	<string>Cho bạn 1000 điểm ngay lập tức.</string>
+	<key>bonus_2000_key</key>
+	<string>Cho bạn 2000 điểm ngay lập tức.</string>
+	<key>bonus_3000_key</key>
+	<string>Cho bạn 3000 điểm ngay lập tức.</string>
+	<key>bonus_500_key</key>
+	<string>Cho bạn 500 điểm ngay lập tức.</string>
+	<key>bonus_amphibious_key</key>
+	<string>Tăng có thể đi được dưới nước.</string>
+	<key>bonus_four_shot_key</key>
+	<string>Giúp xe tăng của bạn có thể bắn đạn ra 4 hướng.
+Chỉ có tác dụng trong 20 giây.</string>
+	<key>bonus_grenade_key</key>
+	<string>Tiêu diệt tất cả xe tăng địch có trên bản đồ.
+Không được cộng điểm ở cuối màn khi sử dụng sức mạnh này.</string>
+	<key>bonus_gun_key</key>
+	<string>Tăng số lượng viên đạn có thể bắn ra đồng thời.</string>
+	<key>bonus_helmet_key</key>
+	<string>Tạo một lá chắn năng lượng bảo vệ khỏi đạn của xe tăng địch, giống như lúc mới bắt đầu mỗi màn nhưng kéo dài 10 giây.</string>
+	<key>bonus_shovel_key</key>
+	<string>Biến những bức tường gạch xung quanh pháo đài thành đá, ngăn cản kẻ thù phá hủy nó.
+Sửa chữa tất cả các thiệt hại đã gây ra trước đó. Chỉ có tác dụng trong 10 giây.</string>
+	<key>bonus_small_key</key>
+	<string>Thu nhỏ xe tăng của người chơi một nửa nhưng nhân đôi tốc độ chạy và tốc độ bắn.
+Chỉ có tác dụng trong 20 giây.</string>
+	<key>bonus_star_key</key>
+	<string>Tăng sức mạnh của xe tăng lên 1 cấp. (gồm tất cả 4 cấp). Cấp độ sức mạnh sẽ bị khôi phục về mặc định khi người chơi bị chết.</string>
+	<key>bonus_tank_key</key>
+	<string>Tăng thêm một mạng.</string>
+	<key>bonus_time_key</key>
+	<string>Ngưng đọng thời gian tạm thời trong 20 giây.
+Mẹo: Dùng sức mạnh này để tiếp cận xe tăng địch một cách an toàn để phá huỷ chúng.</string>
+	<key>boss_factory_key</key>
+	<string>Nhà máy này chuyên sản xuất xe phát nổ, cẩn thận với những chiếc xe phát nổ và tiêu diệt nhà máy càng nhanh càng tốt.</string>
+	<key>boss_helicopter_key</key>
+	<string>Chiếc trực thăng này sẽ luôn bay và bắn về hướng bạn, tránh né luồng đạn, di chuyển và phản công hợp lý để tiêu diệt nó.</string>
+	<key>boss_marine_key</key>
+	<string>Chiếc tàu ngầm này sẽ luôn bắn đạn về phía căn cứ, bắn tên lửa về phía bạn. Do đó tiêu diệt nó càng nhanh càng tốt.</string>
+	<key>boss_tank_key</key>
+	<string>Chiếc xe tăng này sẽ luôn tìm kiếm và tiêu diệt bạn, cách tốt nhất để sống sót là núp sau những công trình và bắn vào đầu xe.</string>
+	<key>boss_train_key</key>
+	<string>Chiếc tàu xe lửa này sẽ luôn bắn theo 1 chu kỳ nhất định, ẩn nấp và tấn công đúng thời điểm là cách tiêu tiêu diệt nó tốt nhất.</string>
+	<key>button_5_star_key</key>
+	<string>5 SAO</string>
+	<key>button_accept_key</key>
+	<string>ĐỒNG Ý</string>
+	<key>button_add_friend_key</key>
+	<string>THÊM BẠN</string>
+	<key>button_auto_key</key>
+	<string>TỰ ĐỘNG</string>
+	<key>button_back_key</key>
+	<string>QUAY LẠI</string>
+	<key>button_below_4_star_key</key>
+	<string>1-4 SAO</string>
+	<key>button_bonus_key</key>
+	<string>SỨC MẠNH</string>
+	<key>button_buy_key</key>
+	<string>MUA</string>
+	<key>button_cancel_key</key>
+	<string>CANCEL</string>
+	<key>button_claim_key</key>
+	<string>NHẬN</string>
+	<key>button_continue_key</key>
+	<string>TIẾP TỤC</string>
+	<key>button_done_key</key>
+	<string>HOÀN TẤT</string>
+	<key>button_double_reward_key</key>
+	<string>x2 DOLLAR</string>
+	<key>button_download_key</key>
+	<string>TẢI VỀ</string>
+	<key>button_email_key</key>
+	<string>EMAIL</string>
+	<key>button_enemy_key</key>
+	<string>ĐỊCH</string>
+	<key>button_env_key</key>
+	<string>MÔI TRƯỜNG</string>
+	<key>button_exit_key</key>
+	<string>THOÁT</string>
+	<key>button_facebook_key</key>
+	<string>FACEBOOK</string>
+	<key>button_fight_key</key>
+	<string>CHIẾN</string>
+	<key>button_get_now_key</key>
+	<string>LẤY NGAY</string>
+	<key>button_go_key</key>
+	<string>ĐI</string>
+	<key>button_invite_facebook_friend_key</key>
+	<string>MỜI BẠN FACEBOOK</string>
+	<key>button_invite_friend_key</key>
+	<string>MỜI</string>
+	<key>button_login_key</key>
+	<string>ĐĂNG NHẬP</string>
+	<key>button_logout_key</key>
+	<string>ĐĂNG XUẤT</string>
+	<key>button_menu_key</key>
+	<string>MENU</string>
+	<key>button_next_key</key>
+	<string>TIẾP TỤC</string>
+	<key>button_no_key</key>
+	<string>KHÔNG</string>
+	<key>button_ok_key</key>
+	<string>OK</string>
+	<key>button_play_key</key>
+	<string>CHƠI</string>
+	<key>button_privacy_key</key>
+	<string>CHÍNH SÁCH</string>
+	<key>button_ready_key</key>
+	<string>SẴN SÀNG</string>
+	<key>button_refresh_key</key>
+	<string>LÀM MỚI</string>
+	<key>button_refuse_key</key>
+	<string>TỪ CHỐI</string>
+	<key>button_replay_key</key>
+	<string>CHƠI LẠI</string>
+	<key>button_restore_key</key>
+	<string>KHÔI PHỤC</string>
+	<key>button_retry_key</key>
+	<string>THỬ LẠI</string>
+	<key>button_revive_key</key>
+	<string>HỒI SINH</string>
+	<key>button_select_key</key>
+	<string>CHỌN</string>
+	<key>button_skip_key</key>
+	<string>BỎ QUA</string>
+	<key>button_start_key</key>
+	<string>BẮT ĐẦU</string>
+	<key>button_submit_key</key>
+	<string>GỬI</string>
+	<key>button_try_key</key>
+	<string>THỬ</string>
+	<key>button_website_key</key>
+	<string>WEBSITE</string>
+	<key>button_yes_key</key>
+	<string>CÓ</string>
+	<key>button_youtube_key</key>
+	<string>YOUTUBE</string>
+	<key>choose_item_title_key</key>
+	<string>BẠN MUỐN DÙNG SỨC MẠNH NÀO?</string>
+	<key>crate_dialog_box_already_collected_key</key>
+	<string>BẠN ĐÃ CÓ HỘP NÀY RỒI</string>
+	<key>crate_dialog_box_store_full_key</key>
+	<string>KHO ĐÃ ĐẦY!</string>
+	<key>crate_sceme_title_unlock_key</key>
+	<string>MỞ KHOÁ</string>
+	<key>crate_scene_all_slot_full_key</key>
+	<string>KHO ĐẦY! MỞ 1 HỘP ĐỂ KHO CÓ THỂ CHỨA THÊM!</string>
+	<key>crate_scene_bronze_crate_key</key>
+	<string>HỘP ĐỒNG</string>
+	<key>crate_scene_button_begin_unlock_key</key>
+	<string>BẮT ĐẦU MỞ</string>
+	<key>crate_scene_content_key</key>
+	<string>30% NHẬN</string>
+	<key>crate_scene_content_random_booster</key>
+	<string>% VẬT PHẨM NGẪU NHIÊN</string>
+	<key>crate_scene_content_tank</key>
+	<string>CÓ CƠ HỘI NHẠN ĐƯỢC 1 XE LOẠI %</string>
+	<key>crate_scene_diamond_crate_key</key>
+	<string>HỘP KIM CƯƠNG</string>
+	<key>crate_scene_free_crate_key</key>
+	<string>HỘP MIỄN PHÍ</string>
+	<key>crate_scene_gold_crate_key</key>
+	<string>HỘP VÀNG</string>
+	<key>crate_scene_platinum_crate_key</key>
+	<string>HỘP BẠCH KIM</string>
+	<key>crate_scene_silver_crate_key</key>
+	<string>HỘP BẠC</string>
+	<key>crate_scene_unlock_1_at_a_time_key</key>
+	<string>BẠN CHỈ CÓ THỂ MỞ 1 KHOÁ CÙNG LÚC</string>
+	<key>crate_status_locked_key</key>
+	<string>KHOÁ</string>
+	<key>crate_status_open_free_crate_key</key>
+	<string>MỞ SAU %</string>
+	<key>crate_status_open_key</key>
+	<string>MỞ</string>
+	<key>dialog_invitation_content_key</key>
+	<string>VUI LÒNG TẢI TRÒ CHƠI ĐỂ TIẾP TỤC CHƠI VỚI TRẢI NGHIỆM TỐT HƠN.</string>
+	<key>dialog_policy_content_key</key>
+	<string>VUI LÒNG ĐỌC VÀ ĐỒNG Ý CÁC ĐIỀU KHOẢN ĐỂ TIẾP TỤC.</string>
+	<key>dialog_try_level_content_key</key>
+	<string>BẠN CÓ MUỐN CHƠI THỬ MÀN NÀY?</string>
+	<key>dialog_try_next_level_content_key</key>
+	<string>BẠN CÓ MUỐN CHƠI THỬ MÀN TIẾP THEO?</string>
+	<key>dialog_try_next_level_key</key>
+	<string>BẠN CÓ MUỐN THỬ MÀN TIẾP THEO?</string>
+	<key>dialog_warning_map_content_key</key>
+	<string>MÀN CHƠI ĐANG KHOÁ!</string>
+	<key>enemy_armor_key</key>
+	<string>Xuất hiện với màu tím, dần chuyển sang màu xám khi bị bắn. Đừng đối đầu trực tiếp với chúng cho đến khi lấy được Ngôi sao thứ 2.</string>
+	<key>enemy_basic_key</key>
+	<string>Một mối đe doạ không đáng kể. Di chuyển chậm hơn xe tăng của người chơi, tốc độ đạn bằng với tốc độ đạn ở cấp độ mặc định.</string>
+	<key>enemy_fast_key</key>
+	<string>Một mối đe doạ nguy hiểm hơn cho trụ sở chính. Nên tiêu diệt chúng thật nhanh.</string>
+	<key>enemy_power_key</key>
+	<string>Đừng chạy trên đường đạn của chúng.
+Phá huỷ tường gạch nhanh hơn những xe tăng khác (Nổi bật ở màn 34).</string>
+	<key>env_brick_key</key>
+	<string>Đạn và xe tăng không thể vượt qua. Có thể bị phá huỷ sau 4 lần bắn từ 1 phía (2 lần nếu cấp độ xe lơn hơn hoặc bằng 4).</string>
+	<key>env_froze_key</key>
+	<string>Xe tăng có thể vượt qua. Khi người chơi ngừng di chuyển sẽ bị trượt tới phía trước một đoạn ngắn.
+Cảnh báo: Cản trở tầm nhìn khó phát hiện đạn của kẻ thù.</string>
+	<key>env_grass_key</key>
+	<string>Che phủ xe tăng và đạn bên dưới nó.
+Cánh báo: Khó nắm được vị trí của kẻ thù và đạn của chúng.</string>
+	<key>env_steel_key</key>
+	<string>Hoàn toàn ngăn chặn xe tăng và đạn.
+Chỉ có thể bị phá huỷ nếu bị bắn 2 lần từ một phía với sức mạnh cấp độ lớn nhất.</string>
+	<key>env_water_key</key>
+	<string>Xe tăng không thể vượt qua. Đạn có thể bay ngang qua.</string>
+	<key>exit_dialog_no_key</key>
+	<string>KHÔNG</string>
+	<key>exit_dialog_title_key</key>
+	<string>BẠN CÓ MUỐN THOÁT GAME?</string>
+	<key>exit_dialog_yes_key</key>
+	<string>CÓ</string>
+	<key>feedback_dialog_content_key</key>
+	<string>BẠN NGHĨ TRÒ CHƠI CẦN CẢI TIẾN GÌ ĐỂ ĐƯỢC NHẬN 5 SAO?</string>
+	<key>feedback_dialog_title_key</key>
+	<string>PHẢN HỒI!</string>
+	<key>friend_leave_room_key</key>
+	<string>BẠN CHƠI ĐÃ RỜI PHÒNG!</string>
+	<key>game_enemy_score_key</key>
+	<string>ĐIỂM CỦA ĐỊCH</string>
+	<key>game_my_score_key</key>
+	<string>ĐIỂM CỦA TÔI</string>
+	<key>guest_not_ready_key</key>
+	<string>BẠN CHƠI CHƯA SẴN SÀNG!</string>
+	<key>help_scene_desc_key</key>
+	<string>BẠN MUỐN BIẾT THÔNG TIN NÀO?</string>
+	<key>iap_amount_coin_key</key>
+	<string>%
+XU</string>
+	<key>iap_dialog_free_key</key>
+	<string>MIỄN PHÍ</string>
+	<key>iap_dialog_title_key</key>
+	<string>CẦN THÊM XU?</string>
+	<key>iap_warning_text_key</key>
+	<string>KHÔNG THỂ TẢI CÁC VẬT PHẨM CỦA CỬA HÀNG!
+
+XIN HÃY THỬ LẠI SAU.</string>
+	<key>info_dialog_exit_match_content_key</key>
+	<string>BẠN MUỐN RỜI VÁN ĐẤU?</string>
+	<key>info_dialog_invite_friend_key</key>
+	<string>MỜI BẠN</string>
+	<key>info_dialog_login_failed_key</key>
+	<string>ĐĂNG NHẬP KHÔNG THÀNH CÔNG</string>
+	<key>info_dialog_login_success_key</key>
+	<string>LOGIN SUCCESSFUL</string>
+	<key>info_dialog_no_ads_key</key>
+	<string>XIN LỖI! KHÔNG CÓ QUẢNG CÁO NÀO</string>
+	<key>info_dialog_purchase_cancelled_key</key>
+	<string>HUỶ</string>
+	<key>info_dialog_purchase_failed_key</key>
+	<string>THẤT BẠI. XIN THỬ LẠI SAU.</string>
+	<key>info_dialog_purchase_succeded_key</key>
+	<string>THÀNH CÔNG</string>
+	<key>info_dialog_select_pvp_mode_key</key>
+	<string>CHỌN KIỂU CHƠI</string>
+	<key>invite_dialog_content_key</key>
+	<string>% mời bạn chơi cùng.</string>
+	<key>invite_waiting_dialog_content_key</key>
+	<string>ĐỢI NGƯỜI CHƠI NHẬN LỜI MỜI</string>
+	<key>loading_key</key>
+	<string>ĐANG TẢI</string>
+	<key>login_dialog_content_key</key>
+	<string>BẠN PHẢI NHẬP FACEBOOK. ĐĂNG NHẬP NGAY?</string>
+	<key>menu_campaign_key</key>
+	<string>CHIẾN DỊCH</string>
+	<key>menu_quick_play_key</key>
+	<string>CHƠI NHANH</string>
+	<key>menu_scene_about_key</key>
+	<string>GIỚI THIỆU</string>
+	<key>menu_scene_crate</key>
+	<string>HỘP QUÀ</string>
+	<key>menu_scene_daily_gift_key</key>
+	<string>QUÀ HẰNG NGÀY</string>
+	<key>menu_scene_help_key</key>
+	<string>TRỢ GIÚP</string>
+	<key>menu_scene_highscore_key</key>
+	<string>ĐIỂM CAO</string>
+	<key>menu_scene_multiplayer_key</key>
+	<string>MULTIPLAYER</string>
+	<key>menu_scene_pvp_key</key>
+	<string>PvP</string>
+	<key>menu_scene_setting_key</key>
+	<string>CÀI ĐẶT</string>
+	<key>menu_scene_stage_key</key>
+	<string>MÀN</string>
+	<key>menu_scene_stage_title_item</key>
+	<string>MUA VẬT PHẨM TRỢ GIÚP</string>
+	<key>menu_scene_stage_title_tank</key>
+	<string>CHỌN XE TĂNG</string>
+	<key>menu_scene_start_key</key>
+	<string>BẮT ĐẦU</string>
+	<key>menu_scene_tank_upgrade</key>
+	<string>NÂNG CẤP TĂNG</string>
+	<key>no_bonus_left_key</key>
+	<string>KHÔNG CÒN VẬT PHẢM NÀO!</string>
+	<key>not_enough_money_key</key>
+	<string>BẠN KHÔNG ĐỦ XU ĐỂ MUA SỨC MẠNH NÀY!</string>
+	<key>notification_text_1</key>
+	<string>👩🏾‍✈️Xe tăng bạn đã sẵn sàng. Tiếp tục chiến thôi.💥💥💥</string>
+	<key>notification_text_2</key>
+	<string>👩🏾‍✈️Xe tăng địch đã đến, sẵn sàng chiến đấu ngay bây giờ.💥💥💥</string>
+	<key>notification_text_3</key>
+	<string>👩🏾‍✈️Cơ sở của bạn đang bị tấn công. Chúng ta phải chiến đấu đến cùng.💥💥💥</string>
+	<key>null</key>
+	<string>_</string>
+	<key>paid_key</key>
+	<string>XONG</string>
+	<key>pause_game_key</key>
+	<string>TẠM NGỪNG</string>
+	<key>player_state_idle_key</key>
+	<string>RẢNH</string>
+	<key>player_state_offline_key</key>
+	<string>NGOẠI TUYẾN</string>
+	<key>player_state_online_key</key>
+	<string>BẬN</string>
+	<key>popup_not_enough_coin_key</key>
+	<string>KHÔNG ĐỦ XU</string>
+	<key>popup_player_is_busy_key</key>
+	<string>BẠN CHƠI ĐANG BẬN</string>
+	<key>rank_up_dialog_content_reward</key>
+	<string>THƯỞNG LÊN HẠNG</string>
+	<key>rank_up_dialog_key</key>
+	<string>LÊN CẤP</string>
+	<key>rank_user_0</key>
+	<string>BINH NHÌ</string>
+	<key>rank_user_1</key>
+	<string>BINH NHẤT</string>
+	<key>rank_user_10</key>
+	<string>ĐẠI TÁ</string>
+	<key>rank_user_11</key>
+	<string>CHUẨN TƯỚNG</string>
+	<key>rank_user_12</key>
+	<string>THIẾU TƯỚNG</string>
+	<key>rank_user_13</key>
+	<string>TRUNG TƯỚNG</string>
+	<key>rank_user_14</key>
+	<string>ĐẠI TƯỚNG</string>
+	<key>rank_user_15</key>
+	<string>THỐNG LĨNH</string>
+	<key>rank_user_2</key>
+	<string>HẠ SĨ</string>
+	<key>rank_user_3</key>
+	<string>TRUNG SĨ</string>
+	<key>rank_user_4</key>
+	<string>THƯỢNG SĨ</string>
+	<key>rank_user_5</key>
+	<string>THIẾU UÝ</string>
+	<key>rank_user_6</key>
+	<string>TRUNG UÝ</string>
+	<key>rank_user_7</key>
+	<string>ĐẠI UÝ</string>
+	<key>rank_user_8</key>
+	<string>THIẾU TÁ</string>
+	<key>rank_user_9</key>
+	<string>TRUNG TÁ</string>
+	<key>rate_dialog_content_part1_key</key>
+	<string>5-SAO GIÚP CHÚNG TÔI CẬP NHẬT TRÒ CHƠI TỐT HƠN!</string>
+	<key>rate_dialog_content_part2_key</key>
+	<string>BẠN MUỐN CHO MẤY SAO?</string>
+	<key>rate_dialog_title_key</key>
+	<string>THÍCH GAME</string>
+	<key>reserved_for_ads_key</key>
+	<string>DÀNH CHO QUẢNG CÁO</string>
+	<key>result_open_crate_dialog_already_owned_tank_key</key>
+	<string>ĐÃ CÓ TANK NÀY, BẠN ĐƯỢC NHẬN % XÈNG</string>
+	<key>result_open_crate_dialog_booster_key</key>
+	<string>VẬT PHẨM</string>
+	<key>result_open_crate_dialog_key_key</key>
+	<string>CHÌA KHOÁ</string>
+	<key>result_open_crate_dialog_title_key</key>
+	<string>BẠN NHẬN ĐƯỢC</string>
+	<key>result_pvp_dialog_draw_key</key>
+	<string>HÒA</string>
+	<key>result_pvp_dialog_lose_key</key>
+	<string>THUA</string>
+	<key>result_pvp_dialog_win_key</key>
+	<string>THẮNG</string>
+	<key>result_scene_boss</key>
+	<string>TRÙM</string>
+	<key>result_scene_companion_key</key>
+	<string>ĐỒNG ĐỘI</string>
+	<key>result_scene_gain_live_key</key>
+	<string>% MẠNG</string>
+	<key>result_scene_me_key</key>
+	<string>BẠN</string>
+	<key>result_scene_player_score_key</key>
+	<string>THƯỞNG</string>
+	<key>result_scene_record_key</key>
+	<string>KỶ LỤC</string>
+	<key>result_scene_stage_complete_key</key>
+	<string>MÀN %</string>
+	<key>result_scene_time_key</key>
+	<string>THỜI GIAN</string>
+	<key>resume_dialog_new_game_key</key>
+	<string>CHƠI MỚI</string>
+	<key>resume_dialog_resume_key</key>
+	<string>TIẾP TỤC</string>
+	<key>resume_dialog_title_key</key>
+	<string>BẠN MUỐN CHƠI TIẾP VÁN CŨ HAY CHƠI MỚI LẠI TỪ ĐẦU?</string>
+	<key>revive_continue_key</key>
+	<string>TIẾP TỤC?</string>
+	<key>revive_not_enough_coin_key</key>
+	<string>KHÔNG ĐỦ XU!
+BẠN CÓ MUỐN LẤY THÊM XU?</string>
+	<key>revive_not_enough_dollar_key</key>
+	<string>KHÔNG ĐỦ ĐÔ LA!
+BẠN CÓ MUỐN LẤY THÊM ĐÔ LA?</string>
+	<key>server_disconnected_key</key>
+	<string>SERVER DISCONNECTED</string>
+	<key>server_response_error_key</key>
+	<string>SERVER RESPONSE ERROR</string>
+	<key>setting_control_dpad_key</key>
+	<string>4 NÚT</string>
+	<key>setting_control_joystick_key</key>
+	<string>CẦN ĐIỀU KHIỂN</string>
+	<key>setting_control_key</key>
+	<string>ĐIỀU KHIỂN:</string>
+	<key>setting_difficulty_key</key>
+	<string>ĐỘ KHÓ:</string>
+	<key>setting_easy_key</key>
+	<string>DỄ</string>
+	<key>setting_english_key</key>
+	<string>ENGLISH</string>
+	<key>setting_hard_key</key>
+	<string>KHÓ</string>
+	<key>setting_language_key</key>
+	<string>NGÔN NGỮ:</string>
+	<key>setting_medium_key</key>
+	<string>TRUNG BÌNH</string>
+	<key>setting_music_key</key>
+	<string>NHẠC NỀN:</string>
+	<key>setting_off_key</key>
+	<string>TẮT</string>
+	<key>setting_on_key</key>
+	<string>BẬT</string>
+	<key>setting_portugal_key</key>
+	<string>PORTUGUÊS</string>
+	<key>setting_red_key</key>
+	<string>ĐỎ</string>
+	<key>setting_russian_key</key>
+	<string>PУССКИЙ</string>
+	<key>setting_sound_key</key>
+	<string>ÂM THANH:</string>
+	<key>setting_spanish_key</key>
+	<string>ESPAÑOL</string>
+	<key>setting_tank_key</key>
+	<string>XE TĂNG:</string>
+	<key>setting_thai_key</key>
+	<string>ไทย</string>
+	<key>setting_turkish_key</key>
+	<string>TÜRKÇE</string>
+	<key>setting_vietnamese_key</key>
+	<string>TIẾNG VIỆT</string>
+	<key>setting_yellow_key</key>
+	<string>VÀNG</string>
+	<key>shop_buy_item_key</key>
+	<string>BẠN MUỐN MUA VẬT PHẨM NÀY? </string>
+	<key>shop_coin_key</key>
+	<string>XU</string>
+	<key>shop_coin_pack_0</key>
+	<string>GÓI
+ĐÓNG BĂNG</string>
+	<key>shop_coin_pack_1</key>
+	<string>GÓI
+HUỶ DIỆT</string>
+	<key>shop_coin_pack_2</key>
+	<string>GÓI
+BẤT TỬ</string>
+	<key>shop_coin_pack_3</key>
+	<string>GÓI
+VÔ ĐỊCH</string>
+	<key>shop_dollar_key</key>
+	<string>DOLLAR</string>
+	<key>shop_note_key</key>
+	<string>CHÚ Ý: NHỮNG SỨC MẠNH NÀY CHỈ CÓ HIỆU LỰC TRONG MỘT MÀN</string>
+	<key>shop_title_key</key>
+	<string>CỬA HÀNG</string>
+	<key>stage_note_key</key>
+	<string>VUỐT SANG TRÁI/PHẢI ĐỂ ĐỔI MÀN CHƠI</string>
+	<key>stage_start_companion_dialog_prepare_key</key>
+	<string>CHUẨN BỊ</string>
+	<key>tank_collection_dialog_title_key</key>
+	<string>KHO TĂNG</string>
+	<key>tank_upgrade_bought_key</key>
+	<string>ĐÃ MUA</string>
+	<key>tank_upgrade_info_0</key>
+	<string>MÁU</string>
+	<key>tank_upgrade_info_1</key>
+	<string>SỨC MẠNH</string>
+	<key>tank_upgrade_info_2</key>
+	<string>TỈ LỆ BẮN</string>
+	<key>tank_upgrade_info_3</key>
+	<string>TỐC ĐỘ</string>
+	<key>tank_user_info_dialog_content_0</key>
+	<string>TĂNG ĐỊCH BỊ GIẾT:</string>
+	<key>tank_user_info_dialog_content_1</key>
+	<string>SAO THU THẬP:</string>
+	<key>tank_user_info_dialog_content_2</key>
+	<string>MÀN CHƠI CAO NHẤT:</string>
+	<key>tank_user_info_dialog_rank_reward_key</key>
+	<string>THƯỞNG HẠNG HẰNG NGÀY</string>
+	<key>warning_key</key>
+	<string>CẢNH BÁO!!!</string>
+</dict>
+</plist>

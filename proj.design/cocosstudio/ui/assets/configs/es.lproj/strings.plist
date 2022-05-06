@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>achievement_dialog_content_0</key>
+	<string>DESTRUIR% TANQUES ENEMIGOS</string>
+	<key>achievement_dialog_content_1</key>
+	<string>CLARO ETAPA%</string>
+	<key>achievement_dialog_content_2</key>
+	<string>ACTUALIZAR TANK% VECES</string>
+	<key>achievement_dialog_content_3</key>
+	<string>% STARS COLLECT</string>
+	<key>achievement_dialog_content_4</key>
+	<string>WIN% VECES EN EL MODO PVP</string>
+	<key>achievement_dialog_reward_key</key>
+	<string>RECOMPENSA</string>
+	<key>achievement_dialog_task_key</key>
+	<string>TAREA</string>
+	<key>achievement_dialog_title_key</key>
+	<string>LOGRO</string>
+	<key>app_rate_dialog_decline_key</key>
+	<string>NO, GRACIAS</string>
+	<key>app_rate_dialog_rate_key</key>
+	<string>CALIFICAR AHORA!</string>
+	<key>app_rate_dialog_remind_key</key>
+	<string>RECUÉRDAME MÁS TARDE</string>
+	<key>app_rate_dialog_title_key</key>
+	<string>SI TE GUSTA JUGAR DEPÓSITO DE 1990: LA FUERZA, ¿LE IMPORTARÍA TOMAR UN MOMENTO PARA VALORARLO? ¡GRACIAS POR SU APOYO!</string>
+	<key>bonus_1000_key</key>
+	<string>AL INSTANTE LE DARÁ 1000 PUNTOS ADICIONALES.</string>
+	<key>bonus_2000_key</key>
+	<string>AL INSTANTE LE DARÁ PUNTOS ADICIONALES DE 2000.</string>
+	<key>bonus_3000_key</key>
+	<string>AL INSTANTE LE DARÁ 3000 PUNTOS ADICIONALES.</string>
+	<key>bonus_500_key</key>
+	<string>AL INSTANTE LE DARÁ 500 PUNTOS ADICIONALES.</string>
+	<key>bonus_amphibious_key</key>
+	<string>DAR LA CAPACIDAD DEL TANQUE DE MOVERSE A TRAVÉS DEL AGUA.</string>
+	<key>bonus_four_shot_key</key>
+	<string>DAR A SU CAPACIDAD DE TANQUE DE FUEGO DE BALA DE 4 MANERAS.
+ESTO SÓLO ES EFICAZ EN 20 SEGUNDOS.</string>
+	<key>bonus_grenade_key</key>
+	<string>DESTRUYE TODOS LOS ENEMIGOS ACTUALMENTE EN LA PANTALLA.
+SIN CRÉDITO DADO PARA DESTRUIR LOS TANQUES ANIQUILADA POR ESTE ARRANQUE DURANTE LA FASE TERMINAL DE PUNTOS DE BONIFICACIÓN RECUENTO.</string>
+	<key>bonus_gun_key</key>
+	<string>AUMENTAR EL NÚMERO DE BALAS PUEDE SER DISPARADO EN LA PANTALLA A LA VEZ.</string>
+	<key>bonus_helmet_key</key>
+	<string>DA UN CAMPO DE FUERZA TEMPORAL QUE PROTEGE DE DISPAROS ENEMIGOS, COMO EL QUE ESTÁ EN EL COMIENZO DE CADA ETAPA, PERO ÚLTIMOS 10 SEGUNDOS.</string>
+	<key>bonus_shovel_key</key>
+	<string>ENCIENDE LAS PAREDES DE LADRILLO ALREDEDOR DE LA FORTALEZA DE PIEDRA, EVITANDO ENEMIGOS DE LA DESTRUCCIÓN DE LA MISMA.
+REPARACIONES DE TODO EL DAÑO HECHO PREVIAMENTE. ESTO SÓLO ES EFECTIVA EN 10 SEGUNDOS.</string>
+	<key>bonus_small_key</key>
+	<string>REDUCIR EL TAMAÑO DE SU TANQUE A LA MITAD, PERO EL DOBLE DE SU VELOCIDAD DE MOVIMIENTO Y LA VELOCIDAD DE UNA BALA.
+ESTO SÓLO ES EFICAZ EN 20 SEGUNDOS.</string>
+	<key>bonus_star_key</key>
+	<string>AUMENTA SU PODER OFENSIVO POR UNA GRADA (NIVELES SON: POR DEFECTO, SEGUNDO, TERCERO, Y CUARTO). EL NIVEL DE POTENCIA SÓLO SE RESTABLECE A LOS VALORES PREDETERMINADOS CUANDO SE MUERE.</string>
+	<key>bonus_tank_key</key>
+	<string>DA UNA VIDA EXTRA.</string>
+	<key>bonus_time_key</key>
+	<string>EL TEMPORIZADOR DE ENCENDIDO SE CONGELA TEMPORALMENTE VEZ EN 20 SEGUNDOS, PARANDO EL MOVIMIENTO TODOS LOS TANQUES ENEMIGOS.
+CONSEJO: PERMITE LA POSIBILIDAD DE ACERCARSE SIN CAUSAR DAÑO CADA TANQUE Y DESTRUIRLOS.</string>
+	<key>boss_factory_key</key>
+	<string>ESTA FÁBRICA SE ESPECIALIZA EN LA FABRICACIÓN DE VEHÍCULOS QUE ESTALLAN, Y TENGA CUIDADO CON LOS COCHES QUE EXPLOTAN Y DESTRUYEN LA FÁBRICA LO MÁS RÁPIDO POSIBLE.</string>
+	<key>boss_helicopter_key</key>
+	<string>ESTE HELICÓPTERO VOLARÁ Y DISPARAR EN SU DIRECCIÓN, EVITANDO EL FLUJO DE BALAS, EL MOVIMIENTO Y CONTRA-ATACAR ADECUADAMENTE PARA DESTRUIRLO.</string>
+	<key>boss_marine_key</key>
+	<string>ESTE SUBMARINO SE RODARÁ HACIA LOS COHETES DE BASE, DE FUEGO EN USTED. POR LO TANTO, DESTRUIRLA LO MÁS RÁPIDO POSIBLE.</string>
+	<key>boss_tank_key</key>
+	<string>ESTE TANQUE SE BUSCAN Y SE ANIQUILAN, Y LA MEJOR MANERA DE SOBREVIVIR ES OCULTAR DETRÁS DE LOS EDIFICIOS Y DISPARAR A LA CABEZA DEL COCHE.</string>
+	<key>boss_train_key</key>
+	<string>ESTE TREN DE TREN SE RODARÁ EN UN CICLO DETERMINADO, ESCONDERSE Y ATACAR EN EL MOMENTO ADECUADO ES LA MEJOR MANERA DE DESTRUIRLO.</string>
+	<key>button_5_star_key</key>
+	<string>5 ESTRELLAS</string>
+	<key>button_accept_key</key>
+	<string>ACEPTAR</string>
+	<key>button_add_friend_key</key>
+	<string>AÑADIR AMIGO</string>
+	<key>button_auto_key</key>
+	<string>AUTO</string>
+	<key>button_back_key</key>
+	<string>ESPALDA</string>
+	<key>button_below_4_star_key</key>
+	<string>1-4 STARS</string>
+	<key>button_bonus_key</key>
+	<string>PRIMA</string>
+	<key>button_buy_key</key>
+	<string>COMPRAR</string>
+	<key>button_cancel_key</key>
+	<string>CANCEL</string>
+	<key>button_claim_key</key>
+	<string>RECLAMACIÓN</string>
+	<key>button_continue_key</key>
+	<string>SEGUIR</string>
+	<key>button_done_key</key>
+	<string>HECHO</string>
+	<key>button_double_reward_key</key>
+	<string>DÓLAR X2</string>
+	<key>button_download_key</key>
+	<string>DESCARGAR</string>
+	<key>button_email_key</key>
+	<string>CORREO ELECTRÓNICO</string>
+	<key>button_enemy_key</key>
+	<string>ENEMIGO</string>
+	<key>button_env_key</key>
+	<string>AMBIENTALIZ.</string>
+	<key>button_exit_key</key>
+	<string>SALIDA</string>
+	<key>button_facebook_key</key>
+	<string>FACEBOOK</string>
+	<key>button_fight_key</key>
+	<string>LUCHA</string>
+	<key>button_get_now_key</key>
+	<string>COMENZAR DESCARGA</string>
+	<key>button_go_key</key>
+	<string>VAMOS</string>
+	<key>button_invite_facebook_friend_key</key>
+	<string>INVITE AMIGO DE FACEBOOK</string>
+	<key>button_invite_friend_key</key>
+	<string>INVITACIÓN</string>
+	<key>button_login_key</key>
+	<string>INICIAR SESIÓN</string>
+	<key>button_logout_key</key>
+	<string>CERRAR SESIÓN</string>
+	<key>button_menu_key</key>
+	<string>MENÚ</string>
+	<key>button_next_key</key>
+	<string>SIGUIENTE</string>
+	<key>button_no_key</key>
+	<string>NO</string>
+	<key>button_ok_key</key>
+	<string>OK</string>
+	<key>button_play_key</key>
+	<string>JUGAR</string>
+	<key>button_privacy_key</key>
+	<string>POLÍTICA DE PRIVACIDAD</string>
+	<key>button_ready_key</key>
+	<string>LISTO</string>
+	<key>button_refresh_key</key>
+	<string>ACTUALIZAR</string>
+	<key>button_refuse_key</key>
+	<string>NEGAR</string>
+	<key>button_replay_key</key>
+	<string>REPETICIÓN</string>
+	<key>button_restore_key</key>
+	<string>RESTAURAR</string>
+	<key>button_retry_key</key>
+	<string>PROCESAR DE NUEVO</string>
+	<key>button_revive_key</key>
+	<string>REANIMAR</string>
+	<key>button_select_key</key>
+	<string>SELECCIONE</string>
+	<key>button_skip_key</key>
+	<string>OMITIR</string>
+	<key>button_start_key</key>
+	<string>COMIENZO</string>
+	<key>button_submit_key</key>
+	<string>ENVIAR</string>
+	<key>button_try_key</key>
+	<string>TRATAR</string>
+	<key>button_website_key</key>
+	<string>SITIO WEB</string>
+	<key>button_yes_key</key>
+	<string>SI</string>
+	<key>button_youtube_key</key>
+	<string>YOUTUBE</string>
+	<key>choose_item_title_key</key>
+	<string>QUE BONO ¿QUIERE ACTIVAR?</string>
+	<key>crate_dialog_box_already_collected_key</key>
+	<string>ESTA CAJA TIENE YA RECOPILADOS</string>
+	<key>crate_dialog_box_store_full_key</key>
+	<string>TIENDA ESTÁ LLENO!</string>
+	<key>crate_sceme_title_unlock_key</key>
+	<string>DESBLOQUEAR</string>
+	<key>crate_scene_all_slot_full_key</key>
+	<string>TODAS LAS RANURAS COMPLETO! GRATIS DE UNA RANURA PARA NO PERDER LA CAJA SIGUIENTE!</string>
+	<key>crate_scene_bronze_crate_key</key>
+	<string>CAJÓN DE BRONCE</string>
+	<key>crate_scene_button_begin_unlock_key</key>
+	<string>COMIENZO DE DESBLOQUEO</string>
+	<key>crate_scene_content_key</key>
+	<string>30% GET</string>
+	<key>crate_scene_content_random_booster</key>
+	<string>% RANDOM BOOSTER</string>
+	<key>crate_scene_content_tank</key>
+	<string>OPORTUNIDAD RARO CONSEGUIR UN 1% TANK</string>
+	<key>crate_scene_diamond_crate_key</key>
+	<string>CAJÓN DE DIAMANTE</string>
+	<key>crate_scene_free_crate_key</key>
+	<string>CAJÓN DE LIBRE</string>
+	<key>crate_scene_gold_crate_key</key>
+	<string>CAJÓN DE ORO</string>
+	<key>crate_scene_platinum_crate_key</key>
+	<string>CAJÓN DE PLATINO</string>
+	<key>crate_scene_silver_crate_key</key>
+	<string>CAJÓN DE PLATA</string>
+	<key>crate_scene_unlock_1_at_a_time_key</key>
+	<string>SÓLO SE PUEDE DESBLOQUEAR UNA VEZ A LA VEZ</string>
+	<key>crate_status_locked_key</key>
+	<string>BLOQUEADO</string>
+	<key>crate_status_open_free_crate_key</key>
+	<string>ABIERTO EN%</string>
+	<key>crate_status_open_key</key>
+	<string>ABIERTO</string>
+	<key>dialog_invitation_content_key</key>
+	<string>POR FAVOR, DESCARGUE SEGUIR JUGANDO CON EXPERIENCIA MEJOR!</string>
+	<key>dialog_policy_content_key</key>
+	<string>POR FAVOR REVISE Y ACEPTAR NUESTRA POLÍTICA DE PRIVACIDAD PARA SEGUIR JUGANDO.</string>
+	<key>dialog_try_level_content_key</key>
+	<string>¿ES USTED DESEE PROBAR ESTE NIVEL?</string>
+	<key>dialog_try_next_level_content_key</key>
+	<string>¿QUIERES TRY SIGUIENTE NIVEL?</string>
+	<key>dialog_try_next_level_key</key>
+	<string>¿QUIERES PRUEBE EL SIGUIENTE NIVEL?</string>
+	<key>dialog_warning_map_content_key</key>
+	<string>ETAPA BLOQUEADA!</string>
+	<key>enemy_armor_key</key>
+	<string>INICIO COMO PÚRPURA; SE CONVIERTE GRADUALMENTE EN GRIS DAÑO.
+NO DESTRUIRLOS FRONTALMENTE HASTA QUE SE RECOGE EL MOMENTO DEL ENCENDIDO SEGUNDA ESTRELLA.</string>
+	<key>enemy_basic_key</key>
+	<string>EN GENERAL PLANTEA UNA AMENAZA MENOR. SE MUEVE MÁS LENTO QUE LOS JUGADORES, LOS INCENDIOS EN EL MISMO NIVEL DE POTENCIA PREDETERMINADO DE VELOCIDAD CERO (ESTRELLAS).</string>
+	<key>enemy_fast_key</key>
+	<string>GENERALMENTE MÁS PELIGROSO PARA LA SEDE QUE UN JUGADOR; DEBEN SER ENVIADOS RÁPIDAMENTE.</string>
+	<key>enemy_power_key</key>
+	<string>NO VAYA A SU LÍNEA DE FUEGO.
+LOS CORTES A TRAVÉS DE PAREDES DE LADRILLO MÁS RÁPIDO QUE OTROS TANQUES (NOTABLES EN LA ETAPA 34).</string>
+	<key>env_brick_key</key>
+	<string>LOS TANQUES Y LAS BALAS NO PUEDEN PASAR A TRAVÉS DE ESTE. PUEDE SER DESTRUIDO POR RECIBIR UN DISPARO CUATRO VECES (DOS VECES AL PODER OFENSIVO ES DE NIVEL CUATRO / MAX) EN EL MISMO LADO.</string>
+	<key>env_froze_key</key>
+	<string>LOS TANQUES PUEDEN MOVERSE EN ÉL. CUANDO INTENTA DEJAR DE MOVERSE, SU TANQUE SE DESLIZARÁ HACIA ADELANTE UN POCO ANTES DE DETENERSE.
+PRECAUCIÓN: OFUSCA VOLAR LAS BALAS.</string>
+	<key>env_grass_key</key>
+	<string>OFUSCA TANQUES Y BALAS DEBAJO DE ÉL CUANDO SE MUEVE A TRAVÉS.
+PRECAUCIÓN: DIFÍCIL DE DECIR DÓNDE LOS ENEMIGOS Y SUS BALAS SON.</string>
+	<key>env_steel_key</key>
+	<string>DETIENE TANQUES Y BALAS COMPLETAMENTE.
+SÓLO PUEDE SER DESTRUIDO SI GOLPEÓ DOS VECES EN EL MISMO LADO DE BALA NIVEL DE POTENCIA MÁXIMA (NIVEL CUATRO).</string>
+	<key>env_water_key</key>
+	<string>LOS TANQUES NO PUEDEN RECORRER A TRAVÉS EN ABSOLUTO. LAS BALAS PUEDEN VOLAR A TRAVÉS.</string>
+	<key>exit_dialog_no_key</key>
+	<string>NO</string>
+	<key>exit_dialog_title_key</key>
+	<string>¿QUIERES SALIR?</string>
+	<key>exit_dialog_yes_key</key>
+	<string>SI</string>
+	<key>feedback_dialog_content_key</key>
+	<string>¿QUÉ PIENSAS HARÍA QUE ESTE JUEGO DE 5 ESTRELLAS?</string>
+	<key>feedback_dialog_title_key</key>
+	<string>¡HAZNOS SABER!</string>
+	<key>friend_leave_room_key</key>
+	<string>SU AMIGO HA SALIDO DE LA HABITACIÓN!</string>
+	<key>game_enemy_score_key</key>
+	<string>ENEMIGO PUNTO</string>
+	<key>game_my_score_key</key>
+	<string>MI PUNTO</string>
+	<key>guest_not_ready_key</key>
+	<string>SU AMIGO NO ESTÁ LISTO TODAVÍA!</string>
+	<key>help_scene_desc_key</key>
+	<string>QUE LA INFORMACIÓN
+
+SÉ QUE USTED LE GUSTARÍA?</string>
+	<key>iap_amount_coin_key</key>
+	<string>%
+MONEDAS</string>
+	<key>iap_dialog_free_key</key>
+	<string>GRATIS</string>
+	<key>iap_dialog_title_key</key>
+	<string>NECESITO UN POCO DE MONEDAS?</string>
+	<key>iap_warning_text_key</key>
+	<string>OBJETOS EN EL MERCADO ERROR AL ACTUALIZAR!
+
+POR FAVOR, INTÉNTELO DE NUEVO MÁS TARDE.</string>
+	<key>info_dialog_exit_match_content_key</key>
+	<string>¿QUIERES SALIR DEL PARTIDO?</string>
+	<key>info_dialog_invite_friend_key</key>
+	<string>INVITACIÓN
+AMIGO</string>
+	<key>info_dialog_login_failed_key</key>
+	<string>ERROR DE INICIO DE SESION</string>
+	<key>info_dialog_login_success_key</key>
+	<string>INICIO DE SESIÓN CORRECTO</string>
+	<key>info_dialog_no_ads_key</key>
+	<string>¡LO SIENTO! NINGÚN ANUNCIO DISPONIBLE.</string>
+	<key>info_dialog_purchase_cancelled_key</key>
+	<string>CANCELADO</string>
+	<key>info_dialog_purchase_failed_key</key>
+	<string>HA FALLADO. POR FAVOR, INTÉNTELO DE NUEVO MÁS TARDE.</string>
+	<key>info_dialog_purchase_succeded_key</key>
+	<string>SUCCEEDED</string>
+	<key>info_dialog_select_pvp_mode_key</key>
+	<string>SELECCIONAR UN JUEGO MODO</string>
+	<key>invite_dialog_content_key</key>
+	<string>% INVITARLE A JUGAR EL JUEGO.</string>
+	<key>invite_waiting_dialog_content_key</key>
+	<string>EN ESPERA DE JUGADORES ACEPTAR LA INVITACIÓN</string>
+	<key>loading_key</key>
+	<string>CARGANDO</string>
+	<key>login_dialog_content_key</key>
+	<string>HAY QUE REGISTRARSE EN FACEBOOK PARA UTILIZAR ESTA CARACTERÍSTICA. ¿REGÍSTRATE?</string>
+	<key>menu_campaign_key</key>
+	<string>CAMPAÑA</string>
+	<key>menu_quick_play_key</key>
+	<string>JUEGO RÁPIDO</string>
+	<key>menu_scene_about_key</key>
+	<string>ACERCA DE</string>
+	<key>menu_scene_crate</key>
+	<string>CAJA</string>
+	<key>menu_scene_daily_gift_key</key>
+	<string>DIARIO REGALO</string>
+	<key>menu_scene_help_key</key>
+	<string>AYUDA</string>
+	<key>menu_scene_highscore_key</key>
+	<string>PUNTUACIÓN MÁS ALTA</string>
+	<key>menu_scene_multiplayer_key</key>
+	<string>MULTIPLAYER</string>
+	<key>menu_scene_pvp_key</key>
+	<string>PvP</string>
+	<key>menu_scene_setting_key</key>
+	<string>AJUSTES</string>
+	<key>menu_scene_stage_key</key>
+	<string>ESCENARIO</string>
+	<key>menu_scene_stage_title_item</key>
+	<string>ARTÍCULOS DE CONTACTO COMPRAR</string>
+	<key>menu_scene_stage_title_tank</key>
+	<string>SELECCIONE SU DEPÓSITO</string>
+	<key>menu_scene_start_key</key>
+	<string>COMIENZO</string>
+	<key>menu_scene_tank_upgrade</key>
+	<string>ACTUALIZACIÓN DE DEPÓSITO</string>
+	<key>no_bonus_left_key</key>
+	<string>NO HAY DATOS A LA IZQUIERDA!</string>
+	<key>not_enough_money_key</key>
+	<string>USTED NO TIENE MONEDAS SUFICIENTE PARA COMPRAR ESTE BONO!</string>
+	<key>notification_text_1</key>
+	<string>Su tanque estaba listo, Guerra común.💥💥💥</string>
+	<key>notification_text_2</key>
+	<string>tanques enemigos han llegado, listo para luchar ahora.💥💥💥</string>
+	<key>notification_text_3</key>
+	<string>Su base está bajo ataque. Vamos a luchar hasta el final.💥💥💥</string>
+	<key>null</key>
+	<string>_</string>
+	<key>paid_key</key>
+	<string>PAGADO</string>
+	<key>pause_game_key</key>
+	<string>PAUSA</string>
+	<key>player_state_idle_key</key>
+	<string>OCIOSO</string>
+	<key>player_state_offline_key</key>
+	<string>DESCONECTADO</string>
+	<key>player_state_online_key</key>
+	<string>OCUPADO</string>
+	<key>popup_not_enough_coin_key</key>
+	<string>NO BASTA MONEDA!</string>
+	<key>popup_player_is_busy_key</key>
+	<string>SU AMIGO ESTÁ OCUPADO</string>
+	<key>rank_up_dialog_content_reward</key>
+	<string>RECOMPENSA SUBIR DE RANGO</string>
+	<key>rank_up_dialog_key</key>
+	<string>SUBIR DE RANGO</string>
+	<key>rank_user_0</key>
+	<string>PRIVADO</string>
+	<key>rank_user_1</key>
+	<string>PRIVADO
+PRIMERA CLASE</string>
+	<key>rank_user_10</key>
+	<string>CORONEL</string>
+	<key>rank_user_11</key>
+	<string>BRIGADIER
+GENERAL</string>
+	<key>rank_user_12</key>
+	<string>BRIGADIER</string>
+	<key>rank_user_13</key>
+	<string>TENIENTE
+GENERAL</string>
+	<key>rank_user_14</key>
+	<string>GENERAL</string>
+	<key>rank_user_15</key>
+	<string>GENERAL
+DEL EJERCITO</string>
+	<key>rank_user_2</key>
+	<string>CORPORAL</string>
+	<key>rank_user_3</key>
+	<string>SARGENTO</string>
+	<key>rank_user_4</key>
+	<string>MAESTRO
+SARGENTO</string>
+	<key>rank_user_5</key>
+	<string>2º
+TENIENTE</string>
+	<key>rank_user_6</key>
+	<string>TENIENTE</string>
+	<key>rank_user_7</key>
+	<string>CAPITÁN</string>
+	<key>rank_user_8</key>
+	<string>MAYOR</string>
+	<key>rank_user_9</key>
+	<string>TENIENTE
+CORONEL</string>
+	<key>rate_dialog_content_part1_key</key>
+	<string>CLASIFICACIONES 5-STAR NOS AYUDAN A PROPORCIONAR ACTUALES GRATIS!</string>
+	<key>rate_dialog_content_part2_key</key>
+	<string>¿CÓMO CALIFICARÍA DE EE.UU.</string>
+	<key>rate_dialog_title_key</key>
+	<string>COMO EN EL JUEGO</string>
+	<key>reserved_for_ads_key</key>
+	<string>ESPACIO RESERVADO DC</string>
+	<key>result_open_crate_dialog_already_owned_tank_key</key>
+	<string>DUPLICATED TANK, SE VENDIÓ POR COIN%</string>
+	<key>result_open_crate_dialog_booster_key</key>
+	<string>AUMENTADOR DE PRESIÓN</string>
+	<key>result_open_crate_dialog_key_key</key>
+	<string>LLAVE</string>
+	<key>result_open_crate_dialog_title_key</key>
+	<string>USTED OBTIENE</string>
+	<key>result_pvp_dialog_draw_key</key>
+	<string>DIBUJAR</string>
+	<key>result_pvp_dialog_lose_key</key>
+	<string>PERDER</string>
+	<key>result_pvp_dialog_win_key</key>
+	<string>GANAR</string>
+	<key>result_scene_boss</key>
+	<string>JEFE</string>
+	<key>result_scene_companion_key</key>
+	<string>COMPAÑERO</string>
+	<key>result_scene_gain_live_key</key>
+	<string>% YAŞAM</string>
+	<key>result_scene_me_key</key>
+	<string>TÚ</string>
+	<key>result_scene_player_score_key</key>
+	<string>RECOMPENSA</string>
+	<key>result_scene_record_key</key>
+	<string>GRABAR</string>
+	<key>result_scene_stage_complete_key</key>
+	<string>SAHNE %</string>
+	<key>result_scene_time_key</key>
+	<string>HORA</string>
+	<key>resume_dialog_new_game_key</key>
+	<string>NUEVO JUEGO</string>
+	<key>resume_dialog_resume_key</key>
+	<string>CURRÍCULUM</string>
+	<key>resume_dialog_title_key</key>
+	<string>¿QUIERES REANUDAR EL ÚLTIMO JUEGO O INICIAR UNA NUEVA?</string>
+	<key>revive_continue_key</key>
+	<string>¿SEGUIR?</string>
+	<key>revive_not_enough_coin_key</key>
+	<string>NO BASTA MONEDA!
+¿QUIERES OBTENER MÁS?</string>
+	<key>revive_not_enough_dollar_key</key>
+	<string>DÓLAR NO BASTA!
+¿QUIERES OBTENER MÁS?</string>
+	<key>server_disconnected_key</key>
+	<string>SERVIDOR DESCONECTADO</string>
+	<key>server_response_error_key</key>
+	<string>ERROR DEL SERVIDOR RESPUESTA</string>
+	<key>setting_control_dpad_key</key>
+	<string>D-PAD</string>
+	<key>setting_control_joystick_key</key>
+	<string>PALANCA DE MANDO</string>
+	<key>setting_control_key</key>
+	<string>CONTROLADOR:</string>
+	<key>setting_difficulty_key</key>
+	<string>DIFICULTAD:</string>
+	<key>setting_easy_key</key>
+	<string>FÁCIL</string>
+	<key>setting_english_key</key>
+	<string>ENGLISH</string>
+	<key>setting_hard_key</key>
+	<string>DIFÍCIL</string>
+	<key>setting_language_key</key>
+	<string>IDIOMA:</string>
+	<key>setting_medium_key</key>
+	<string>MEDIO</string>
+	<key>setting_music_key</key>
+	<string>MÚSICA:</string>
+	<key>setting_off_key</key>
+	<string>APAGADO</string>
+	<key>setting_on_key</key>
+	<string>EN</string>
+	<key>setting_portugal_key</key>
+	<string>PORTUGUÊS</string>
+	<key>setting_red_key</key>
+	<string>ROJO</string>
+	<key>setting_russian_key</key>
+	<string>PУССКИЙ</string>
+	<key>setting_sound_key</key>
+	<string>SONIDO:</string>
+	<key>setting_spanish_key</key>
+	<string>ESPAÑOL</string>
+	<key>setting_tank_key</key>
+	<string>TANQUE:</string>
+	<key>setting_thai_key</key>
+	<string>ไทย</string>
+	<key>setting_turkish_key</key>
+	<string>TÜRKÇE</string>
+	<key>setting_vietnamese_key</key>
+	<string>TIẾNG VIỆT</string>
+	<key>setting_yellow_key</key>
+	<string>AMARILLO</string>
+	<key>shop_buy_item_key</key>
+	<string>¿QUIERES COMPRAR ESTE ARTÍCULO?</string>
+	<key>shop_coin_key</key>
+	<string>MONEDA</string>
+	<key>shop_coin_pack_0</key>
+	<string>CONGELADO
+PAQUETE</string>
+	<key>shop_coin_pack_1</key>
+	<string>DESTRUIR
+PAQUETE</string>
+	<key>shop_coin_pack_2</key>
+	<string>INMORTAL
+PAQUETE</string>
+	<key>shop_coin_pack_3</key>
+	<string>CAMPEÓN
+PAQUETE</string>
+	<key>shop_dollar_key</key>
+	<string>DÓLAR</string>
+	<key>shop_note_key</key>
+	<string>NOTA: SE COMPRAN BONOS SÓLO DURA 1 NIVEL</string>
+	<key>shop_title_key</key>
+	<string>TIENDA</string>
+	<key>stage_note_key</key>
+	<string>PASE A LA IZQUIERDA O DERECHA PARA CAMBIAR NIVEL</string>
+	<key>stage_start_companion_dialog_prepare_key</key>
+	<string>PREPARAR</string>
+	<key>tank_collection_dialog_title_key</key>
+	<string>EL TANQUE DE RECOLECCIÓN</string>
+	<key>tank_upgrade_bought_key</key>
+	<string>COMPRÓ</string>
+	<key>tank_upgrade_info_0</key>
+	<string>PUNTO DE GOLPE</string>
+	<key>tank_upgrade_info_1</key>
+	<string>PODER</string>
+	<key>tank_upgrade_info_2</key>
+	<string>TASA DE CAPTURA</string>
+	<key>tank_upgrade_info_3</key>
+	<string>VELOCIDAD</string>
+	<key>tank_user_info_dialog_content_0</key>
+	<string>ENEMIGO KILLEDS:</string>
+	<key>tank_user_info_dialog_content_1</key>
+	<string>COLECCIONES ESTRELLA:</string>
+	<key>tank_user_info_dialog_content_2</key>
+	<string>FASE SUPERIOR:</string>
+	<key>tank_user_info_dialog_rank_reward_key</key>
+	<string>PREMIO DIARIO RANK</string>
+	<key>warning_key</key>
+	<string>¡¡¡ADVERTENCIA!!!</string>
+</dict>
+</plist>

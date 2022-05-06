@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://mapeditor.org/dtd/1.0/map.dtd">
+<map version="1.0" tiledversion="1.0.1" orientation="orthogonal" renderorder="right-down" width="52" height="52" tilewidth="8" tileheight="8" nextobjectid="7">
+ <tileset firstgid="1" source="terrain-classic.tsx"/>
+ <tileset firstgid="257" source="terrain-city.tsx"/>
+ <layer name="Terrain-0" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAADwZCpAAAE=
+  </data>
+ </layer>
+ <layer name="Terrain-0-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAADwZCpAAAE=
+  </data>
+ </layer>
+ <layer name="Terrain-1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt1lEKAjEMhOG9it5Ab6g3WE9sX4RtYEnLBDvo/0Ho4wZmCbNtvUeb5+F1M7vf3uZ1eN3M7kc+3+W+H/BLLm2uwhtl96j6e9GtzV14o+weVX8vIh/vfACMU/u0ep9m71W2v9pX1fuk3qu4P/n03PIBUId+7d2vycc7HwDj6Nc9t35NPj23fADUoV9792vy8c4H/6G6p6226r+P90ft2x9nOaj5ZPvG+1PVV89yUPPJ9iWfMavyeQNPGc0Z
+  </data>
+ </layer>
+ <layer name="Terrain-1-a" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAAAADwZCpAAAE=
+  </data>
+ </layer>
+ <layer name="Terrain-1-z" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztzgEJAAAMA6C9f+nHGANNYAIAAAAAAAAAAACw59qBYQ8rfAAC
+  </data>
+ </layer>
+ <layer name="Terrain-2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztlsENwCAMA1mt3aDdf5j2iXgQoTgExJ2E/LPVWISWAgAAMJ/rP3el0X7Rec9/3kq9WH7RefTTZ7V+dtf2+3bX7HnST19bRuehRp3vnYcXdT79aJl9X1bX7H3E+3N2P14sv+g89b6y/KLz6KfPav3srtn7iPfnrH5a1P+3o6jzvfPwos6nHy2z78vqmr2PeH/O7seL5Redp95Xll90Hv30ye4HAAAggw9jPF0w
+  </data>
+ </layer>
+ <objectgroup name="EntryPoints">
+  <object id="3" name="entry-2" x="192" y="0" width="32" height="32"/>
+  <object id="1" name="entry-1" x="0" y="0" width="32" height="32"/>
+  <object id="1" name="entry-3" x="384" y="0" width="32" height="32"/>
+ </objectgroup>
+</map>
