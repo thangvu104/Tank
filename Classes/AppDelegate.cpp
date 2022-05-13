@@ -103,9 +103,12 @@ bool AppDelegate::applicationDidFinishLaunching() {
 
     register_all_packages();
 
-    auto scene = GameScene::createScene();
+    auto scene = GameScene::createScene(2, 59);
 
     director->runWithScene(scene);
+
+    FileUtils::getInstance()->addSearchPath("Resources");
+    //auto node = CSLoader::createNode("csb/ui/Scene/GameScene.csb");
 
     return true;
 }

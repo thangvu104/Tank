@@ -11,16 +11,6 @@
           </Folder>
         </Folder>
         <Folder Name="ui">
-          <Folder Name="images">
-            <Image Name="dry-clean.png" />
-            <Image Name="loading.jpg" />
-            <Image Name="menuBackground.jpg" />
-            <Image Name="Pause Background.png" />
-            <Image Name="Pause Window.png" />
-            <Image Name="rec.png" />
-            <Image Name="white-background.png" />
-          </Folder>
-          <Folder Name="scene" />
           <Folder Name="assets">
             <Folder Name="auto">
               <Folder Name="resources-ipadhd">
@@ -696,6 +686,21 @@
             <File Name="audience_network.dex" />
             <File Name="map.zip" />
           </Folder>
+          <Folder Name="images">
+            <Image Name="dry-clean.png" />
+            <Image Name="loading.jpg" />
+            <Image Name="menuBackground.jpg" />
+            <Image Name="Pause Background.png" />
+            <Image Name="Pause Window.png" />
+            <Image Name="rec.png" />
+            <Image Name="target.png" />
+            <Image Name="white-background.png" />
+            <Image Name="pause-button.png" />
+            <Image Name="play.png" />
+            <Image Name="heart.png" />
+            <Image Name="no-background.png" />
+          </Folder>
+          <Folder Name="scene" />
         </Folder>
       </RootFolder>
     </Group>
